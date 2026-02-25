@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1390755123407360055",
+    "content": "",
+    "username": "Solve・Central",
+    "avatar": "https://cdn.discordapp.com/avatars/1368647398548701356/a_da93794f57dbde287c6414a7e419ac3a.webp",
+    "embeds": [
+      {
+        "title": "➜ Recrutements Staff",
+        "type": "rich",
+        "description": "**Sélectionnez un pôle dans la liste pour postuler !**",
+        "url": null,
+        "timestamp": null,
+        "color": 15158332,
+        "fields": [
+          {
+            "name": "🟢 Ouverts",
+            "value": "_Aucun pour le moment_",
+            "inline": false
+          },
+          {
+            "name": "🔴 Fermés",
+            "value": "> • **<:solve_icon_konoha:1250821962499100786> Modération**\n> • **<:solve_icon_suna:1250821969927208970> Animation**\n> • **<:solve_icon_cascade:1250821966760247337> MJ**\n> • **<:solve_icon_kumo:1250821965351096521> Douane**\n> • **<:solve_icon_itachi:1250821976801542315> Builders**\n> • **<:solve_icon_ame:1250821964424024125> Developpeurs**\n> • **<:solve_icon_feu:1250821961488011405> Modélisateurs**\n> • **<:solve_icon_uchiwa:1250821979876102238> Community Manager**\n> • **<:solve_icon_uchiwa:1250821979876102238> Lore**",
+            "inline": false
+          },
+          {
+            "name": "⚠️ Condition",
+            "value": "Vous devez avoir le rôle <@&1252646455617785978> pour pouvoir candidater.",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/1383494896140292188/1432120594090164224/dadadxc.png?ex=68ffe5bd&is=68fe943d&hm=e5b2c2641cdb90e4aca4c4051b46216e727886312cf0370b437660a076e201f5&",
+          "proxyURL": "https://media.discordapp.net/attachments/1383494896140292188/1432120594090164224/dadadxc.png?ex=68ffe5bd&is=68fe943d&hm=e5b2c2641cdb90e4aca4c4051b46216e727886312cf0370b437660a076e201f5&",
+          "height": 345,
+          "width": 350
+        },
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Mise à jour automatique | Solve・Naruto"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1751652260401
+  }
+]

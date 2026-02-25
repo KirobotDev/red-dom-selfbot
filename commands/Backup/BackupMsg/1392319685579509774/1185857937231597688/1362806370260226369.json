@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1363546811679117464",
+    "content": "Tu as jusqu'à 19h pour ouvrir un ticket",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1745165293379
+  },
+  {
+    "id": "1363531370902589751",
+    "content": "🏆 The winner is <@456226577798135808>, you won the **Lot 4**.",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1745161612011
+  },
+  {
+    "id": "1362806619448016976",
+    "content": "<@&1359472672773505165>",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744988817799
+  },
+  {
+    "id": "1362806608320663644",
+    "content": "Lot 4",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1362806608081715411",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1362806370260226369/1362806608081715411/image.png?ex=6940240f&is=693ed28f&hm=f02ea6f88a047f20ad546d485e27fa621ad5332b9827b55b87ba00fd6063a94e&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1744988815146
+  },
+  {
+    "id": "1362806593166639315",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": "Lot 4",
+        "type": "rich",
+        "description": "<:dot:834850709487878184> Hosted by <@640980898438709308>\n<:dot:834850709487878184> Ended at: <t:1745161612:f> (<t:1745161612:R>)\n<:dot:834850709487878184> Winners: **1**\n\n<:dot:834850709487878184> Participants: **19**\n\n⏰ This giveaway has now ended, the list of winners can be found [here](https://discord.com/channels/1185857937231597688/1362806370260226369/1363531370902589751).",
+        "url": null,
+        "timestamp": null,
+        "color": 54491,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744988811533
+  },
+  {
+    "id": "1362806591254167763",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "You successfully created the giveaway in the <#1362806370260226369> channel.",
+        "url": null,
+        "timestamp": null,
+        "color": 316023,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Success",
+          "icon_url": "https://cdn.discordapp.com/attachments/737046647476846673/825811629622951936/tick.png?ex=69405f83&is=693f0e03&hm=f8eab911af9995f666d0b38d45835dca5b89c3fa83ab01c505fdcdc3ecb413ca&"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744988811077
+  }
+]

@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "1448740383952732284",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "J’ajoute des salons discord pour des mini jeux ? Compteur, casino etc",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "50",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "59",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Yep",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765477023829
+  },
+  {
+    "id": "1448378007021424800",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765390626436
+  },
+  {
+    "id": "1448377977720148131",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765390619450
+  },
+  {
+    "id": "1446996966188781640",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Nous créons un salon comment devenir admin conseillé ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "55",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "67",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765061360643
+  },
+  {
+    "id": "1446634581649260554",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764974961436
+  },
+  {
+    "id": "1446634560875139274",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764974956483
+  },
+  {
+    "id": "1443591159246229593",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Des cabanes louable serait une bonne idée ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "51",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "63",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764249352991
+  },
+  {
+    "id": "1443228839160320010",
+    "content": "Plusieurs cabanes que vous pouvez louer pendant un temps et profitez 🙂",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764162969151
+  },
+  {
+    "id": "1443228789319667743",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764162957268
+  },
+  {
+    "id": "1443228770361413792",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764162952748
+  },
+  {
+    "id": "1442495811941302393",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Aimeriez vous un nouvel Hôpital ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "57",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "68",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, trop !",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763988201843
+  },
+  {
+    "id": "1442133439565271110",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763901805536
+  },
+  {
+    "id": "1442133418799398982",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763901800585
+  },
+  {
+    "id": "1440055992170582037",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Une histoire dans la map vous intéresserez ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "61",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "79",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763406503480
+  },
+  {
+    "id": "1439701366149746880",
+    "content": "Je vois que vous êtes chaud un trailer se fera arriver dans la soirée ! @everyone",
+    "username": "Leythos.",
+    "avatar": "https://cdn.discordapp.com/avatars/1321578457469288522/bdc9c4d3c0cfc67ef6e57634cfa37da0.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763321954048
+  },
+  {
+    "id": "1439693617160650802",
+    "content": "@everyone",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763320106545
+  },
+  {
+    "id": "1439693600785956875",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1763320102641
+  },
+  {
+    "id": "1437527930292146419",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Que pensez vous du serveur Discord ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "55",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "89",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Très bien.",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762803766559
+  },
+  {
+    "id": "1437488012425433200",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762794249398
+  },
+  {
+    "id": "1437165591218622494",
+    "content": "Merci de voter correctement. <@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762717378192
+  },
+  {
+    "id": "1437165536772493454",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762717365211
+  },
+  {
+    "id": "1436402637443436544",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Voulez-vous que la neige débarque sur la map petit à petit ? ( Si oui samedi c’est le début )",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "81",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "90",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Ouiiiiii",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762535475837
+  },
+  {
+    "id": "1436379067149451334",
+    "content": "Encore 11",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762529856241
+  },
+  {
+    "id": "1436379053564235776",
+    "content": "89 votes ^^",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762529853002
+  },
+  {
+    "id": "1436096709519347783",
+    "content": "On fait les 100 réactions ?",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762462536936
+  },
+  {
+    "id": "1436071271883341906",
+    "content": "Vous êtes hype de fouuuu",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762456472131
+  },
+  {
+    "id": "1436040515161161838",
+    "content": "19 votes déjà !!",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762449139157
+  },
+  {
+    "id": "1436040260319445112",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762449078398
+  },
+  {
+    "id": "1436040244481888377",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762449074622
+  },
+  {
+    "id": "1432191607813439578",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Voulez-vous une mise à jour Noël ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "75",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "78",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, trop ! ☃️",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761531488136
+  },
+  {
+    "id": "1431829247088922645",
+    "content": "Merci de voter.",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761445094607
+  },
+  {
+    "id": "1431829235420495943",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761445091825
+  },
+  {
+    "id": "1431829218328842372",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761445087750
+  },
+  {
+    "id": "1428471264313344122",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Voulez vous que je refasse des tuto YouTube ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "41",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "45",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, je veux !",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760644489125
+  },
+  {
+    "id": "1428108986967789740",
+    "content": "Proposez vos idée en mp",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760558115475
+  },
+  {
+    "id": "1428108950582198303",
+    "content": "Les tuto sont sur le mode créatif 🙂 pour vous aider à créer votre map rp",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760558106800
+  },
+  {
+    "id": "1428108890310049984",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760558092430
+  },
+  {
+    "id": "1428108873184706752",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760558088347
+  },
+  {
+    "id": "1427765836730470461",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Serez-vous présent ce vendredi pour tester la mise à jour d’Halloween ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "41",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "49",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Ouiii",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760476302083
+  },
+  {
+    "id": "1427714369760006174",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Voulez-vous une chasse aux citrouilles ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "29",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "37",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, trop !",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760464031401
+  },
+  {
+    "id": "1427714365989327049",
+    "content": "Merci de votre participation !",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760464030502
+  },
+  {
+    "id": "1427680095492902962",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760455859779
+  },
+  {
+    "id": "1427680083723944019",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760455856973
+  },
+  {
+    "id": "1427403502241583265",
+    "content": "J’aimerais savoir on serais combien approximativement",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760389914809
+  },
+  {
+    "id": "1427403471535079587",
+    "content": "Répondez vraiment svp",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760389907488
+  },
+  {
+    "id": "1427403454468329522",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760389903419
+  },
+  {
+    "id": "1427403436345004074",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760389899098
+  },
+  {
+    "id": "1426596256628605038",
+    "content": "le 1 est plus dans le thème Halloween & Automne",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760197452457
+  },
+  {
+    "id": "1426596151720673501",
+    "content": "Quelle végétation préférez-vous ? <@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1426596151070560276",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1416802350009552936/1426596151070560276/image.png?ex=693c3833&is=693ae6b3&hm=538d4bdd2473c0829d4c91e74e212261b5c15210733ff07864e6d9bd223466b4&"
+      },
+      {
+        "id": "1426596151473344679",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1416802350009552936/1426596151473344679/image.png?ex=693c3833&is=693ae6b3&hm=8c6f096a98e106153b7eaa0e566dcc07d58b366bbfc9cc455dcb4ee88d33c62b&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1760197427445
+  },
+  {
+    "id": "1425539436027842581",
+    "content": "<@1333512887443914832>",
+    "username": "zeyrox_94",
+    "avatar": "https://cdn.discordapp.com/avatars/1120845427718242324/932cb6e4ddffe3b2f819bbc26817aeec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759945486791
+  },
+  {
+    "id": "1425538582449356931",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Refonte du serveur discord ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "37",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "48",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Yep",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759945283282
+  },
+  {
+    "id": "1425176092611969187",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759858858970
+  },
+  {
+    "id": "1425176065827147880",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759858852584
+  },
+  {
+    "id": "1424298853443567618",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Serez-vous présents le Mercredi 15 Octobre afin de découvrir la mise à jour d’Halloween ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "31",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "39",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Yep",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759649708854
+  },
+  {
+    "id": "1423936530170384475",
+    "content": "Peut importe l’heure",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759563324254
+  },
+  {
+    "id": "1423936515653898291",
+    "content": "Venez essayer le mercredi 15 octobre",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759563320793
+  },
+  {
+    "id": "1423936486394298452",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759563313817
+  },
+  {
+    "id": "1423936464684585020",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759563308641
+  },
+  {
+    "id": "1423936287454400626",
+    "content": "Je vous fait ca dans l’après midi si jai le temps",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759563266386
+  },
+  {
+    "id": "1423936245070823424",
+    "content": "35 Réactions déjà…",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759563256281
+  },
+  {
+    "id": "1423388358167756852",
+    "content": "a vous de voir 😉",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759432629864
+  },
+  {
+    "id": "1423388347048398948",
+    "content": "je part dimanche donc",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759432627213
+  },
+  {
+    "id": "1423388302337380412",
+    "content": "<@&1413246661819498637> 30 Réactions = Spoil Maj Halloween",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759432616553
+  },
+  {
+    "id": "1423387673338314934",
+    "content": "Spoil ?",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759432466588
+  },
+  {
+    "id": "1423384788890288138",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Voulez-vous une mise à jour Halloween ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "40",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "44",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui trop !",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759431778882
+  },
+  {
+    "id": "1423022397325447248",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759345378000
+  },
+  {
+    "id": "1423022372088451102",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759345371983
+  },
+  {
+    "id": "1422643444932935831",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Voulez-vous un aéroport dans la map ? ( il ne serviras pas de spawn, du moins pour le moment )",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "27",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "31",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759255028709
+  },
+  {
+    "id": "1422522643839582219",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759226227484
+  },
+  {
+    "id": "1422522629318901760",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759226224022
+  },
+  {
+    "id": "1422282888799453317",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Fait-je un trailer sur Skye City RP ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "37",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "44",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, ce serais cool",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759169065428
+  },
+  {
+    "id": "1422097649770823723",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759124901002
+  },
+  {
+    "id": "1422097631852892203",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759124896730
+  },
+  {
+    "id": "1422097506778615919",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "L’équipe staff est elle a la hauteur de la map ? ( est elle bien )",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "14",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "37",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "3",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Non",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759124866910
+  },
+  {
+    "id": "1421950194416615445",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759089744906
+  },
+  {
+    "id": "1421950177761038347",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759089740935
+  },
+  {
+    "id": "1421429252162719856",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Nouveau Concessionnaire + Nouveau Bâtiment ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "21",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "25",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758965542594
+  },
+  {
+    "id": "1421412615841906780",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758961576186
+  },
+  {
+    "id": "1421412600268197959",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758961572473
+  },
+  {
+    "id": "1421228968908034069",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Vous préférez faire une session avec la nouvelle mise à jour ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "27",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "33",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, trop !",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758917791345
+  },
+  {
+    "id": "1421159675763626004",
+    "content": "@everyone",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758901270572
+  },
+  {
+    "id": "1421159664518955060",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758901267891
+  },
+  {
+    "id": "1421010490259410965",
+    "content": "Session toujours prévue membres le report de la mise à jour !",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758865701976
+  },
+  {
+    "id": "1420860623599964250",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Serez-vous présents à la session Vendredi à 17h15 ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "27",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "49",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui, je le serais",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758829970980
+  },
+  {
+    "id": "1420498244072505467",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758743572968
+  },
+  {
+    "id": "1420498227857461248",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758743569102
+  },
+  {
+    "id": "1420411970091352095",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Changement des trottoirs ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "27",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "33",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Yep",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758723003648
+  },
+  {
+    "id": "1420396878067011696",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758719405429
+  },
+  {
+    "id": "1420396868789342260",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758719403217
+  },
+  {
+    "id": "1419924501398818879",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Aimez-vous les dernières mise à jour ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "30",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "32",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oep, je kiff!",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758606782055
+  },
+  {
+    "id": "1419562840481730591",
+    "content": "Et ce n’est pas encore finis <a:A_heart4:1413825570655043595>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758520555373
+  },
+  {
+    "id": "1419562670914273300",
+    "content": "<@&1413246661819498637>",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758520514945
+  },
+  {
+    "id": "1419562651981447178",
+    "content": "",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758520510431
+  }
+]

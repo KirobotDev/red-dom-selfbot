@@ -1,0 +1,572 @@
+[
+  {
+    "id": "1399887817735405740",
+    "content": "",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Que préférez-vous ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "631",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "858",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Une augmentation globale des HP",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_id",
+            "value": "970659591710978088",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_name",
+            "value": "status_on",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753829664406
+  },
+  {
+    "id": "1399525574753386569",
+    "content": "||@everyone <@&1252646455617785978> ||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753743298949
+  },
+  {
+    "id": "1399525402543915068",
+    "content": "",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753743257891
+  },
+  {
+    "id": "1399525213607297195",
+    "content": "> # `SONDAGE PVP` <:solve_reload:1289153175093248036>  \n\n\n> <:arrow:1049415854258933840> Nous avons pris en compte certains de vos retours concernant des mécaniques **oneshot ** permises par des **dégâts trop élevés**.\n> \n> Nous revenons de très loin et grâce en grande partie à l'équipe équilibrage, nous avons aujourd'hui une version du PVP plus que **satisfaisante**. \n> \n> Cependant, dans notre démarche globale d'optimisation continue du serveur, nous ne cessons d'explorer de nouvelles possibilités et tester de nouvelles choses. \n> \n> C'est pourquoi nous vous demandons aujourd'hui de nous donner votre avis sur le **futur du PVP**.\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n\n> <:solve_num:1251525860184293427> Nous vous demandons donc de bien vouloir **voter au sondage ci-dessous** afin de savoir si vous souhaitez **ou non** un **<:solve_on:1251237235932659713> buff global des HP**. \n> \n> <:solve_num:1251525860184293427> Si vous souhaitez apporter des arguments, merci de le faire en réponse par fil, dans le respect et de manière constructive.\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n\nMerci !",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753743212845
+  },
+  {
+    "id": "1348007295233036421",
+    "content": "",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Quel système de combat préférez-vous ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "234",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "431",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "2",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "2 barres / pas de swap jutsu (système actuel)",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_id",
+            "value": "780207857638965248",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_name",
+            "value": "2_",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1741460383948
+  },
+  {
+    "id": "1347645240122806352",
+    "content": "||@everyone <@&1252646455617785978> ||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1741374063283
+  },
+  {
+    "id": "1347644881136521227",
+    "content": "",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1741373977694
+  },
+  {
+    "id": "1347644359733936138",
+    "content": "> # `SONDAGE PVP` <:madara_susanoo:1251662227002621953> \n\n> <:arrow:1049415854258933840>  Nous avons opté avant l'ouverture du serveur pour un système de pvp permettant d'utiliser **2 barres de sorts**, __sans possibilité de changer de jutsu en plein combat__.\n> \n> Dans notre démarche globale de **dynamisation du pvp**, de pair avec l'arrivée du **kenjutsu **et des **équipements**, nous explorons aujourd'hui 2 nouvelles possibilités. <a:Pog112:1345396291026423950> \n\n> ### <:solve_point_blue:1255550141713219667> Nous vous invitons donc à voter en toute **objectivité **parmi les __propositions suivantes__  :",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1741373853382
+  },
+  {
+    "id": "1343775836402352189",
+    "content": "",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Que préférer-vous ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "250",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "427",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "2",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "On laisse la nuit toute la semaine comme actuellement",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_id",
+            "value": "1295036739261562981",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_name",
+            "value": "number2",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1740451525546
+  },
+  {
+    "id": "1343413424788607040",
+    "content": "",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1740365119884
+  },
+  {
+    "id": "1343407264111001651",
+    "content": "> # `SONDAGE MODE NUIT` <:kb_moon:1094949017563181107> \n\n> **<:solve_arrow:1163493428810760253>  Le mode nuit apporte des possibilités incroyables dans le RP** et __vous êtes beaucoup à l'aimer__, néanmoins pour faire du PVP en groupe, il est assez __**difficile de différencier les ennemis des alliés**__ **et de se repérer**. Nous avons déjà augmenté la luminosité ce qui permet de rendre quand même largement jouable le PVP, l'augmenter encore plus ne ressemblerait plus à la nuit et n'aurai donc plus aucun intérêt.  <:solve_18:1250488149784924160>\n\n> <:info:1203083123361849406>  Pour information, **un mode nuit n'est pas prévu pour le S3 pour l'instant**. \n\n> ## <:solve_point_blue:1255550141713219667> Nous aimerions donc __votre avis__ à ce sujet, à vous de choisir parmi les __2 propositions suivantes__ :  \n\n> @everyone <@&1252646455617785978>",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1740363651064
+  },
+  {
+    "id": "1327299365966057543",
+    "content": "",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Quel ajustement souhaitez-vous voir sur le serveur ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "285",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "418",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "2",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Augmentation globale des HP pour chaque grade",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_id",
+            "value": "1251237235932659713",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_name",
+            "value": "solve_on",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1736523228876
+  },
+  {
+    "id": "1326212271247982612",
+    "content": "@everyone",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1736264045298
+  },
+  {
+    "id": "1312095878575554702",
+    "content": "🦗",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1732898435015
+  },
+  {
+    "id": "1312095815111540737",
+    "content": "",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "La communauté décidera, quel quatrième clan pour Konoha ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "338",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "597",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "2",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Aburame",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_name",
+            "value": "🦋",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1732898419884
+  },
+  {
+    "id": "1312078458142330970",
+    "content": "#StopTheCount ??",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1732894281660
+  },
+  {
+    "id": "1311009033368506458",
+    "content": "*(Nara = Ombres)\n(Aburame = Insectes)*",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1732639310925
+  },
+  {
+    "id": "1311008671668633642",
+    "content": "||@everyone||",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1732639224689
+  },
+  {
+    "id": "1311008633588547667",
+    "content": "",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1732639215610
+  },
+  {
+    "id": "1275143965271920743",
+    "content": "",
+    "username": "riyukaze",
+    "avatar": "https://cdn.discordapp.com/avatars/305822681696174092/a8e230caa76244b5cfdc0812d157b516.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Doit-on perdre ses niveaux suite à un RPK ou en conserver une partie ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "381",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "550",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "2",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Non, garder une partie",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1724088412350
+  },
+  {
+    "id": "1274781564785397881",
+    "content": "",
+    "username": "riyukaze",
+    "avatar": "https://cdn.discordapp.com/avatars/305822681696174092/a8e230caa76244b5cfdc0812d157b516.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1724002009341
+  },
+  {
+    "id": "1273981209524961391",
+    "content": "",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Un mode nuit sur la map pour les joueurs de la nuit ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "463",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "505",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Yes, ça peut être cool comme ambiance !",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_emoji_name",
+            "value": "🌙",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1723811189777
+  },
+  {
+    "id": "1272894058678714419",
+    "content": "> # ||@everyone|| `Nouveau Sondage` <:solve_naruto:1249368325692067910> \n\n> <:solve_point_blue:1255550141713219667>Nous avons eu une **idée** pour la map et nous souhaitons __obtenir__ votre **avis** dessus ! <:solve_8:1250487915134582865>\n\n> ## <:solve_num:1251525860184293427> Souhaitez-vous qu'à Minuit <:solve_ontime:991828544055431291>, la map passe en mode nuit, ambiance nocturne dans les villages de la map ? <a:lune:1258440385458475100>",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1723551992817
+  },
+  {
+    "id": "1272894043822624770",
+    "content": "",
+    "username": "!Sherman¡",
+    "avatar": "https://cdn.discordapp.com/avatars/485146443485544458/19e10c34d57c1251f1cbe2aa2b76d8c1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1723551989275
+  }
+]

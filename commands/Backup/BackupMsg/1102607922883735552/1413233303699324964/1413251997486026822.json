@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1442601447891144864",
+    "content": "|| <@&1413246661819498637> ||",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764013387416
+  },
+  {
+    "id": "1442601397827928356",
+    "content": "__**Merci de remplir ce formulaire à l'ouverture du ticket:**__\n\n> <a:arrow:1179681815615766568>┃**Votre Pseudo :**\n> \n> <a:arrow:1179681815615766568>┃**Nombre de joueurs dans la session : **\n> \n> <a:arrow:1179681815615766568>┃**Problème(s) rencontré(s) :**\n> \n> <a:arrow:1179681815615766568>┃**Pseudo des HRP** :\n> \n> <a:arrow:1179681815615766568>┃**Preuves photo ou vidéo (optionnel)** :",
+    "username": "!\"メ Smizox",
+    "avatar": "https://cdn.discordapp.com/avatars/1333512887443914832/c6bc0452f81d1be43b3e606a7e426ae9.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764013375480
+  },
+  {
+    "id": "1442601157389455553",
+    "content": "",
+    "username": "Skye City RP",
+    "avatar": "https://cdn.discordapp.com/avatars/1384259775927291944/9e44855916da13504e6052903f67eb99.webp",
+    "embeds": [
+      {
+        "title": "**__Assistance Skye City RP__**",
+        "type": "rich",
+        "description": "** **",
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1413251344860446792/1442600742480252951/b50f4bcb071a57c6182c12b4661b2290.webp?ex=693c6fa3&is=693b1e23&hm=bccf1b3442dd1bc63814280c79c1891731e6c3b6b93d5bcf43e126fe4ba3d4a9&",
+          "proxyURL": "https://media.discordapp.net/attachments/1413251344860446792/1442600742480252951/b50f4bcb071a57c6182c12b4661b2290.webp?ex=693c6fa3&is=693b1e23&hm=bccf1b3442dd1bc63814280c79c1891731e6c3b6b93d5bcf43e126fe4ba3d4a9&",
+          "height": 1079,
+          "width": 1919
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1764013318155
+  }
+]

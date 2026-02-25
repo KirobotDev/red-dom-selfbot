@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1390211986582667317",
+    "content": "<@640980898438709308> Welcome",
+    "username": "Ticket Tool",
+    "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/dd89587457ef9f971d331426cad9e2be.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Support will be with you shortly.\nTo close this press the close button",
+        "url": null,
+        "timestamp": null,
+        "color": 2016348,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "TicketTool.xyz - Ticketing without clutter",
+          "icon_url": "https://tickettool.xyz/images/footer.png"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1751522766491
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1417962397301211238",
+    "content": "## <a:solve_arrow_or:1371120189004972163> Pour tout ticket de changement d'id de compte steam/discord ou lié de près ou de loin à la Douane, merci d'ouvrir un ticket sur le discord Douane : https://discord.com/channels/1250843718693683240/1381779737600327830",
+    "username": "nagisa_sano",
+    "avatar": "https://cdn.discordapp.com/avatars/277853118937563136/a_881d088a7f7f303fe692f6fdd6b29290.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758138979984
+  },
+  {
+    "id": "1383503830989148333",
+    "content": "",
+    "username": "Solve・Central",
+    "avatar": "https://cdn.discordapp.com/avatars/1368647398548701356/a_da93794f57dbde287c6414a7e419ac3a.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "## <:solve_naruto:1249368325692067910> **Ouvrir un ticket auprès du staff**",
+        "url": null,
+        "timestamp": null,
+        "color": 3842044,
+        "fields": [
+          {
+            "name": "Comment ça marche ?",
+            "value": "> <:solve_num1:1251525865817378847> Sélectionnez votre raison dans le menu ci-dessous.\n> <:solve_num2:1251525867285516379> Une demande sera envoyée au staff.\n> <:solve_num3:1251525868858380358> Vous recevrez un MP quand votre ticket sera accepté.",
+            "inline": false
+          },
+          {
+            "name": "Règles de courtoisie",
+            "value": "> • Merci de rester poli et respectueux.\n> • Toute forme de harcèlement est interdite.",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": {
+          "url": "https://i.imgur.com/jqiCD4T.png",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/3SG2RCbSg-hq9onT3roIaThW720-RU9chuLsq6jBOLM/https/i.imgur.com/jqiCD4T.png",
+          "height": 400,
+          "width": 1440
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1749923417566
+  }
+]

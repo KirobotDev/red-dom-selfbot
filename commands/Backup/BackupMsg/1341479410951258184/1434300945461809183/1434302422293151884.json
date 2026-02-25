@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1436747370657218600",
+    "content": "",
+    "username": "𝕧𝕖𝕣𝕤𝕖𝕒𝕦-𝕥𝕦𝕣𝕢𝕦𝕠𝕚𝕤",
+    "avatar": "https://cdn.discordapp.com/avatars/1365348139027927221/d1b65de50e9d13540c3d5106272cf091.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "poll_question_text",
+            "value": "Vous aimez bien le serveur ?",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_votes",
+            "value": "12",
+            "inline": false
+          },
+          {
+            "name": "total_votes",
+            "value": "15",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_id",
+            "value": "1",
+            "inline": false
+          },
+          {
+            "name": "victor_answer_text",
+            "value": "Oui",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762617666640
+  },
+  {
+    "id": "1436385002936864830",
+    "content": "@everyone",
+    "username": "𝕧𝕖𝕣𝕤𝕖𝕒𝕦-𝕥𝕦𝕣𝕢𝕦𝕠𝕚𝕤",
+    "avatar": "https://cdn.discordapp.com/avatars/1365348139027927221/d1b65de50e9d13540c3d5106272cf091.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762531271443
+  },
+  {
+    "id": "1436384974772240485",
+    "content": "",
+    "username": "𝕧𝕖𝕣𝕤𝕖𝕒𝕦-𝕥𝕦𝕣𝕢𝕦𝕠𝕚𝕤",
+    "avatar": "https://cdn.discordapp.com/avatars/1365348139027927221/d1b65de50e9d13540c3d5106272cf091.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762531264728
+  }
+]

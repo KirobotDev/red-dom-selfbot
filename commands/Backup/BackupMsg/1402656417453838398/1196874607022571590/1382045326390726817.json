@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "1432051956100239421",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 26/10**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Déplacement S5 bastion de Kiri sur le Pays de la Pluie\n- Ajout d'une frontière Pays des Oiseaux > Pays du Silence\n- Nozarashi : Fix des saignements qui ne s'arrêtaient pas (soin infini)\n- Armure de vent (Futon) : Retrait du silence sur le bump\n- Lance de papier (Kami) : La lance ne stun plus dans les anti-cc\n- Faucheuse (Kami) : Fix du coup spé multicible \n- Frappe furtive (Karatachi) : Fix du bug qui bloquait l'utilisateur dans la cible\n- Samehada : Fix d'un bug qui bloquait la cible\n- Intensification Senju : Fix du chakra consommé \n- Hameçon (Hoshigaki) : Fix du CD au retour du requin\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework Clan Ensho / Jutsu Shizen / Nouveaux subjutsu",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761498192573
+  },
+  {
+    "id": "1431676380285767874",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 25/10**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout du spell 3 de Kakuzu.\n- Ajout de nouveaux subjutsu : \"Bolas du traqueur\", \"Bombe aveuglante\", \"Bombe endormissante\"\n- Changements visuels et de jouabilité sur certains spells.\n- Uchiha : Suppression de la rang B \"Dragons de feu\", remplacé par une nouvelle rang B \"Tornade de feu\".\n- Uchiha : La \"Boule de feu suprême\" ne rentre plus en collision avec le monde aussi facilement qu’avant. Le projectile touche désormais le sol avant d’exploser.\n- Kaguya : Rework du rang B \"Attraction des vertèbres\" → diminution du temps de cast, ajustements visuels, ne rentre plus en collision avec le monde et la détection du grab est désormais beaucoup plus facile à toucher.\n- Jiton (Iron) : Réajustement de la rang S. Le joueur s’envole dans les airs mais reste sur place pour projeter les limailles.\n- Ermite tortue : Ajout de l'aura dès l'activation du mode ermite, ajout de l'icone du boost actif.\n- Rang A Yokushin (Avarice) : Fix du bug du coût de chakra infinie\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework Clan Ensho / Jutsu Shizen / Nouveaux subjutsu",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761408648321
+  },
+  {
+    "id": "1431320537577164901",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 24/10**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout d’un mode RP pour les Sharingan.\n- Refonte visuelle de Raimei et modification du deuxième jutsu : il rebondit désormais X fois sur les joueurs proches.\n- Ayatsuri : ajustements visuels et de jouabilité.\n- Correction du problème lié à l’actif Tortue.\n- Le Dash armure est désormais possible en l’air.\n- Ajout de l’option Inviter dans l’escouade via le menu contextuel.\n- Correction de la résistance du Dôme de roche.\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework Clan Ensho / Jutsu Shizen / Nouveaux subjutsu",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761323808808
+  },
+  {
+    "id": "1430591129950224414",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 22/10**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Rework visuel Salamandre, changement de fonctionnement du souffle de poison.\n- Changement du système de Tenketsu : désormais, au lieu d’un buff sur l’utilisateur, c’est un débuff appliqué à la cible. Cela corrige les problèmes liés aux changements de cible, et les Tenketsu sont désormais mieux synchronisés entre les Hyuga.\n- Hozuki / Hoshigaki / Senju / Jishaku / Fûma Rework visuel.\n- Clan mineur Rework visuel.\n- Ajout d'un menu admin pour remove les Wl BDM et Wl spéciale.\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework Clan / Rework Nature / Nouveaux subjutsu / …",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761149904478
+  },
+  {
+    "id": "1430226448903569438",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 21/10**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Correction de la hitbox du Crystal Shoton.\n- Ajout du bouton se mettre en maillot dans le menu animation.\n- Rework Rang A Shakuton.\n- Rework Visuel Taiton.\n- Jinton Toupie : amélioration du mouvement de caméra (push après l'ouverture).\n- Changement de model du Dragon Shoton.\n- Ajout de 1 Pet les petits monstre de Kakuzu.\n- Rework visuel Senju.\n- Rework visuel Hyuga (push après l'ouverture).\n- Correction de l'effet de stun sur la rang S Karatachi.\n- Correction de divers bugs dans l’inventaire, dont celui où les slots se sauvegardaient mal.\n- La forme partielle des Jinchuriki est maintenant un passif du chakra du démon (Jonin+ uniquement)\n- Correction de bug sur les animations, vous devriez plus voir les autres marcher en crabe.\n- Nerf de l'esquive Hozuki : 2/5 -> 1/3\n- Correction des bugs sur l'ermite Tortue.\n- Correction du bug deiton où on ne pouvait pas remonter pendant la coulée de boue.\n- Nuibari est maintenant un stun fix, plus de qte.\n\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework Clan / Rework Nature / Nouveaux subjutsu / …",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1761062957741
+  },
+  {
+    "id": "1429863899058012211",
+    "content": "# 📃                   - **__Menu Contextuel__** \n\n**Appuyez sur CapsLock (Verr Maj) pour activer/désactiver le Menu Contextuel**\n*(La touche peut être changée dans le menu Settings -> Paramètres)*\n\n> Un curseur apparaît : il vous suffit de faire un clic droit sur la personne de votre choix (en restant à une distance raisonnable) pour ouvrir le menu et accéder à des options, selon vos permissions.\n\n> -# __**Des fonctionnalités seront ajoutés, améliorés etc**__\n\n||@everyone  ||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1429863898294521948",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1429863898294521948/image.png?ex=68ff9906&is=68fe4786&hm=19b7739c5cf598b2746bc8f0224ea4ff9e1c184b1547b3f95d90e39c7271a777&"
+      },
+      {
+        "id": "1429863898684850236",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1429863898684850236/image.png?ex=68ff9907&is=68fe4787&hm=5944a49e310aa37e6dcd7beffa672a48bcdd94d4405ae61e07c9e2dcb43237e3&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1760976519122
+  },
+  {
+    "id": "1429499901242511453",
+    "content": "@everyone",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760889735280
+  },
+  {
+    "id": "1429499820527321141",
+    "content": "# <a:solve_arrow_or:1371120189004972163> `CLANS`\n\n<:solve_reload:1289153175093248036>                  - **__HOSHIGAKI__** \n```\n- Instinct animal \n - Augmentation de la durée \n  - Level 1 : 15 sec → 18 sec\n  - Level 2 : 20 sec → 23 sec\n  - Level 3 : 25 sec → 28 sec\n \n- Mégalodon\n - Passage en dégâts en physique\n\n- Hameçon \n - Amélioration de la hitbox\n - Fix du bug qui ne ramenait pas la cible malgré la distance\n - Augmentation du CD avant que le requin ramène la cible\n  - 3 sec → 5 sec\n```\n\n# <a:solve_arrow_or:1371120189004972163> `SUBJUTSU`\n\n<:solve_nerf:1374263005650616330>                    - **__PARCHEMIN EXPLOSIF__** \n```\n- Diminution des dégâts d'explosion\n  - Level 1 : 100 → 60\n  - Level 2 : 125 → 80\n  - Level 3 : 150 → 100\n- Diminution du nombres de brûlures \n  - 6 → 3\n- Augmentation du CD :\n  - Level 2 : 50 sec → 60 sec\n  - Level 3 : 45 sec → 55 sec\n```\n\n||@here ||\n\n-# __**À venir**__: Menu Contextuel, Refonte visuel et jouabilité de certains KG et de certains spells de Clans, Système de Tatouages/Cicatrices ...",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760889716036
+  },
+  {
+    "id": "1429499803418497074",
+    "content": "# <a:solve_arrow_or:1371120189004972163> `NATURES`\n\n<:solve_reload:1289153175093248036>                   - **__SUITON__** \n```\n- Pistolet d'eau\n - Augmentation du vol de chakra\n\n- Rafale hydrocanon \n - Retrait du stun \n - Retrait du bump silence\n - Augmentation des dégâts\n  - Level 1 : 190 → 250\n  - Level 2 : 220 → 270\n  - Level 3 : 270 → 320\n - Augmentation du vol de chakra\n  - 250 → 350\n\n- Zone d'eau\n - Diminution de la vitesse de drain de chakra\n\n- Raz de marée\n - Augmentation du vol de chakra\n  - 35 → 125\n - Augmentation de la durée \n  - Level 1 : 5 sec → 5 sec\n  - Level 2 : 5 sec → 6 sec\n  - Level 3 : 5 sec → 7 sec\n``` \n\n<:solve_reload:1289153175093248036>                  - **__KATON__** \n```\n- Boule de feu\n - Diminution des dégâts de brûlures\n  - 25 → 15\n\n- Grenade incendiaire\n - Diminution des dégâts\n  - Level 1 : 10 → 6\n  - Level 2 : 12 → 8\n  - Level 3 : 15 → 10\n\n- Rafales de flammes\n - Diminution des dégâts\n  - Level 1 : 40 → 30\n  - Level 2 : 50 → 40\n  - Level 3 : 60 → 50\n\n- Arène flamboyante\n - Augmentation de la vitesse des tics\n - Diminution des dégâts\n  - Level 1 : 35 → 25\n  - Level 2 : 45 → 35\n  - Level 3 : 55 → 45\n - Diminution de la durée\n  - 10 sec → 6 sec\n - Diminution du coût en chakra\n  - Level 1 : 360 → 300\n  - Level 2 : 330 → 270\n  - Level 3 : 300 → 240\n\n- Lame de chaleur\n - Ajout d'un silence pendant l'utilisation \n\n- Souffle du dragon\n - Augmentation des dégâts\n  - 45 → 55\n\n- Pluie incendiaire \n - Ajout d'un no collision\n - Diminution des dégâts\n  - Level 1 : 55 → 30\n  - Level 2 : 75 → 35\n  - Level 3 : 95 → 45\n\n- Nuée ardente \n - Il est désormais possible de la cast dans les airs\n - Augmentation de la distance\n - Augmentation des dégâts\n  - Level 1 : 150 → 200\n  - Level 2 : 200 → 250\n  - Level 3 : 250 → 325\n - Augmentation du CD\n  - Level 1 : 90 sec → 100 sec\n  - Level 2 : 85 sec → 95 sec\n  - Level 3 : 75 sec → 85 sec\n\n- Chute céleste \n - Désormais il n'est plus possible de bouger en la chargeant\n - Diminution des dégâts\n  - Level 1 : 500 → 430\n  - Level 2 : 570 → 480\n  - Level 3 : 650 → 525\n```\n\n<:solve_reload:1289153175093248036>                   - **__FUTON__** \n```\n- Ascension céleste \n - Augmentation du jump\n\n- Bourrasque lacérante\n - Augmentation des dégâts\n  - Level 1 : 50 → 60\n  - Level 2 : 70 → 80\n  - Level 3 : 90 → 100\n```\n\n<:solve_reload:1289153175093248036>                   - **__RAITON__** \n```\n- Zone électrique\n - Augmentation des dégâts\n  - Level 1 : 15 → 20\n  - Level 2 : 20 → 25\n  - Level 3 : 25 → 35\n\n- Boules énergétiques\n - Augmentation de la hitbox\n\n- Shuriken électrique \n - Augmentation des dégâts\n  - Level 1 : 150 → 230\n  - Level 2 : 190 → 260\n  - Level 3 : 230 → 280\n \n- Frappe du tonnerre \n - Augmentation des dégâts\n  - Level 1 : 170 → 200\n  - Level 2 : 200 → 230\n  - Level 3 : 230 → 260\n```\n\n<:solve_reload:1289153175093248036>                   - **__DOTON__** \n```\n- Motte de terre \n - Retrait du stuck pendant le cast \n - Ajout d'un slow à l'impact\n - Augmentation des dégâts\n  - Level 1 : 60 → 120\n  - Level 2 : 80 → 150\n  - Level 3 : 100 → 180\n\n- Poing granite\n - Retrait du stuck au cast\n\n- Epine de roche \n - Augmentation du CD\n  - Level 1 : 65 sec → 75 sec\n  - Level 2 : 55 sec → 65 sec\n  - Level 3 : 45 sec → 55 sec\n - Augmentation du coût en chakra\n  - Level 1 : 230 → 250\n  - Level 2 : 200 → 220\n  - Level 3 : 170 → 190\n\n- Pics de roche\n - Désormais, les pics se collent au sol même lorsque vous êtes dans les airs\n - Nouvelle animation au cast\n - Réduction du temps de cast\n - Augmentation de la durée des pics\n  - 2 sec → 4 sec\n - Diminution des dégâts\n  - Level 1 : 100 → 80\n  - Level 2 : 125 → 100\n  - Level 3 : 150 → 125\n\n- Dôme de roche \n - Diminution du temps de cast\n - Augmentation de la résistance\n  - Level 1 : 20% → 30%\n  - Level 2 : 25% → 40%\n  - Level 3 : 30% → 50%\n \n- Dragon de roche\n - Diminution des dégâts\n  - Level 1 : 20 → 15\n  - Level 2 : 30 → 20\n  - Level 3 : 40 → 25\n```",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760889711957
+  },
+  {
+    "id": "1429499523209629776",
+    "content": "# <:solve_naruto:1249368325692067910> __**Patchnote du 19/10**__ :\n\n> Cela faisait un moment qu’un gros patchnote n’avait pas vu le jour. Durant cette période, nous avons constaté une nette amélioration du gameplay global du serveur : des batailles plus longues, plus stratégiques et offrant davantage de retournements de situation.\n\n> Ces observations nous ont permis de cibler certains points qui, selon nous, nécessitaient des changements. C’est ainsi qu’arrive ce nouveau patchnote, dans lequel vous retrouverez :\n    •    **Une augmentation des HP globaux du serveur** \n    •    **Un rééquilibrage des natures avec divers ajustements (buffs, nerfs, retraits de stuns, etc.)** \n    •    **Et, à l’avenir, la refonte totale de certains spells de nature** \n\n__*En parlant de rework :*__\n    •    **Le Meiton fait peau neuve avec plusieurs changements (rework spell, particules, …)** \n    •    **Le Jinton bénéficie également d’un rework avec le remplacement du “Clone Jinton” pour laisser place au \"Laser rotatif\"**\n    •    **Le Shakuton arrivera également très prochainement avec le rework de la rang A (« Courants ascendants »)**\n\n*Et ce n’est pas tout… l’arrivée de nouveaux subjutsu est également prévue, et ils seront intégrés petit à petit au jeu !*\n\n\n## <a:online:1427579345974722671> __**Augmentation des HP par grade**__\n\n```\nGenin : 750 HP → 900 HP\nGenin Confirmé : 1000 HP → 1200 HP\nTokubetsu Chunin (TKC) : 1450 HP → 1650 HP\nChunin : 1750 HP → 2000 HP\nChunin Confirmé : 2000 HP → 2300 HP\nTokubetsu Jonin (TKJ) : 2500 HP → 2850 HP\nJonin : 3850 HP → 4200 HP\nCommandant Jonin (CMJ) : 5000 HP → 5300 HP\nKage : 7000 HP → 7000 HP\n```\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Patchnote nature\n- Rework Meiton : \"Souffle de Meiton\", ...\n- Rework du \"Clone Jinton\" → \"Laser Rotatif\"\n- Nouveaux subjutsu  : \"Bombe aveuglante\" , \"Bolas du Traqueur\" , \"Bombes à retardement\" , \"Bombe endormissante\"\n- Changements mineurs de différents effets visuels\n- Ajout de +30 nouvelles coupes dont la Buzzcut et la Boule à Z\n- Optimisation du secteur 4 lags serveurs : Kiri et surtout Pays des Cerisiers\n- Changement Interface Mode Photo\n- Ajout d'une nouvelle caisse de tenue dans la boutique\n- Ajouts de différents nouveaux PM\n- Mode fantôme permanent activable et désactivable dans les paramètres\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760889645150
+  },
+  {
+    "id": "1429453270019084288",
+    "content": "> # <:solve_35:1250823789554700349> ⌛ ....",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760878617530
+  },
+  {
+    "id": "1428775165369651310",
+    "content": "> # <:solve_reload:1289153175093248036>__**Patch du 17/10**__ :\n\n> \n> <:solve_naruto:1249368325692067910>                - __**Général**__\n> \n\n```\n- Changements de descriptions.\n- Fix de l'animation du moine Inkuton quand on est dans les airs.\n- Armure Shoton : ajustements visuels pour la jouabilité.\n- Dragon de Shoton : Fix d'une animation qui restait freeze à la redescente du dragon, nouveau model de dragon prévue d'ici quelques jours ! #AURA\n- Rockets de Shoton : ajustements jouabilité et recul de la caméra afin de mieux voir.\n- Crachat de Vapeur Futton : Le projectile est plus fluide, il ne s'accade plus.\n- Crachat de boue Deiton : le projectile ne rebondit plus sur le monde.\n- Coulée de boue : Le E pour remonter à la surface remarche (Effectif à partir de 20h).\n- Coulée de boue : Fix d'un bug lié à la caméra\n- Loups de boue : Le spell est beaucoup plus facile à toucher à présent.\n- Loups de boue : Les loups spawn plus vite & réajustements visuels de particules pour la jouabilité.\n- Modifications de certaines particules Jiton Iron\n- Modifications de certaines particules Bakuton\n- Modifications de certaines particules Shakuton\n- Correction de certaines Animations\n- Nouveau mode Photo dispo !\n\n\n\n```\n> \n> ||@here||",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760716944783
+  },
+  {
+    "id": "1428770699962613820",
+    "content": "# 📷                  - **__Mode Photo__** \n\n**Appuyez sur F11 pour activer/désactiver le Mode Photo**\n*(La touche peut être changée dans le menu Settings -> Paramètres)*\n\n## Contrôles de la Caméra :\n> Déplacement :\n> **Z Q S D** – Se déplacer\n> **Espace** – Monter\n> **W** – Descendre\n\n## Rotation :\n> Maintenez le clic droit et bougez la souris pour orienter la caméra\n> Maintenez le clic gauche et bougez la souris pour changer l'angle de la caméra\n> **X** → reset la caméra.\n\n⚠️ La caméra ne peut pas s’éloigner de plus de 500 unités de votre position\n\n## Filtres Visuels Prédéfinis\n\n> Changer de filtre :\n> **F** → Filtre suivant\n> **R** → Filtre précédent\n\n**Filtres Prédéfinis:**\n> Aucun • Noir & Blanc • Sépia • Vintage • Cinématique • Chaud • Froid • Contraste élevé • Lumineux • Sombre\n\n## Filtre Personnalisé\n\n**Créez VOTRE filtre unique**\n\n> Appuyez sur **E** pour ouvrir l’éditeur de filtre\n\n*Paramètres disponibles :\nLuminosité, Contraste, Saturation, RGB, Inversion, Netteté, Bloom, Motion Blur, Sépia, Température, Exposition, Sobel, Toy Town, Bokeh, Teinte*\n\nVous pouvez exporter des filtres et les importer !\n\n## Interface\n\n> **TAB** – Afficher/Masquer l’interface (parfait pour les screenshots 📷)\n\n> -# __**L'hud du mode photo sera amélioré j'avais pas d'inspi**__\n\n||@everyone  ||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1428770699136204861",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1428770699136204861/image.png?ex=68ff9367&is=68fe41e7&hm=6387c2b2fa9a43ff4bed79aeab4e2658eaf9952c2885b256c5dab7749504577f&"
+      },
+      {
+        "id": "1428770699660628069",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1428770699660628069/image.png?ex=68ff9368&is=68fe41e8&hm=befdceae947fd06539f5429f569a5cd5ac161d7a4ec919779c1c25bab36cead1&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1760715880147
+  },
+  {
+    "id": "1428416013497798707",
+    "content": "# <:solve_reload:1289153175093248036>__**Patch du 16/10**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n\n```\n- La transition des différentes caméra se fait de façon smooth à présent.\n- Charge : Ajustements visuels.\n- Poings de Chakra : Ajustements visuels & Jouabilité.\n- Cuirasse de Chakra : Ajustements visuels & Jouabilité.\n- Cellules revigorantes : Ajustements visuels & Jouabilité.\n- Substitution : Refonte du mécanisme, est beaucoup plus fluide qu'avant & beaucoup plus rapide et agréable à jouer (Buff).\n- Voile d'ombre : Ajustements visuels & Jouabilité (Particules, vision spécial, retrait des particules de fumée de pas).\n- Paume Spirituelle : Ajustements visuels & Jouabilité.\n- Afflux de Chakra : Ajustements visuels & Jouabilité.\n- Changement de la stance du baton de corail.\n- Correction de bug visuel sur l'hidden Karatachi.\n- Optimisation de certaines features du serveur notamment la marche sur l'eau.\n- Correction du bug de l'annulation d'une \"Charge\" ( pas le jutsu, la façon d'aller sur l'ennemi, exemple Rakiri, Rasenshuriken) lorsque qu'on se fait stun pendant.\n- Ajout d'un event 3.\n- Correction de la trajectoire du dragon de foudre.\n- Ajout du style double lame (2ème branche Force Intérieur ).\n- Ajout de 22 ost (avant hier).\n- La Bulle Hozuki ne peut plus prendre une personne immune (golem de roche etc).\n- Ajout des jutsu de culte #Shirk#Enfer.\n- Ajout d'une barre pour la durée du boost médecin.\n```\n\n||@here||\n\n> -# __**À venir**__:  - Hidden Hozuki, Nouveaux Subjutsus, Réajustements jouabilité et refonte visuels de certains KG, Refonte des natures, Cicatrices & Tatouages",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760631316304
+  },
+  {
+    "id": "1427317918215045120",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 13/10**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout du spell \"Lame de vent\"\n- Ajout de la Sarbacane\n- Fix du « Crocs du tigre »\n- Fix de la consommation de chakra du « chakra du démon : Yonbi »\n```\n\n# <a:solve_arrow_or:1371120189004972163> `CLAN` \n\n\n<:solve_reload:1289153175093248036>                   - **__YOKUSHIN__** \n```\n- Piège de sceaux maudits\n - Fix du CD qui ne s'actualisait pas\n - Les pièges ne peuvent désormais être posés que si l’utilisateur est au sol\n - Diminution de la portée des pièges\n - Diminution des dégâts\n  - Level 1 : 170 → 150\n  - Level 2 : 200 → 180\n  - Level 3 : 240 → 210\n\n- Paresse \n - Diminution du radius\n``` \n\n<:solve_reload:1289153175093248036>                   - **__KARATACHI__** \n```\n- Kirisogan\n - Diminution du radius du passif \"Marque du silence\"\n - Diminution du CD du passif \"Marque du silence\"\n  - Level 1 : 40 sec → 35 sec\n  - Level 2 : 35 sec → 30 sec\n  - Level 3 : 28 sec → 25 sec\n\n- Percée spectrale\n - Ajout d'un N+2\n```\n\n<:solve_reload:1289153175093248036>           - **__HOSHIGAKI__** \n```\n- Hameçon\n - Amélioration de la hitbox (à venir)\n - Ajout d'un N+2\n```\n\n<:solve_reload:1289153175093248036>           - **__SALAMANDRE__** \n```\n- Souffle de poison\n - Diminution du radius du souffle\n```\n\n|| @here ||\n\n-# __**À venir**__: Patchnote Nature cette semaine<:solve_22:1250488230432735232>",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760369509987
+  },
+  {
+    "id": "1425879000512729179",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 09/10**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout d'animal de compagnie pour les ermites\n- Ajout de l'anti-cc et anti-slow pour le \"Raz de marée\"\n- Ajout de la technique \"Kirisame\"\n- Ajout de nouvelle tenues\n- Changement du modèle des jarres Jishaku\n- Réduction du temps de cast du \"Tremblement de terre\"\n- Fix de la vitesse du projectile \"Hameçon\" et du temps de cast\n- Fix de la distance du wallhack \"Instinct animal\" Hoshigaki\n- Nouveau système d'amputation (en test)\n\n```\n\n||@here||\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / Nouveaux subjutsu / …",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1760026445273
+  },
+  {
+    "id": "1425507598039253062",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 08/10**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajustements de coûts de chakra pour certains spells de clans\n- Ajout du \"mode KCM\"\n- Ajout d’un silence pendant l’utilisation de la rang S Fuma\n- Ajout d’un silence pendant le coup spé de plusieurs armes (artefacts, katana, …)\n- Nuibari : Ajout d'un QTE supplémentaire et augmentation de la vitesse d'action du QTE\n- Désormais, il n’est plus possible de cast un spell au début du rite de lame \n- Fix du bug des « Chaines attractives » qui t’empêchait de sauter après la fin du spell\n- Les personnes attrapées par le requin Hoshigaki (Hameçon) sont insensibles aux dégâts pendant le trajet\n- Opti fps et lag map S5\n```\n\n# <a:solve_arrow_or:1371120189004972163> `SUBJUTSU` \n\n\n<:solve_reload:1289153175093248036>                   - **__MULTICLONAGE__** \n```\n- Augmentation du CD\n - Level 1 : 80 sec → 85 sec\n - Level 2 : 70 sec → 80 sec\n - Level 3 : 60 sec → 70 sec\n``` \n\n<:solve_reload:1289153175093248036>                   - **__RAIKIRI__** \n```\n- Augmentation des dégâts\n - Level 1 : 120 → 140 \n - Level 2 : 140 → 170\n - Level 3 : 175 → 200\n- Augmentation de la vitesse de la ruée\n- Diminution du CD\n - Level 1 : 95 sec → 85 sec\n - Level 2 : 90 sec → 80 sec\n - Level 3 : 85 sec → 75 sec\n```\n\n<:solve_reload:1289153175093248036>           - **__SCEAU DE RECONSTRUCTION__** \n```\n- Augmentation du CD\n - Level 1 : 100 sec → 110 sec\n - Level 2 : 90 sec → 105 sec\n - Level 3 : 85 sec → 95 sec\n```\n\n# <a:solve_arrow_or:1371120189004972163> `CLAN` \n\n\n<:solve_reload:1289153175093248036>                   - **__MUGEN__** \n```\n- Royaume des morts\n - Ajout du vol de vie\n  - Level 1 : 0% → 10%\n  - Level 2 : 0% → 15%\n - Diminution de la durée\n  - Level 1 : 15 sec → 12 sec\n  - Level 2 : 20 sec → 17 sec\n```\n\n<:solve_reload:1289153175093248036>                   - **__HOSHIGAKI__** \n```\n- Instinct animal\n - Augmentation du boost de dégâts\n  - Level 3 : 30% → 35%\n```\n\n<:solve_reload:1289153175093248036>                   - **__KIOSHI__** \n```\n- Lumière enveloppante\n - Augmentation du CD \n  - Level 1 : 55 sec → 75 sec\n  - Level 2 : 50 sec → 70 sec\n  - Level 3 : 45 sec → 60 sec\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / Nouveaux subjutsu / …",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759937896023
+  },
+  {
+    "id": "1423700534816145580",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 30/09**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Refonte des têtes et des coiffures : ajout du clignement des yeux et de l’ouverture de la bouche. (⚠️ Vous devrez refaire vos visages)\n- Ajout d’un hitmarker quand vous soignez quelqu'un avec la jutsu Paume Spirituelle.\n- Ajout d’une commande « arrêt cardiaque » pour les scènes RP.\n- Ajout d’un jutsu de Kakuzu : Zonbi Futon.\n- Ajout de la sarbacane.\n- Les Jinchuriki ont maintenant 2x plus de chakra.\n- Ajout de nouvelles tenues.\n- Correction des bugs liés au wallhack Uchiha.\n- Ajout des fourreaux dans la prévisualisation de la boutique.\n- Ajout de l’Ermite Tortue.\n- Ajout d’une barre de recherche dans le menu escouade.\n- Ajout d’une table de craft pour la mazinance, avec effets lors de la consommation.\n- Ajout d’une catégorie « Affiche » dans les items, permettant de créer des item qui affiches des images.\n- Correction du bug où les materials ne s'enlevaient pas des accessoires.\n```\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / ??? / …\n@here",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759507058577
+  },
+  {
+    "id": "1422613409353957528",
+    "content": "@here",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759247867669
+  },
+  {
+    "id": "1422613387195449467",
+    "content": "#  <a:solve_arrow_or:1371120189004972163> `CLANS : KIRI`\n\n<:solve_reload:1289153175093248036>                   - **__HOSHIGAKI__** \n```\n- Instinct animal \n - Augmentation du vol de vie des auto-attaques\n  - Level 1 : 6% → 9%\n  - Level 2 : 8% → 12%\n  - Level 3 : 10% → 15% \n - Augmentation de la vitesse de déplacement \n  - Level 1 : 20% → 30%\n  - Level 2 : 25% → 35%\n  - Level 3 : 35% → 40%\n``` \n\n<:solve_reload:1289153175093248036>                  - **__YOKUSHIN__** \n```\n- Dévotion\n - Augmentation de la range entre le Hozuki et le Yokushin\n  - 6000 → 14500\n - Augmentation du boost de dégâts\n  - Level 1 : 5% → 7%\n  - Level 2 : 9% → 10%\n  - Level 3 : 11% → 12%\n  - Level 4 : 12% → 13%\n  - Level 5 : 13% → 15%\n\n- Chaînes attractives\n - Diminution du temps avant le stun\n  - 2 sec → 1.5 sec\n```\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / ??? / …",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759247862386
+  },
+  {
+    "id": "1422613325430132799",
+    "content": "# <a:solve_arrow_or:1371120189004972163> `CLANS : OTO`\n\n<:solve_reload:1289153175093248036>                  - **__KAGUYA__** \n```\n- Forêt d'Os\n - Augmentation du coût en chakra\n  - Level 1 : 250 → 310\n  - Level 2 : 200 → 290\n  - Level 3 : 180 → 270\n```\n\n<:solve_reload:1289153175093248036>                   - **__RAIMEI__** \n```\n- Kenshutsu\n - Diminution du boost de dégâts taijutsu\n  - Level 3 : 40% → 35%\n\n- Projection sonique\n - Diminution du coût en chakra\n  - Level 1 : 380 → 310\n  - Level 2 : 350 → 290\n  - Level 3 : 320 → 270\n```\n\n<:solve_reload:1289153175093248036>                 - **__SALAMANDRE__** \n```\n- Corps de poison\n - Diminution du coût en chakra\n  - Level 1 : 350 → 310\n  - Level 2 : 320 → 290\n  - Level 3 : 280 → 270\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759247847660
+  },
+  {
+    "id": "1422613277875245137",
+    "content": "#  <a:solve_arrow_or:1371120189004972163> `CLANS : SUNA`\n\n<:solve_reload:1289153175093248036>                   - **__AYATSURI__** \n```\n- Marionnette mécanique\n - Diminution du coût en chakra\n  - Level 1 : 490 → 290\n  - Level 2 : 450 → 330\n  - Level 3 : 410 → 370\n``` \n\n<:solve_reload:1289153175093248036>                   - **__ENSHO__** \n```\n- Les mille tornades\n - Diminution du coût en chakra\n  - Level 1 : 380 → 310\n  - Level 2 : 350 → 290\n  - Level 3 : 320 → 270\n```\n\n<:solve_reload:1289153175093248036>                  - **__JISHAKU__** \n```\n- Cube de sable\n - Passage en rang B\n - Diminution des dégâts\n  - Level 1 : 350 → 250\n  - Level 2 : 450 → 325\n  - Level 3 : 550 → 400\n - Diminution du coût en chakra\n  - Level 1 : 400 → 260\n  - Level 2 : 340 → 240\n  - Level 3 : 320 → 220\n\n- Nuage de sable\n - Passage en rang A\n```\n\n<:solve_reload:1289153175093248036>                 - **__MUGEN__** \n```\n- Éclosion du lycoris\n - Diminution du coût en chakra\n  - Level 1 : 350 → 320\n\n- Royaume des morts\n - Retrait du stun à l'entrée\n - Augmentation du coût en chakra\n  - Level 1 : 380 → 400\n  - Level 2 : 300 → 450\n - Augmentation du CD \n  - Level 1 : 120 sec → 140 sec\n  - Level 2 : 110 sec → 130 sec\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759247836322
+  },
+  {
+    "id": "1422613220308418632",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 30/09**__ :\n\n*Avec l'arrivée de Kiri, l'équipe équilibrage a décidé d'équilibrer les clans de Kiri à la baisse en vue d'un rééquilibrage de clans du plateau de jeu.*\n\n*Notre vision est toujours de baisser les dégâts globaux c'est pour cela que nous avons revu les % de dégâts octroyés par les différents boosts, le cumul, etc ... Dernièrement, une MAJ du chakra a été appliquée, nous avons revus certaines techniques qui consommaient, drainaient trop de chakra.*\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Nouveau système du cumul de boost de dégâts\n- Désormais, les ermites (spells actifs et passifs) comptent comme un slot de subjutsu (3 max.)\n- Désormais, les hiddens de clans comptent comme un slot de subjutsu (3 max.)\n- Passage du « Nuage de sable » en rang A → Passage du « Cube de sable » en rang B\n- Ajout d’une barre de recherche pour inviter quelqu’un de proche en radio\n```\n\n# <a:solve_arrow_or:1371120189004972163> `CLANS : KONOHA`\n\n<:solve_reload:1289153175093248036>                   - **__ABURAME__** \n```\n- Frappe chitineuse\n - Augmentation du CD\n  - Level 1 : 55 sec → 65 sec\n  - Level 2 : 50 sec → 60 sec\n  - Level 3 : 45 sec → 55 sec\n - Diminution du vol de chakra\n  - Level 1 : 35 → 15\n  - Level 2 : 45 → 20\n  - Level 3 : 55 → 25\n - Diminution des dégâts projetés\n  - Level 1 : 100 → 80\n  - Level 2 : 125 → 90\n  - Level 3 : 150 → 100\n\n- Nuage d'insectes\n - Diminution du coût en chakra\n  - Level 1 : 390 → 310\n  - Level 2 : 350 → 290\n  - Level 3 : 310 → 270\n``` \n\n<:solve_reload:1289153175093248036>                  - **__HYUGA__** \n```\n- Poings du Hakke\n - Diminution du coût en chakra\n  - Level 1 : 300 → 270\n  - Level 2 : 350 → 300\n  - Level 3 : 400 → 350\n```\n\n<:solve_reload:1289153175093248036>                   - **__SENJU__** \n```\n- Intensification Senju\n - Diminution du boost de dégâts kenjutsu\n  - Level 1 : 15% → 15%\n  - Level 2 : 20% → 20%\n  - Level 3 : 30% → 25%\n\n- Régénération cellulaire \n - Augmentation du CD\n  - Level 1 : 100 sec → 110 sec\n  - Level 2 : 135 sec → 145 sec\n  - Level 3 : 155 sec → 165 sec\n```\n\n<:solve_reload:1289153175093248036>                   - **__UCHIHA__** \n```\n- Sharingan\n - Diminution du boost de dégâts taijutsu\n  - Level 1 : 10% → 10%\n  - Level 2 : 20% → 15%\n  - Level 3 : 30% → 25%\n  - Level 4 : 35% → 30%\n  - Level 5 : 40% → 35%\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759247822597
+  },
+  {
+    "id": "1422610149465395334",
+    "content": "",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1422610148895097014",
+        "name": "ssstik.io_french_ref_1759206492451.mov",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1422610148895097014/ssstik.io_french_ref_1759206492451.mov?ex=68ff9372&is=68fe41f2&hm=f302e027c3f28243e46f1471d7acaaffbacaaf5bfda0d39c4112aee0e7224287&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1759247090451
+  },
+  {
+    "id": "1422609662263693363",
+    "content": "## <:solve_reload:1289153175093248036>  REWORK DU SYSTÈME DE CUMUL DES BOOSTS DE DÉGÂTS\n\n### ⏮️  Ancien système *(Multiplicatif)*\nLes boosts de dégâts en pourcentage se multipliaient entre eux, créant des cumuls exponentiels très puissants :\n\n**Exemples :**\n- 2× +20% : `100 → 100 × 1.2 × 1.2 = 144 dégâts (+44%)`\n- 3× +20% : `100 → 100 × 1.2 × 1.2 × 1.2 = 172 dégâts (+72%)`\n- +50% + +20% : `100 → 100 × 1.5 × 1.2 = 180 dégâts (+80%)`\n\n❌ **Problème** : Le stacking devenait trop fort avec plusieurs buffs actifs simultanément.\n\n---\n\n### 🆕  Nouveau système *(Additif avec decay)*\nLes boosts de dégâts s’additionnent maintenant, avec un système de rendements décroissants :\n\n**Règles :**\n1. Le premier boost (le plus fort) s’applique à **100%**\n2. Les boosts suivants s’appliquent à **50%** de leur valeur *(decay)*\n3. Les boosts sont triés automatiquement du plus fort au plus faible\n4. Cumul **additif** au lieu de multiplicatif\n\n**Exemples :**\n- 2× +20% : `20% + (20% × 50%) = +30% → 130 dégâts`\n- 3× +20% : `20% + 10% + 10% = +40% → 140 dégâts`\n- +50% + +20% : `50% + (20% × 50%) = +60% → 160 dégâts`\n\n---\n\n### 🔹 Points importants\n✅ Le boost le plus fort garde toujours son efficacité maximale (**100%**)  \n✅ Objectif : Rendre le stacking plus équilibré tout en gardant les buffs utiles\n\n---\n\n### ❓ Pourquoi ce changement ?\nLe système multiplicatif créait des situations où empiler plusieurs buffs devenait trop puissant, rendant certains combo abusif.  \n➡️ Le nouveau système récompense toujours le stacking, mais de manière **plus contrôlée et prévisible**.\n\n💡 **Note** : Les boosts de défense, résistance physique et résistance jutsu gardent leur système actuel (meilleur boost uniquement).\n\n||@here||",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759246974293
+  },
+  {
+    "id": "1421893714770657394",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 28/09**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout d’une barre de recherche pour sonner chez quelqu’un.\n- Kusarigama ne crie plus lors de l’application du poison.\n- Les staffs en mode admin ne sont plus ciblés par les techniques de rang S Hyoton et rang S Kenjutsu.\n- Correction des bugs liés au mode alliés/ennemis des techniques.\n- Ajout d’un timer avant que la Dévotion se désactive lorsque le Yokushin et le Hōzuki s’éloignent trop (corrige le problème lié au passage des frontières).\n- Ajout d’un mode alliés/ennemis sur les pièges Yokushin, à configurer avant la pose.\n- Ajout du code MehDitDonc (Mhdc) dans la boutique.\n- Rework du fonctionnement des grabs/heals Jinchuriki afin de réduire les bugs.\n- La zone d’eau ne s’applique plus sur le Karatachi caché dans sa brume.\n- L’Ermite Limace se désactive automatiquement lorsque le joueur est en Pain afin d’éviter la régénération pendant ce mode.\n- Ajout d’une barre indiquant la durée du subjutsu de l’invocation de Ningame, augmentation du son au spawn et +100 dégâts pour chaque rang.\n- Correction du usebug avec l’oiseau Bakuton en diagonale qui permettait d’augmenter la vitesse, perte importante pour la Roni Airline.\n- Ajout des items de logo du culte.\n- Correction des collisions du Crystal Shoton avec les autres SWEP.\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / ??? / …",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1759076279109
+  },
+  {
+    "id": "1421525705765814544",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 27/09**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout du coup spécial du bâton de corail.\n- Modification de l’animation dans le menu de sélection des personnages.\n- Rework du Crystal Shoton.\n- Suppression des collisions buguées sur les drapeaux à capturer.\n- Correction de la synchronisation des animations (vous verrez désormais les personnages avec la bonne animation en entrant dans une pièce).\n- Ajout de 10 nouvelles OST.\n- Correction des coups critiques.\n- Ajout d’un wallhack entre le Yokushin et son Hozuki lorsqu’ils sont liés.\n- Retour de l’Inkuton dans la boutique et retrait du Kami.\n- Ajout d’une barre de cooldown entre chaque dash de l’armure Shoton.\n- Optimisation des wallhacks.\n- Optimisation des calculs de boost.\n- Ajout du code Somioka.\n- Optimisation du mode cartoon.\n- Réduction du temps de cast du premier jutsu Kakuzu.\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / ??? / …",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758988538925
+  },
+  {
+    "id": "1420797715847319572",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 25/09**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout des codes créateurs « Yume » et « Zirkous »\n- Ajout de l’ermite araignée \n- Ajout de nouvelles animations\n- Ajout d’un mode activation / désactivation du wallhack sur les kirisogan\n- Ajout d’une nouvelle opti des wallhack \n- Ajout de l’anti-slow\n- Ajout de la recharge de chakra pendant la rang A et rang S Kami\n- Fix et ajustement de dégâts des tics pour les spells « Zone de chaleur » et « Grenade incendiaire » qui n’agissaient pas instantanément à l’utilisation\n- Fix de l’anti-cc sur certains spells d’immunité \n- Fix de la tp de la cible quand le clone du « Multi-clonage » se terminait \n- Fix de l’hidden Hoshigaki\n- Fix de certains spells Hozuki\n- Fix du bug des dégâts de la rang S Raimei\n```\n\n|| @here ||\n\n-# __**À venir**__: Rework de quelques techniques (Shakuton, …) / Rework Nature / ??? / …",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758814972603
+  },
+  {
+    "id": "1418258310251155456",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 18/09**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout de 34 masques, bientôt disponibles en boutique.\n- Suppression du logo de Kiri sur le \"Masque de l’Oinin\".\n- Correction d’un bug sur le multiclonage : parfois la vie revenait à 100 HP après la destruction d’un clone.\n- Rework du Dragon de foudre.\n- Ajout du subjutsu : Invocation de Ningame.\n- Il est de nouveau possible de recharger son chakra lors des invocations / transformations.\n- Multiplication par 3 de la hitbox de la Tornade d’eau.\n- Correction du cooldown du coup spécial du bâton d’Enma, qui s’activait même sans être au sol.\n- Correction d’un bug du tick rate du jutsu : Chrysalide de Kikaichu.\n```\n\n📈                - __**FPS Booster**__\n```\n- Vous pouvez désinstaller FPS Booster de votre workshop, il est directement sur le serveur maintenant.\n- Ajout du FPS Booster directement sur le serveur.\n- Correction du /boost dans le chat pour l’ouverture.\n- Changement de couleur du HUD.\n- Forçage des options skybox3D et des cordes pour éviter les problèmes de map.\n```\n\n|| @here ||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1758209531129
+  },
+  {
+    "id": "1416816530531946576",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 14/09**__ :\n\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Correction des bugs sur le Random Ramen.\n- Ajout de l'hidden Aburame : Chrysalide de Kikaichu.\n- Optimisation des hook serveur.\n- Les Kage et les Sanin sont maintenant au même niveau de puissance dans le code, pour les swep qui utilise n+X.\n- Correction du bug sur le coup spé des kiba.\n- Les utilisateurs du Raz de marée ne peuvent plus se faire grab.\n- Le coup spé de Samehada ne marche plus sur les personnes sous immune.\n- La fleur du lotus, l'ombre de la feuille morte et le rite de lame ne marche plus sur les personnes sous immune.\n- Si vous êtes stun, silence ou entrain de faire un jutsu vous ne pouvez plus recharger votre chakra.\n- Si vous êtes stun, silence ou entrain de faire un jutsu vous ne pouvez plus vous accroupir ou faire un saut de chakra.\n- Désactivation des dégâts de chute sur la fleur du lotus et l'ombre de la feuille morte.\n- Correction du bug d'immobilisation sur l'actif de l'ermite scorpion.\n```\n\n|| @here ||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757865784057
+  },
+  {
+    "id": "1416084917271662692",
+    "content": "#  <a:solve_arrow_or:1371120189004972163> `ERMITES`\n\n<:solve_nerf:1374263005650616330>                  - **__LIMACE__** \n```\n- Passif : \n - Diminution de la régénération des tics\n  - Level 1 : 7 HP → 5 HP\n  - Level 2 : 10 HP → 8 HP \n  - Level 3 : 15 HP → 12 HP\n - Diminution du % de résistance \n  - Level 1 : 15% → 10%\n  - Level 2 : 20% → 15% \n  - Level 3 : 30% → 25%\n\n- Actif : Soin de la limace\n - Diminution du nombre de limaces\n  - 5 → 4\n - Augmentation du CD \n  - Level 1 : 70 sec → 105 sec\n  - Level 2 : 60 sec → 95 sec\n  - Level 3 : 55 sec → 85 sec\n - Augmentation du coût en chakra\n  - Level 1 : 50 → 200\n  - Level 2 : 60 → 190\n  - Level 3 : 70 → 180\n``` \n\n<:solve_buff:1374263003549138984>                  - **__CRAPAUD__** \n```\n- Actif : Bave du crapaud\n - Augmentation du % de slow\n  - Level 1 : 5% → 30%\n  - Level 2 : 10% → 35%\n  - Level 3 : 15% → 40%\n - Diminution du coût de chakra\n  - Level 1 : 280 → 190\n  - Level 2 : 260 → 170\n  - Level 3 : 240 → 150\n - Augmentation des dégâts\n  - Level 1 : 100 → 200\n  - Level 2 : 125 → 225\n  - Level 3 : 150 → 250\n - Diminution du temps de no jump\n  - 15 sec → 8 sec\n```\n\n<:solve_nerf:1374263005650616330>                  - **__SCORPION__** \n```\n- Passif : \n - Diminution du % de dégâts\n  - Level 1 : 20% → 15%\n  - Level 2 : 25% → 20%\n  - Level 3 : 30% → 25%\n```\n\n<:solve_nerf:1374263005650616330>                  - **__AIGLE__** \n```\n- Actif : Invocation de l'aigle\n - Diminution du temps de vol\n  - Level 1 : 14 sec → 12 sec\n  - Level 2 : 18 sec → 16 sec\n  - Level 3 : 26 sec → 20 sec \n - Diminution de la vitesse de vol\n  - 1250 → 1000\n```\n\n<:solve_nerf:1374263005650616330>                   - **__SINGE__** \n```\n- Passif : \n - Diminution du % de résistance\n  - Level 1 : 10% → 10%\n  - Level 2 : 20% → 15%\n  - Level 3 : 25% → 20%\n```\n\n<:solve_nerf:1374263005650616330>                   - **__SERPENT__** \n```\n- Passif : \n - Diminution des dégâts des serpents\n  - 70 → 40\n - Diminution du % de résistance\n  - Level 1 : 10% → 10%\n  - Level 2 : 20% → 15%\n  - Level 3 : 25% → 20%\n - Diminution du % de vitesse\n  - Level 1 : 10% → 10%\n  - Level 2 : 20% → 15%\n  - Level 3 : 30% → 25% \n```\n\n<:solve_nerf:1374263005650616330>                   - **__SALAMANDRE__** \n```\n- Passif : \n - Diminution du % de dégâts\n  - Level 1 : 20% → 20%\n  - Level 2 : 25% → 25%\n  - Level 3 : 35% → 30%\n - Diminution du % de résistance\n  - Level 1 : 20% → 15%\n  - Level 2 : 30% → 20%\n  - Level 3 : 40% → 25% \n\n- Actif : Invocation de la Salamandre\n - Ajout d'un anti-cc\n```\n\n#  <a:solve_arrow_or:1371120189004972163> `SUBJUTSU`\n\n<:solve_nerf:1374263005650616330>                  - **__NINPO : Boule de fumée__** \n```\n- Augmentation du CD\n - Level 1 : 65 → 75\n - Level 2 : 55 → 65\n - Level 3 : 45 → 55\n```\n\n|| @here ||\n\n-# __**À venir**__: Kiri <:solve_icon_kiri:1250821963484626964>",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757691353863
+  },
+  {
+    "id": "1416084845221773332",
+    "content": "<:solve_reload:1289153175093248036>                   - **__INKUTON__** \n```\n- Guerriers d’encre \n - Passage en rang A \n - Diminution des dégâts\n  - Level 1 : 400 → 250\n  - Level 2 : 550 → 300\n  - Level 3 : 700 → 400\n - Diminution du CD\n  - Level 1 : 105 sec → 95 sec \n  - Level 2 : 95 sec → 85 sec\n  - Level 3 : 85 sec → 75 sec\n - Diminution du chakra \n  - Level 1 : 500 → 400\n  - Level 2 : 450 → 350\n  - Level 3 : 375 → 275\n\n- Dragon d’encre\n - Passage en rang S\n - Augmentation des dégâts\n  - Level 1 : 200 → 350 \n  - Level 2 : 250 → 450\n  - Level 3 : 350 → 550\n - Augmentation du temps de vol\n  - Level 1 : 6 sec → 8 sec \n  - Level 2 : 8 sec → 10 sec\n  - Level 3 : 12 sec → 14 sec\n - Augmentation du CD\n  - 100 sec → 105 sec\n - Augmentation du chakra\n  - Level 1 : 400 → 425\n  - Level 2 : 350 → 400\n  - Level 3 : 300 → 375\n```\n\n<:solve_reload:1289153175093248036>                  - **__SHOTON__** \n```\n- Dragon de cristal \n - Seules les personnes de la même faction peuvent monter sur le dragon\n - Augmentation du CD\n  - Level 1 : 110 sec → 125 sec\n  - Level 2 : 105 sec → 115 sec\n  - Level 3 : 95 sec → 105 sec\n```\n\n<:solve_reload:1289153175093248036>                  - **__KAMI__** \n```\n- La Faucheuse\n - Diminution du chakra\n  - Level 1 : 460 → 425\n  - Level 2 : 440 → 400 \n  - Level 3 : 420 → 375\n - Diminution du cooldown\n  - Level 1 : 170 sec → 155 sec\n  - Level 2 : 160 sec → 145 sec \n  - Level 3 : 150 sec → 135 sec\n```   \n\n<:solve_reload:1289153175093248036>                  - **__JINTON__** \n```\n- Cube dégâts\n - Augmentation du CD\n  - Level 1 : 50 sec → 50 sec\n  - Level 2 : 40 sec → 45 sec\n  - Level 3 : 30 sec → 35 sec\n\n- Clone Jinton \n - Diminution de la durée\n  - Level 1 : 10 sec → 7 sec\n  - Level 2 : 15 sec → 12 sec\n  - Level 3 : 20 sec → 17 sec\n\n- Bouclier / Secousses\n - Augmentation du CD\n  - Level 1 : 65 sec → 80 sec \n  - Level 2 : 60 sec → 75 sec \n  - Level 3 : 55 sec → 70 sec  \n\n- Cube de Jinton\n - Augmentation du CD\n  - Level 1 : 70 sec → 85 sec\n  - Level 2 : 60 sec → 75 sec\n  - Level 3 : 50 sec → 65 sec\n\n- Rayon blanc \n - Ajout d'un anti-cc\n - Diminution des dégâts\n  - Level 1 : 100 → 80\n  - Level 2 : 110 → 90 \n  - Level 3 : 120 → 100\n - Augmentation de la vitesse\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757691336685
+  },
+  {
+    "id": "1416084786430349434",
+    "content": "#  <a:solve_arrow_or:1371120189004972163> `KEKKEI GENKAI`\n\n<:solve_buff:1374263003549138984>                    - **__FUTTON__** \n```\n- Crachat de vapeur\n - Augmentation de la hitbox\n - Augmentation des dégâts\n  - Level 1 : 75 → 95\n  - Level 2 : 90 → 110\n  - Level 3 : 110 → 130\n - Diminution du chakra\n  - Level 1 : 160 → 130\n  - Level 2 : 130 → 100\n  - Level 3 : 100 → 70\n  \n\n- Charge de vapeur \n - Augmentation de la distance\n - Augmentation de la vitesse\n - Augmentation des dégâts\n  - Level 1 : 120 → 150\n  - Level 2 : 150 → 170\n  - Level 3 : 180 → 200\n\n- Cercle de vapeur\n - Augmentation de la hitbox du cercle\n - Augmentation de la vitesse des tics de brûlures\n\n- Mode vapeur\n - Diminution du chakra\n  - Level 1 : 340 → 280\n  - Level 2 : 310 → 250\n  - Level 3 : 280 → 210\n - Augmentation de l'attaque-speed\n  - 20% → 30%\n```\n\n<:solve_reload:1289153175093248036>                   - **__SHAKUTON__** \n```\n- Courants ascendants\n - Augmentation du CD entre chaque saut\n  - 0.4 sec → 1 sec\n - Diminution de la distance de vol\n - Diminution du nombre de tics de brûlures\n  - 10 → 5\n - Augmentation des dégâts à l’impact \n  - Level 1 : 70 → 90\n  - Level 2 : 90 → 100\n  - Level 3 : 110 → 150\n - Augmentation des dégâts de brûlures\n  - 5 → 10\n - Augmentation de la vitesse des orbes\n```\n\n<:solve_buff:1374263003549138984>                   - **__JITON__** \n```\n- Pluie de limailles\n - Augmentation des dégâts\n  - Level 1 : 15 → 25\n  - Level 2 : 20 → 30\n  - Level 3 : 25 → 40\n - Diminution de la durée de la pluie\n  - 3 sec → 2 sec\n - Augmentation du slow\n  - Level 1 : 20% → 25%\n  - Level 2 : 25% → 30%\n  - Level 3 : 30% → 40%\n - Diminution du cooldown\n  - 40 sec → 35 sec\n\n- Clone de fer\n - Augmentation des dégâts \n  - Level 1 : 180 → 280 \n  - Level 2 : 220 → 300\n  - Level 3 : 280 → 320\n\n- Armure de fer\n - Retrait du root → Ajout d’un stun\n\n- Poings de fer\n - Diminution des dégâts\n  - 100 → 85\n - Augmentation de la vitesse aller-retour des poings\n - Augmentation de la distance des poings\n - Diminution du chakra\n  - Level 1 : 400 → 300\n  - Level 2 : 350 → 280\n  - Level 3 : 320 → 260\n\n```\n\n<:solve_reload:1289153175093248036>                    - **__YOTON__** \n```\n- Boule de Yoton\n - Augmentation de la vitesse du projectile \n\n- Rafales\n - Augmentation de la vitesse des projectiles \n - Augmentation du slow\n```\n\n<:solve_reload:1289153175093248036>                   - **__KAMINARI__** \n```\n- Sphère électrique suprême\n - Augmentation des dégâts à l’explosion\n  - Level 1 : 150 → 210 \n  - Level 2 : 175 → 235\n  - Level 3 : 200 → 270\n\n- Poings de foudre noir\n - Retrait de l’escape\n - Ajout d’un stun à la retombée\n - Ajout d'un anti-cc\n - Augmentation de la vitesse d'exécution\n\n- Ruée électrique \n - Augmentation du dash\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757691322668
+  },
+  {
+    "id": "1416084740523429931",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 12/09**__ :\n\n*Ce patchnote vise principalement la restriction des fly/escape liés aux Kekkei Genkai ou autres les rendant uniquement accessibles à un certain grade tout en ajustant certaines valeurs. Avec la future arrivée de nouveaux ermites, un rééquilibrage (passif et actif) était nécessaire afin de maintenir un équilibre cohérent à leurs caractéristiques.\n\nNous continuerons à constamment surveiller le plateau de jeu notamment avec l’arrivée d’une nouvelle faction 👀*\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout de l'Hiraishin\n- Correction d’un bug lié au Kunai dans le Pays des Oiseaux\n- Vous ne pouvez plus lancer de jutsu lorsque vous attrapez quelqu’un avec le visage Yoton\n- Correction du bug qui faisait disparaître les ailes Kami lorsque vous tuiez un adversaire avec votre coup spécial.\n- Rework visuel de la Prison aqueuse et fix de l'animation qui partait pas\n- Modification de la stance Kenjutsu (Geams est indécis)\n- Les particules de recharge de chakra n’apparaissent plus lorsque vous êtes invisible (sauf avec sub_invisibility)\n- Correction du bug où les jutsu traversaient le mur Doton\n- La Main de roche apparaît désormais plus proche de l’utilisateur\n- Lorsqu’un joueur est pris avec les fils Ayatsuri, il ne peut plus prendre ses mains pour retirer ses jutsu\n- Correction du bug des épines de roche qui déduisait plusieurs fois votre chakra\n- Les dégâts du rasenshuriken passent en futon\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757691311723
+  },
+  {
+    "id": "1415009256347930844",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 09/09**__ :\n\n\n<:solve_naruto:1249368325692067910>                  - __**Général**__\n```\n- La hitbox du point and click de la Traque Cyclonique Taiton a été multipliée par 3.  \n- Ajout d’un vendeur de tenues au secteur 5.  \n- Ajout du coup spécial de la lance Jishaku.  \n- Ajout d’un coffre pour le BDM Nukenin.  \n- Ajout d’une cloche au bastion de Suna du S3.  \n- Correction des bugs liés aux lames de chaleur.  \n- Correction des bugs concernant le grade Staff Sénior.  \n- Ajout de la catégorie \"Favoris\" dans le menu jutsu.\n- Hydrocanon ne bump plus et ne stun plus les personnes ne pouvant pas être grab. (Rocket Shoton, Susano, Monture...)\n```\n\n📖                 - __**Favoris**__\n```\n- Vous pouvez désormais ajouter des jutsu en favoris en appuyant sur Shift + Clic droit dessus.  \n- Dans l’onglet Favoris, vous pouvez retirer un jutsu de vos favoris avec la même combinaison (Shift + Clic droit).\n- Les jutsu des styles de combat sont désormais regroupés dans la catégorie \"Autres\".\n```\n\n<:Kiba:1353371959672574002>                 - __**Kiba**__\n```\n- Rework : Suppression des deux coups spéciaux, remplacés par un unique coup spécial.  \n  → L’utilisateur plante ses épées dans le sol, créant un courant parcourant la terre et étourdissant les ennemis à proximité.\n```\n\n||@here||\n\n-# __**A venir**__:  Hiraishin / Stat Scaling sur le grade (avantage sans clan ?) / Clignement des yeux et mouvement de bouche / Coupe bicolore / Refonte du système de capture de drapeau",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757434896314
+  },
+  {
+    "id": "1413909748641960099",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 06/09**__ :\n\n\n<:solve_naruto:1249368325692067910>                  - __**Général**__\n```\n- Modification des particules de hit sur les épées.  \n- Ajout de particules de hit uniques pour les épées de la Brume.\n- Correction de certaines capes qui ne s’enlèvent pas en mode PvP.\n- Ajout d’une particule Ermite Naturel Garuda.\n- Correction de la lance Kami.\n- Ajout du code créateur Minos.\n```\n\n🩸                 - __**Jashin**__\n```\n- La personne ne peut plus faire de jutsu pendant le rituel.\n- Ajout d’une animation et d’un pieu qui transperce l'utilisateur à chaque tick du rituel.\n```\n\n<:Shibuki:1353372098302840892>                 - __**Shibuki**__\n```\n- Rework : chaque auto-attaque applique un parchemin sur la cible. Ces parchemins expirent au bout de 5 secondes (jusqu’à 5 par personne).  \nÀ l’expiration, ils explosent. Cependant, si l’utilisateur déclenche volontairement l’explosion en appuyant sur le coup spécial, les parchemins infligent le double de dégâts.  \n```\n\n<:Kabutowari:1353371567177994291>                 - __**Kabutowari**__\n```\n- Les dégâts deviennent des dégâts bruts, mais ne traversent pas les immunités.\n- Augmentation des dégâts : 300 -> 450.\n```\n\n<:Samehada:1353371633498198148>                 - __**Samehada**__\n```\n- Ajout d’un stun à la fin du coup spécial.  \n- Ajout d’une barre indiquant quand la personne va se libérer.  \n```\n\n||@here||\n\n-# __**A venir**__:  Rework Kiba / Stat Scaling sur le grade (avantage sans clan ?) / Clignement des yeux et mouvement de bouche / Coupe bicolore / Refonte du système de capture de drapeau",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1757172753249
+  },
+  {
+    "id": "1413547627831754824",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 05/09**__ :\n\n<:solve_naruto:1249368325692067910>                  - __**Général**__\n```\n- La personne dans les ailes de Kami ne peut plus être grab.\n- Modification de la posture lorsqu’on tient une épée.\n- Rework visuel du golem de Mokuton.\n- Correction de l’erreur provoquée par le coup spécial de Nozarashi.\n- Correction de la hitbox et de l’affichage des dégâts du jutsu de rang S Raiton : La Ruée électrique.\n- Correction de la hitbox des kunai.\n- La hitbox du point and click du jutsu de rang S Deiton est doublée.\n```\n\n<:solve_4:1250487828958150687>                 - __**Cape**__\n```\n- À partir du grade de Chunin, vous pouvez désormais équiper une cape via un bouton dans le menu d’animation. Cela vous attribue aussi une tenue différente selon votre village et votre rang (Jonin ou supérieur, avec un cache-cou).\n\n- Vous pouvez personnaliser sa position en faisant un clic droit sur le bouton.\n\n- Elle se retire automatiquement lorsque vous entrez en mode PVP, si vous lancez un jutsu ou si vous êtes touché par un jutsu.\n```\n\n<a:solve_crownyellow:1389618840534646886>                  - __**Accessoires**__\n```\n- Correction de certains problèmes d’optimisation des accessoires.\n\n- L’édition des accessoires prend désormais en compte la taille de votre personnage. Si vous agrandissez votre personnage ou que vous changez pour un personnage plus grand, vous n’aurez plus besoin de refaire la configuration de vos accessoires. Cependant, certaines de vos configurations actuelles risquent d’être déréglées.\n\n- Correction de la position des accessoires lors de la prévisualisation des personnages (portrait dans le HUD, personnage dans l’inventaire).\n\n- Correction d’un problème de rendu qui provoquait un effet de “double” pendant le mouvement sur certains accessoires.\n```\n\n||@here||\n\n-# __**A venir**__:  Rework Épée de la brûme / Stat Scaling sur le grade (avantage sans clan ?) / Clignement des yeux et mouvement de bouche / Coupe bicolore / Refonte du système de capture de drapeau",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1413547627202613368",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1413547627202613368/image.png?ex=68ff90d0&is=68fe3f50&hm=36977184c4961acd2934ca8528fe84e1ba488e5430e91728fab6fa53a2c81ea8&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1757086416920
+  },
+  {
+    "id": "1412461481823571999",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 02/09**__ :\n\n<a:solve_verifiedblueanimated:1389618646120271892>                 - __**Optimisation**__\n```\n- Changement de la gestion des collisions de la hitbox des jutsu, pour un système bien plus optimisé.\n- Amélioration de beaucoup de hook côté client et serveur.\n- Fix de leak entités qui faisait crash (crash limite moteur source)\n- Retrait plus rapide de certaines entités.\n```\n\n*Le serveur progresse bien et nous ajoutons régulièrement de nouveaux contenus. Cependant, cela a mis en évidence certains systèmes peu optimisés qui pouvaient ralentir votre jeu, provoquer du lag serveur ou même causer des crash. Cette mise à jour a pour objectif de corriger ces problèmes. *\n\n*Hier, ce patch a été testé lors de l’entraînement de guerre de Suna : le résultat a été concluant, avec quasiment aucun lag, même lors d’une manche 40 vs 40 en simultané. Nous continuons à travailler activement pour améliorer la fluidité du serveur. *\n\n*Merci à toutes et à tous pour votre soutien et la confiance que vous nous accordez. * <:solve_22:1250488230432735232> <:solve_naruto:1249368325692067910> \n\n||@here||\n\n-# __**A venir**__:  Système de cape / Stat Scaling sur le grade (avantage sans clan ?) / Clignement des yeux et mouvement de bouche / Coupe bicolore / Refonte du système de capture de drapeau",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756827459532
+  },
+  {
+    "id": "1411368145570238609",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 30/08**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n\n**Déployé aujourd'hui :**\n```\n- Ajout de la commande setmodelzone, permettant de setmodel toutes les personnes autour du joueur.\n- Mise en place d’un système de coffres whitelist, dans lesquels vous pouvez déposer votre argent et vos objets si vous disposez de la whitelist (actuellement utilisé pour les BDM et les forgerons des villages).\n```\n\n**Déjà en place sur le serveur depuis quelques jours :**\n```\n- Correction des bugs liés à la déconnexion dans un appartement.\n- Correction du bug qui faisait que certains changements chez l’esthéticienne n’étaient pas toujours sauvegardés.\n- Modification de l’ordre d’affichage des KG dans le menu Jutsu.\n- Correction de divers stuck liés aux jutsu de type breath.\n- Ajout des bandeaux Oto et Kiri rayés.\n- Ajout des portes de Kumo.\n- La tenue tactique avec masque passe en TKJ et est interdite en bataille pour les jonins.\n- Ajout de la blackbox Mugen S5.\n- Désactivation de la durabilité des armes.\n```\n||@here||\n\n-# __**A venir**__: Changements Menu Animation / Spoil Kiri / Stat Scaling sur le grade (avantage sans clan ?) /",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756566787856
+  },
+  {
+    "id": "1409925084889481316",
+    "content": "",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1409925084696809653",
+        "name": "IMG_1883.jpg",
+        "url": "https://cdn.discordapp.com/attachments/1382045326390726817/1409925084696809653/IMG_1883.jpg?ex=68ff920f&is=68fe408f&hm=b25aaff02b9540b69a92df65c108bfc0297a5607ca557fd8eb0fc3870afe3b49&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1756222735379
+  },
+  {
+    "id": "1409923052585750790",
+    "content": "@here",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756222250840
+  },
+  {
+    "id": "1409923023678734357",
+    "content": "#  <a:solve_arrow_or:1371120189004972163> `SUBJUTSU`\n\n<:solve_buff:1374263003549138984>                  - **__La fleur d'Ammoniaque__** \n```\n- Augmentation des dégâts de poison\n - Level 1 : 10 → 20\n - Level 2 : 10 → 30\n - Level 3 : 15 → 40 \n- Augmentation du CD \n - Level 1 : 65 sec → 90 sec\n - Level 2 : 60 sec → 80 sec\n - Level 3 : 50 sec → 70 sec\n```\n\n <:solve_buff:1374263003549138984>                  - **__Suikodan__** \n```\n- Ajout d'un drain de chakra de 10%\n```\n\n<:solve_buff:1374263003549138984>                  - **__Tremblement de terre__** \n```\n- Augmentation de la durée\n - Level 1 : 6 sec → 8 sec\n - Level 2 : 6 sec → 9 sec\n - Level 3 : 6 sec → 10 sec\n- Augmentation de la vitesse des tics de dégâts\n```\n\n<:solve_reload:1289153175093248036>                 - **__Futon : Rasenshuriken__** \n```\n- Ajout d'une explosion de fin\n- Diminution des dégâts des tics\n - Level 1 : 60 → 30\n - Level 2 : 80 → 40\n - Level 3 : 100 → 50\n- Diminution des dégâts d'impact \n - 250 → 150\n- Augmentation du CD\n - Level 1 : 90 sec → 100 sec\n - Level 2 : 80 sec → 95 sec\n - Level 3 : 70 sec → 90 sec\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Flèche de feu__** \n```\n- Diminution de la hitbox\n - 280 → 210\n - 220 → 170\n- Augmentation du CD \n - Level 1 : 90 sec → 95 sec\n - Level 2 : 80 sec → 90 sec\n - Level 3 : 70 sec → 80 sec \n```\n\n<:solve_nerf:1374263005650616330>                  - **__Entrave par les pieux__** \n```\n- Diminution des dégâts\n - Level 1 : 60 → 35\n - Level 2 : 70 → 40\n - Level 3 : 100 → 50\n- Augmentation du CD\n - Level 1 : 90 sec → 100 sec\n - Level 2 : 80 sec → 90 sec\n - Level 3 : 70 sec → 80 sec \n```\n\n<:solve_nerf:1374263005650616330>                  - **__Crocs du tigre__** \n```\n- Diminution du temps de stun\n - 2 sec → 1.5 sec \n- Diminution de la range\n - Level 1 : 600 → 350\n - Level 2 : 700 → 400\n - Level 3 : 800 → 500\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Compagnons aqueux__** \n```\n- Diminution du temps d'apparition des loups \n - Level 1 : 15 sec → 6 sec\n - Level 2 : 15 sec → 8 sec\n - Level 3 : 15 sec → 10 sec \n- Diminution du drain de chakra par loups\n - Level 1 : 15% → 5%\n - Level 2 : 15% → 7%\n - Level 3 : 15% → 10%\n- Diminution de la range \n - 1500 → 800\n- Ajustement des dégâts\n - Level 1 : 150 → 120\n - Level 2 : 150 → 150\n - Level 3 : 200 → 200\n```\n\n-# __**A venir**__: Nouveau KG",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756222243948
+  },
+  {
+    "id": "1409922969374953622",
+    "content": "#  <a:solve_arrow_or:1371120189004972163> `CONSOMMATION DE CHAKRA`\n\n<:solve_buff:1374263003549138984>                  - **__Clans__** \n```\n- Spells clan constant (pupilles, renforcement, etc...)\n - Diminution de la consommation de chakra\n  - 8 → 5\n```\n\n<:solve_buff:1374263003549138984>                  - **__Ermite__** \n```\n- Passif ermites\n - Diminution de la consommation de chakra\n  - 20 → 15\n  - 15 → 12\n  - 10 → 7 \n```\n\n#  <a:solve_arrow_or:1371120189004972163> `NATURE`\n\n<:solve_reload:1289153175093248036>                 - **__Suiton__** \n```\n- Bulle d'eau\n - Diminution du % drain de chakra\n  - 3% → 1%\n\n- Jet aqueux\n - Augmentation du nombre de tics\n - Diminution du temps d'utilisation\n  - Level 1 : 5 sec → 4 sec\n  - Level 2 : 6 sec → 5 sec\n  - Level 3 : 8 sec → 6 sec\n\n- Zone d'eau\n - Augmentation des tics du drain de chakra\n - Diminution du temps de cast\n  - 2 sec → 1.5 sec\n```\n\n#  <a:solve_arrow_or:1371120189004972163> `CLANS`\n\n<:solve_buff:1374263003549138984>                  - **__Raimei__** \n```\n- Hypnose vibratoire\n - Augmentation du radius\n  - Level 1 : 50 → 80\n  - Level 2 : 50 → 80\n  - Level 3 : 50 → 80\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Mugen__** \n```\n- Zone pétrifiante\n - Diminution du temps de confusion\n  - Level 1 : 5 sec → 3 sec (1 jutsu utilisé)\n  - Level 2 : 6 sec → 3.5 sec (2 jutsu utilisés)\n  - Level 3 : 7 sec → 4.5 sec (2 jutsu utilisés)\n - Diminution du radius\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Aburame__** \n```\n- Frappe chitineuse\n - Diminution du vol de chakra\n  - Level 1 : 70 → 35\n  - Level 2 : 80 → 45\n  - Level 3 : 90 → 55\n```\n\n#  <a:solve_arrow_or:1371120189004972163> `AUTRES`\n\n<:solve_buff:1374263003549138984>                  - **__Marque maudite__** \n```\n- Marque maudite : Terre&Ciel \n - Diminution du debuff de dégâts\n  - Level 1 : 30% → 20%\n  - Level 2 : 25% → 15%\n  - Level 3 : 20% → 10%\n - Augmentation du buff de dégâts\n  - Level 1 : 15% → 20%\n  - Level 2 : 20% → 25%\n  - Level 3 : 25% → 30%\n\n- Éveil marque maudite \n - Diminution des HP perdus (Terre/Ciel)\n  - Level 1 : 25 HP → 20 HP\n  - Level 2 : 20 HP → 15 HP\n  - Level 3 : 15 HP → 10 HP\n - Ajustement du boost de résistance (Terre)\n  - Level 1 : 20% → 15%\n  - Level 2 : 20% → 20%\n  - Level 3 : 20% → 25%\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756222231001
+  },
+  {
+    "id": "1409922907798241371",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 26/08**__ :\n\n*Dans ce patchnote, nous avons revu le chakra maximum, sa consommation et son drain. Jusqu’ici, le chakra n’avait pas un impact suffisant : il était trop facile d’enchaîner les jutsu sans parfois se soucier. Des ajustements de rangs ont été faits afin de rendre les combats plus intéressants entre bas gradés. La durée et la distance des stuns point&click diminuent également. L’objectif est de garder ces jutsu utiles, mais moins frustrants à subir, afin que le positionnement et le timing aient davantage d’importance dans leur utilisation.\nLe dernier point concerne un ajustement de certains subjutsu : les créations de joueurs commencent à prendre une place importante sur le serveur et se développent de jour en jour (merci à Paradou et Llelbi). L'équipe équilibrage continuera de garder un œil dessus.\n\nCes changements visent à rendre le PvP plus stratégique, et moins dépendant de simples enchaînements abusifs. D’autres ajustements arriveront dans le temps comme celui des natures, classes..*\n\nBonne lecture <:solve_KakashiThumbUp1:1389604063691411456> \n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Diminution du chakra max par grade : \n - Genin : 500 → 400\n - Genin conf. : 950 → 800\n - Tokubetsu Chunin : 1200 → 1000 \n - Chunin : 1500 → 1250\n - Chunin conf. : 1700 → 1500\n - Tokubetsu Jonin : 2200 → 2000\n - Jonin : 2500 → 2200\n - Sanin : 3500 → 3000\n - Kage : 4250 → 3800\n- Changement de rangs de l’arbre kenjutsu\n- Le coup spécial du katana est uniquement utilisable pour l'arbre kenjutsu\n- Le % des dégâts critiques passent de 100% à 75%\n```\n\n#  <a:solve_arrow_or:1371120189004972163> `KENJUTSU & TAIJUTSU / EXPERT`\n\n<:solve_reload:1289153175093248036>                 - **__Kenjutsu__** \n```\n- Frappe du ciel \n - Passage en rang C\n  - Diminution des dégâts\n   - Level 1 : 160 → 125\n   - Level 2 : 180 → 150\n   - Level 3 : 220 → 175\n  - Diminution du CD\n   - Level 1 : 65 sec → 55 sec\n   - Level 2 : 55 sec → 45 sec\n   - Level 3 : 45 sec → 35 sec\n\n- Rite de la Lame\n - Passage en rang B\n  - Diminution des dégâts aller-retour\n   - Level 1 : 100 → 55\n   - Level 2 : 100 → 65\n   - Level 3 : 100 → 75\n\n- Percée de la Lame\n - Passage en rang A\n  - Augmentation des dégâts\n   - Level 1 : 95 → 145\n   - Level 2 : 135 → 175\n   - Level 3 : 175 → 215\n  - Augmentation du CD \n   - Level 1 : 60 sec → 70 sec\n   - Level 2 : 50 sec → 60 sec\n   - Level 3 : 40 sec → 50 sec\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Kenjutsu Expert__** \n```\n- Force intérieur\n - Diminution du % de la range des auto-attaques\n  - Level 1 : 20% → 3%\n  - Level 2 : 20% → 5%\n  - Level 3 : 25% → 7%\n  - Level 4 : 25% → 9%\n  - Level 5 : 30% → 15%\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Taijutsu Expert__** \n```\n- Ruée de l'ombre\n - Diminution de la distance de ruée\n  - 1500 → 1000\n- Étreinte du crépuscule\n - Diminution de la distance de ruée\n  - 2000 → 1300\n```\n\n#  <a:solve_arrow_or:1371120189004972163> `STUN POINT&CLICK`\n\n\n<:solve_nerf:1374263005650616330>                   - **__Mains de Shukaku__** \n```\n- Diminution du temps de stun\n - 3 sec → 2 sec\n- Diminution de la distance\n - 800 → 650\n```\n\n<:solve_nerf:1374263005650616330>                   - **__Le couroux du Renard__** \n```\n- Diminution du temps de stun\n - 3 sec → 2 sec\n- Diminution de la distance\n - 800 → 650\n```\n\n<:solve_nerf:1374263005650616330>                   - **__Prison de Lave__** \n```\n- Diminution du temps de stun\n - 3 sec → 2 sec \n- Diminution de la distance\n - 800 → 650\n```\n\n<:solve_nerf:1374263005650616330>                   - **__Genjutsu pourpre__** \n```\n- Diminution du temps de stun\n - 3 sec → 2 sec\n```\n\n<:solve_nerf:1374263005650616330>                   - **__Illusion du cauchamar__** \n```\n- Diminution du temps de stun\n - 3 sec → 2 sec\n```\n\n<:solve_nerf:1374263005650616330>                   - **__Mains de bois__** \n```\n- Mains de bois \n - Diminution de la distance\n  - 1000 → 600\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756222216320
+  },
+  {
+    "id": "1408122233939034242",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 21/08**__ :\n\n<:solve_naruto:1249368325692067910>                - __**Général**__\n```\n- Ajout de l'arbre de compétence \"Jûgo\"\n- Ajout du spell \"Souffle de feu Suprême\"\n```\n\n<:solve_reload:1289153175093248036>                 - **__Futon__** <:solve_icon_futon:1250822718648094780> \n```\n- Tornade déchaînée\n - Fix du multihit \n - Augmentation des dégâts\n  - Level 1 : 180 → 200\n  - Level 2 : 200 → 250\n  - Level 3 : 240 → 300\n\n- Armure de vent\n - Augmentation du CD\n  - Level 1 : 85 → 100\n  - Level 2 : 75 → 90\n  - Level 3 : 65 → 80 \n```\n\n||@here||\n\n-# __**A venir**__: Patchnote 26/08",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1755792902217
+  },
+  {
+    "id": "1406674861757169694",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 17/08**__ :\n\n<:solve_naruto:1249368325692067910>               - **__Général__**  \n```\n- Ajout du spell \"Transfert de vie\"\n- Ajout du coup spécial \"Poing américains\"\n- Fix de nombreux bug liés aux Taijutsumans\n- Fix du multihit de la rang A Futon\n- Fix de nombreux bugs d'animations\n- Fix de beaucoup de choses...\n```\n\n<:solve_reload:1289153175093248036>                 - **__Zone de soin__**  \n```\n- Désormais, le % de soin de l'utilisateur est différent du % de soin des alliés\n - % HP pour l'utilisateur \n  - Level 1 : 5%\n  - Level 2 : 7%\n  - Level 3 : 10%\n - % HP pour les alliés \n  - Level 1 : 14% \n  - Level 2 : 17%\n  - Level 3 : 20% \n - Diminution du radius\n  - 400 → 300\n```\n\n||@here||\n\n-# __**A venir**__:  Cosmétiques / Maj chakra / Rework rang S / ...",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1755447821798
+  },
+  {
+    "id": "1405940689463677022",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 15/08**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Ajout d'un nouveau KG : \"Futton\"\n- Ajout de la pupille Kyûbi lorsque le jinchûriki utilise le chakra du démon\n- Fix du bug où l'on voyait le joueur dans le golem de Mokuton\n- Fix du bug de stamina infinie après utilisation du spell \"Voie de l'épée\"\n- Fix du bug où le vrai corps de l'utilisateur du multiclonage ne recevait pas toujours les dégâts\n- \"Le Rite de la Lame\" ne touche désormais qu'une seule personne, la personne touchée ne peut pas auto-attaque pendant l'utilisation du spell\n- Divers correctifs sur les spells Taijutsu & Taijutsu Expert\n```\n\n<:solve_buff:1374263003549138984>                 - **__Bakuton__**  \n```\n- Mine\n - Retrait du stun à la retombée du bump\n- Les araignées d'argile\n - Augmentation de la range des araignées (fix des araignées qui disparaissaient)\n - Augmentation du radius\n\n- Explosion d'oiseau d'argile\n - Diminution du nombre d'oiseaux\n  - 4 → 3\n - Augmentation des dégâts par oiseau\n  - 75 → 120\n```\n<:solve_reload:1289153175093248036>                 - **__Kenjutsu expert__**  \n```\n- Empalement\n - Retrait du crit et ajustement des dégâts kenjutsu\n - Diminution des dégâts à l'impact\n  - Level 1 : 300 → 100\n  - Level 2 : 350 → 150\n  - Level 3 : 400 → 200 \n - Diminution des dégâts de saignement\n  - 75 → 10\n - D'autres ajustements arriveront...\n```\n\n||@here||\n\n-# __**A venir**__:  Cosmétiques / Maj chakra / Rework rang S / ...",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1755272781483
+  },
+  {
+    "id": "1405582567176016002",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 14/08**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Ajout du coup spécial de l’arme \"Croc du Sacrifice\"\n- Ajout du spell clan mineur Kei \n```\n\n<:solve_buff:1374263003549138984>                 - **__Deiton__**  \n```\n\n- Crachat de boue\n - Augmentation du slow\n  - Level 1 : 5% → 15%\n  - Level 2 : 10% → 20%\n  - Level 3 : 15% → 25%\n\n- Sables mouvants boueux\n - Augmentation du slow\n  - Level 1 : 15% → 15%\n  - Level 2 : 25% → 20%\n  - Level 3 : 30% → 40%\n\n- Loups de boue\n - Augmentation du slow\n  - Level 1 : 10% → 20%\n  - Level 2 : 15% → 30%\n  - Level 3 : 20% → 40%\n```\n\n<:solve_buff:1374263003549138984>                   - **__Kaminari__**  \n```\n- Panthère de foudre noir\n - Augmentation de la vitesse\n  - 700 → 820\n```\n\n<:solve_reload:1289153175093248036>                  - **__Mokuton__**  \n```\n\n- Enceinte de bois\n - Fix des tics de soin de l'utilisateur qui augmentaient en fonction du nombre et des HP max des personnes dans le dôme\n  - Level 1 : 30 → 55\n  - Level 2 : 40 → 65\n  - Level 3 : 50 → 75\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Yoton__**  \n```\n- Boule de Yoton\n - Diminution du slow\n  - Level 1 : 40% → 15%\n  - Level 2 : 40% → 25%\n  - Level 3 : 50% → 35%\n```\n||@here||\n\n-# __**A venir**__:  KG ? / Cosmétiques",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1755187398476
+  },
+  {
+    "id": "1405226747762315416",
+    "content": "# <:solve_naruto:1249368325692067910> __**Hotfix du 13/08**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Nouveau système de CC. De votre côté, rien ne change, mais en réalité, nous avons refait le système existant. Il n’y aura plus de mauvaises surprises, comme des joueurs qui ne sont plus stun après un enchaînement de stun ou qui pouvaient encore bouger.\n```\n\n-# __**A venir**__:   KG ? / Cosmétiques",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1755102564517
+  },
+  {
+    "id": "1404860834739392632",
+    "content": "# <:solve_naruto:1249368325692067910> __**Hotfix du 12/08**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Dorénavant, lorsque vous êtes à une certaine distance des autres joueurs, leur tête ne sera plus affichée. Cependant, si vous zoomez, elles apparaîtront quand même. Cela devrait améliorer les performances en bataille. En cas de bugs, des correctifs et ajustements pourront être effectués en direct.```\n\n-# __**A venir**__:   KG ? / Cosmétiques / Refonte du système de CC",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1755015324054
+  },
+  {
+    "id": "1404497372842688696",
+    "content": "#  <a:star_solve_blue:1371165413672620102> `Kekkei Genkai`\n\n<:solve_nerf:1374263005650616330>                 - **__Shoton__** <:solve_shoton:1334906924763844698> \n```\n\n- Armure de cristal \n - Retrait du crit sur les saignements\n - Diminution du nombre de saignements\n  - Level 1 : 5\n  - Level 2 : 6\n  - Level 3 : 7\n - Augmentation des dégâts des saignements\n  - Level 1 : 10 → 12\n  - Level 2 : 12 → 15\n  - Level 3 : 15 → 20\n - Fix du bug qui faisait qu'on pouvait dash en étant stun\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Inkuton__** 🎨 \n```\n\n- Moine d'encre\n - Ajustement des HP du moine en fonction du grade\n  - Chunin : 500 HP\n     - TKJ : 700 HP\n   - Jonin : 900 HP\n- CMJ et + : 1000 HP\n\n- Singes d'encre\n - Il n'est plus possible de mettre des coups de poings pendant l'effet des singes\n - Diminution du temps de silence\n  - Level 1 : 3 sec → 2 sec\n  - Level 2 : 4 sec → 3 sec\n  - Level 3 : 5 sec → 4 sec\n\n- Dragon d'encre\n - Ajout d'un CD de 6 sec entre chaque grab de la même personne\n - Diminution de la vitesse de vol du dragon\n  - Level 1 : 750 → 500\n  - Level 2 : 1000 → 750\n  - Level 3 : 1250 → 1000\n```\n\n||@here||",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754928667985
+  },
+  {
+    "id": "1404497330400661544",
+    "content": "#  🎵 `Clans d'Oto`\n\n<:solve_nerf:1374263005650616330>                 - **__Raimei__** 🎶 \n```\n\n- Kenshutsu\n - Le boost se désactive désormais quand le chakra est à 0\n - Diminution du boost kenjutsu\n  - Level 1 : 20% → 10%\n  - Level 2 : 30% → 20%\n  - Level 3 : 40% → 30%\n - Diminution du boost taijutsu\n  - Level 1 : 10% → 10%\n  - Level 2 : 30% → 20%\n  - Level 3 : 50% → 40%\n\n- Hypnose vibratoire\n - Diminution du temps de stun\n  - 3 sec → 2 sec\n - Diminution de la range\n  - 1200 → 600\n - Diminution du radius \n  - 75 → 50\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Kaguya__** 🦴\n```\n\n- Épine dorsale\n - Diminution du renvoi de dégâts\n  - Level 1 : 20% → 15%\n  - Level 2 : 30% → 25%\n  - Level 3 : 40% → 35%\n\n- Foreuse d'Os\n - Passage en N+1\n - Diminution de la distance\n  - 270 → 100\n - Diminution du temps de stun\n  - 3 sec → 2 sec\n\n- Attraction des vertèbres\n - Fix de l'attraction\n - Possibilité de l'utiliser comme un grappin (Activer/Désactiver)\n\n- Le Squelette\n - Diminution du temps d’utilisation\n  - Level 1 : 36 sec → 30 sec\n  - Level 2 : 45 sec → 40 sec\n - Diminution de l'attaque speed\n  - Level 1 : 100%\n  - Level 2 : 110%\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Fûma__** 🗡️ \n```\n\n- Concentration de l'assassin\n - Diminution du boost de dégâts\n  - Level 1 : 20% → 15%\n  - Level 2 : 30% → 25%\n  - Level 3 : 40% → 35%\n- Illusion du shuriken Fûma\n - Diminution des dégâts\n  - Level 1 : 90 → 70\n  - Level 2 : 100 → 80\n  - Level 3 : 110 → 90\n- Instinct animal \n - Augmentation du CD\n  - Level 1 : 80 sec → 100 sec\n  - Level 2 : 70 sec → 90 sec\n  - Level 3 : 60 sec → 80 sec\n - Diminution du boost de dégâts\n  - Level 1 : 20% → 15%\n  - Level 2 : 30% → 25%\n  - Level 3 : 40% → 35%\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754928657866
+  },
+  {
+    "id": "1404497290995171409",
+    "content": "#  <:solve_icon_suna:1250821969927208970> `Clans de Suna`\n\n<:solve_nerf:1374263005650616330>                 - **__Jishaku__** ⏳ \n```\n\n- Funérailles du désert\n - Passage en N+1\n - Diminution de la range\n  - 1300 → 600 \n\n- Bouclier de sable \n - Augmentation du CD \n  - Level 1 : 70 sec → 85 sec\n  - Level 2 : 60 sec → 75 sec\n  - Level 3 : 50 sec → 70 sec\n - Diminution du radius (largeur)\n  - 400 → 300\n - Diminution du radius (hauteur)\n  - 100 → 50\n - Suppression des dégâts de collision du bouclier\n - Diminution du temps du bouclier et des mains de sables\n  - Level 1 : 3 sec → 2 sec\n  - Level 2 : 4 sec → 3 sec\n  - Level 3 : 5 sec → 4 sec\n\n- Nuage de sable\n - Diminution de la vitesse du nuage\n  - 1000 → 800\n\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Mugen__** 👁‍🗨 \n```\n\n- Sôryûgan\n - Augmentation du CD d'invisibilité & dash de 5 sec pour tous les levels\n\n- Zone pétrifiante\n - Diminution du radius\n  - Level 1 : 400 → 350\n  - Level 2 : 450 → 400\n  - Level 3 : 500 → 450\n\n- Ombre déferlante\n - Diminution des dégâts (aller-retour)\n  - Level 1 : 290 → 290\n  - Level 2 : 320 → 310\n  - Level 3 : 370 → 330\n\n- Éclosion du lycoris\n - Diminution des dégâts \n  - Level 1 : 40 → 35\n  - Level 2 : 50 → 45\n  - Level 3 : 60 → 55\n\n- Royaume des morts \n - Suppression du lifesteal\n - Diminution de la résistance\n  - Level 1 : 40% → 20% \n  - Level 2 : 50% → 30%\n\n- Ailes Mugen\n - Augmentation du CD\n  - Level 1 : 120 sec → 140 sec\n  - Level 2 : 110 sec → 130 sec\n  - Level 3 : 100 sec → 120 sec\n - Diminution du nombre de projectiles\n  - 7 → 5\n\n- L'Illusion du cauchemar \n - Réajustement du CD\n  - Level 1 : 110 sec → 95 sec\n  - Level 2 : 90 sec → 85 sec\n  - Level 3 : 80 sec → 75 sec  \n```\n\n<:solve_nerf:1374263005650616330>                 - **__Ayatsuri__** <:solve_ayatsuri:1335991735846703165> \n```\n\n- Fil de chakra \n - Diminution du temps de contrôle \n  - Level 1 : 3 sec → 2.5 sec\n  - Level 2 : 4 sec → 3 sec\n  - Level 3 : 4 sec → 3.5 sec\n - Augmentation du CD\n  - Level 1 : 70 sec → 80 sec\n  - Level 2 : 65 sec → 75 sec\n  - Level 3 : 60 sec → 70 sec\n\n- Monture mécanique\n - Diminution des dégâts\n  - Level 3 : 100 → 80 \n - Augmentation du CD\n  - Level 1 : 100 sec → 125 sec\n  - Level 2 : 90 sec → 115 sec\n  - Level 3 : 90 sec → 110 sec\n - Diminution du boost de vitesse du slide\n  - Level 1 : 90% → 60%\n  - Level 2 : 100% → 70%\n  - Level 3 : 110% → 80%\n```\n<:solve_nerf:1374263005650616330>                 - **__Ensho__** 🌪️ \n```\n- Zone de brume\n - Diminution du temps de bloom\n  - Level 1 : 10 sec → 5 sec\n  - Level 2 : 10 sec → 7 sec\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754928648471
+  },
+  {
+    "id": "1404497253871128636",
+    "content": "# <:solve_naruto:1249368325692067910> __**Patchnote du 11/08**__ :\n\n*Ce patchnote est un nerf global des clans du serveur et un ajustement des KG légendaires. Il a pour but de rendre le PVP plus agréable et moins expéditif. D'autres ajustements arriveront dans le temps. (C'est pour vous mes sans clans)*\n\nBonne lecture ! <:solve_22:1250488230432735232> \n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Ajout de l’hidden Ayatsuri \"Le carrousel de marionnettes\"\n- Ajout du spell : \"Pilules\"\n\n```\n\n#  <:solve_icon_konoha:1298768685162434623> `Clans de Konoha`\n\n<:solve_nerf:1374263005650616330>                 - **__Uchiha__** <:Uchiha_Clan:1272957429377925120> \n```\n\n- Sharingan\n - Ajustement de l'esquive  \n  - Level 1-2-3 : 1 esquive sur 3 \n  - Level 4-5 : 1 esquive sur 2\n - Augmentation de 10 secondes pour la copie de jutsu pour chaque level\n - Diminution du boost kenjutsu\n  - Level 1 : 12% → 10%\n  - Level 2 : 30% → 20%\n  - Level 3 : 40% → 30%\n  - Level 4 : 45% → 35%\n  - Level 5 : 55% → 40%\n - Diminution du boost taijutsu\n  - Level 1 : 30% → 15%\n  - Level 2 : 35% → 20%\n  - Level 3 : 40% → 25%\n  - Level 4 : 45% → 30%\n  - Level 5 : 55% → 40%\n\n- Genjutsu pourpre\n - Augmentation du CD \n  - Level 1 : 90 sec → 95 sec\n  - Level 2 : 75 sec → 85 sec\n  - Level 3 : 60 sec → 75 sec\n\n- MS : Madara\n - Augmentation du CD \n  - Level 1 : 135 sec → 135 sec\n  - Level 2 : 105 sec → 120 sec\n  - Level 3 : 85 sec → 100 sec\n - Diminution des dégâts\n  - Level 1 : 180 → 150\n  - Level 2 : 230 → 180\n  - Level 3 : 280 → 230\n - Diminution du % de régénération\n  - Level 1 : 100% → 30%\n  - Level 2 : 100% → 50%\n  - Level 3 : 100% → 70%\n - Diminution du temps pour régénérer \n  - Level 1 : 6 sec → 4 sec\n  - Level 2 : 8 sec → 5 sec\n  - Level 3 : 10 sec → 7 sec\n - Diminution du temps pour réactiver l'effet\n  - Level 1 : 6 sec → 4 sec\n  - Level 2 : 8 sec → 5 sec\n  - Level 3 : 10 sec → 7 sec\n\n- MS : Indra\n - Diminution de la résistance\n  - Level 1 : 20% → 10%\n  - Level 2 : 25% → 15%\n  - Level 3 : 30% → 20%\n\n- MS : Itachi\n - Augmentation du CD\n  - Level 1 : 130 sec → 140 sec\n  - Level 2 : 120 sec → 130 sec\n  - Level 3 : 105 sec → 120 sec\n\n- MS : Sasuke\n - Augmentation du CD\n  - Level 1 : 90 sec → 105 sec\n  - Level 2 : 80 sec → 95 sec\n  - Level 3 : 70 sec → 85 sec\n - Diminution du radius\n  - Level 1 : 400 → 300\n  - Level 2 : 400 → 300\n  - Level 3 : 400 → 300\n - Diminution des dégâts\n  - Level 1 : 50 → 50\n  - Level 2 : 75 → 65\n  - Level 3 : 100 → 80\n\n- MS : Shisui\n - Diminution de la range\n  - Level 1 : 700 → 600\n  - Level 2 : 700 → 600\n  - Level 3 : 700 → 600\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Senju__** <:Senju_Clan:1272957433639080072> \n```\n\n- Intensification Senju\n - Le boost consomme du chakra\n - Diminution du boost kenjutsu\n  - Level 1 : 15% → 15%\n  - Level 2 : 25% → 20%\n  - Level 3 : 35% → 30%\n - Diminution du boost taijutsu\n  - Level 1 : 20% → 20%\n  - Level 2 : 35% → 25%\n  - Level 3 : 45% → 35%\n\n- Coup de pied marteau\n - Diminution du radius\n  - Level 1 : 250 → 125\n  - Level 2 : 250 → 125\n  - Level 3 : 250 → 125\n\n- Ermite naturel \n - Diminution du boost jutsu\n  - Level 1 : 20% → 20%\n  - Level 2 : 30% → 25%\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Hyûga__** <:solve_cherry:1377146346485715097>\n```\n\n- Byakûgan \n - Diminution du % des tenketsu\n  - Level 1 : 10% → 10%\n  - Level 2 : 16% → 12%\n  - Level 3 : 19% → 15%\n\n- 128 Poings du Hakke\n - Diminution des dégâts \n  - 896 → 696\n\n- Crocs du tigre \n - Augmentation du CD \n  - Level 1 : 80 sec → 95 sec\n  - Level 2 : 65 sec → 85 sec\n  - Level 3 : 55 sec → 75 sec\n```",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754928639620
+  },
+  {
+    "id": "1404494682662371520",
+    "content": "Bonjour <@&1252646455617785978> \n\nAvant que <@440966298135035914> nouveau <@&1277429076940034170> envoie le **devlog**, je tiens à rappeler certaines choses.\n\n> Ce patchnote fait suite au récent **rééquilibrage des KG **et s'inscrit dans une démarche d'amélioration globale du PVP avec : plus d'importance au facteur \"skill\", moins de point & click, moins de dégâts ou stuns abusifs.\n\nPour rappel, même un jeu triple A comme League of Legends, avec une équipe énorme derrière, sort des patch notes chaque semaine pour rééquilibrer le jeu.\n\nL'équipe <@&1284864059480604742> fait tout son possible mais certaines choses prennent du **temps **: ce sont des **joueurs **et **bénévoles **avant tout. \n\n> Merci donc de ne pas prendre les futurs nerfs trop à coeur, vous n'êtes pas impactés IRL je vous l'assure mes matrixé(e)s. Rien n’est **figé **: tout peut évoluer, à condition que vous proposiez des suggestions pertinentes dans les canaux prévus à cet effet.\n\nUn grand merci à <@440966298135035914> ,  son équipe et <@193086726007160832> pour les modifs au dév, pour le taf monstrueux ces dernières semaines afin de vous permettre un pvp plus plaisant. \n\n## <:solve_reload:1289153175093248036> Voici les prochains rééquilibrages :\n\n> - **Chakra **pour tous les grades : beaucoup de joueurs envoies 2-3 combos sans perdre beaucoup de chakra, c'est un problème et cela renforce la méta one shot. \n\n> - Ajustement sur **quelques KG** : Hyoton, Yoton, Deiton...\n\n> - **Natures **& **reworks **: le katon ne nous satisfait pas complètement, de même pour certaines rangs S (futon, doton, raiton).\n\n> - **Classes de combats** : encore en étude.\n\nUn nouveau KG est à venir, ne vous en faites pas il ne sera pas \"broken exprès\" pour sa sortie, mais justement équilibré. \n\nMerci à vous, je vous fais confiance pour maintenir un climat sain sur le serveur, même en temps de nerf <a:solve_Ban_56x56:1278696667113062511> \n\n||@everyone ||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754928026596
+  },
+  {
+    "id": "1403412070325551175",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 08/08**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Ajout de l'arme \"Pipe de fumée\"\n\n```\n\n<:solve_reload:1289153175093248036>                - **__Multi-clonage__**  \n```\n- Augmentation du CD \n  - Level 1 : 50 -> 80\n  - Level 2 : 40 -> 70\n  - Level 3 : 30 -> 60\n- Augmentation des HP du clone\n  - Level 1 : 50 -> 500\n  - Level 2 : 40 -> 750\n  - Level 3 : 30 -> 1000\n- Augmentation du chakra\n  - Level 1 : 50 -> 300\n  - Level 2 : 75 -> 280\n  - Level 3 : 100 -> 260\n- Ajustement de la distance max\n  - Level 1 : 5000 -> 5000\n  - Level 2 : 5000 -> 6000\n  - Level 3 : 5000 -> 7000\n\n```\n\n||@here||\n\n-# __**A venir**__:  Nouveaux Subjutsus / KG ? / Cosmétiques",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754669911701
+  },
+  {
+    "id": "1403044699094253622",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 07/08**__ :\n\n-\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Fix du bug des équipements qui perdaient leurs effets à votre mort. Il n'est plus nécessaire de déséquiper / rééquiper pour que ça fonctionne à nouveau.\n\n```\n\n> On bosse à fond sur Kiri en ce moment, mais un gros patch de rééquilibrage arrivera d'ici quelques jours. Si vous constatez des bugs, merci de les signaler ici et de me ping s'ils sont majeurs : <#1301348277131673681> \n\n-# __**A venir**__:   Nouveaux Subjutsus / KG ? / Cosmétiques",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754582323574
+  },
+  {
+    "id": "1402332776656535593",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 05/08**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Ajout du spell : \"Le Poing Souple Destructeur\"\n- Ajout de la double dague Kaguya\n\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Dragon de la bête__**  \n```\n- Diminution des dégâts \n  - Level 1 : 125 -> 90\n  - Level 2 : 150 -> 100\n  - Level 3 : 175 -> 125 \n\n```\n<:solve_reload:1289153175093248036>         -**__Symphonie étourdissante (Rang S Raimei)__**  \n```\n - Passage en dégâts jutsu\n  - Level 1 : 250 -> 350\n  - Level 2 : 300 -> 450\n\n```\n<:solve_reload:1289153175093248036>                 - **__Tremblement de terre__**  \n```\n - Augmentation du slow\n  - Level 1 : 20% -> 30%\n  - Level 2 : 25% -> 35%\n  - Level 3 : 30% -> 40%\n - Augmentation du CD \n  - Level 1 : 95 -> 105\n  - Level 2 : 85 -> 95\n  - Level 3 : 75 -> 85\n\n```\n\n||@here||\n\n-# __**A venir**__:   Divers nerfs / Sweps Kiri",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754412588038
+  },
+  {
+    "id": "1401965721319379089",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 04/08**__ :\n\n\n\n<:solve_nerf:1374263005650616330>                - **__Ninpo : Parchemin explosif__**  \n```\n- Augmentation du CD : \n  - Level 1 : 40 -> 65\n  - Level 2 : 35 -> 50\n  - Level 3 : 30 -> 45\n- Diminution des dégâts \n  - Level 1 : 150 -> 100\n  - Level 2 : 200 -> 125\n  - Level 3 : 250 -> 150 \n\n```\n||@here||\n\n-# __**A venir**__:   Divers Nerfs / Sweps Kiri / Arme unique Oto",
+    "username": "nawf69",
+    "avatar": "https://cdn.discordapp.com/avatars/440966298135035914/5e43a30211a888294ba15852dc2a3e5e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754325075226
+  },
+  {
+    "id": "1401251953832362095",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 02/08**__ :\n\n <:solve_reload:1289153175093248036>                - **__Ermite aigle __**  🦅 \n```\n - Consommation de chakra\n  - Level 1 : 20\n  - Level 2 : 15\n  - Level 3 : 10\n - Boost de dégâts\n  - Level 1 : 15%\n  - Level 2 : 20%\n  - Level 3 : 25%\n - Boost de vitesse \n  - Level 1 : 25%\n  - Level 2 : 30%\n  - Level 3 : 35%\n - Pourcentage d'esquive\n  - Level 1 : 30%\n  - Level 2 : 30%\n  - Level 3 : 30%\n```\n\n<:solve_reload:1289153175093248036>                - **__Ermite serpent__**  🐍 \n```\n - Réajustement du boost de dégâts\n  - Level 1 : 15%\n  - Level 2 : 25%\n  - Level 3 : 30%\n - Réajustement du boost de résistance \n  - Level 1 : 15%\n  - Level 2 : 20%\n  - Level 3 : 25%\n - Réajustement du boost de vitesse\n  - Level 1 : 10%\n  - Level 2 : 20%\n  - Level 3 : 30%\n - Diminution des dégâts des serpents\n  - 100 -> 70\n\n- Actif : Étreinte des serpents :\n - Passage en n+1\n - Diminution du CD :\n   - Level 1 : 100 -> 85\n   - Level 2 : 95 -> 80\n   - Level 3 : 85 -> 75\n - Augmentation de la durée de stun \n   - 1s -> 2s  \n - Baisse du coût de chakra\n   - Level 2 : 255 -> 220\n   - Level 3 : 200 -> 180\n\n```\n<:solve_reload:1289153175093248036>               - **__Kenjutsu expert__**  \n```\n  - Fix du bug des spells kenjutsu/expert qui frappaient en dégât jutsu \n  - Ajustement du spell \"Croissant de lune\" suite au fix du bug\n   - Level 1 : 200 -> 300\n   - Level 2 : 220 -> 320\n   - Level 3 : 250 -> 350\n\n```\n-# __**A venir**__:  Différents nerfs / Arme Unique Oto / Sweps Kiri\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754154899796
+  },
+  {
+    "id": "1400875398832590979",
+    "content": "https://tenor.com/view/ronaldo-gif-25182329",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": "https://tenor.com/view/ronaldo-gif-25182329",
+        "timestamp": null,
+        "color": null,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://media.tenor.com/vsmaOvHnhYIAAAAe/ronaldo.png",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/KrrJ7LOj0jw_1iN05REB7OmsXu5oLVHk34VfzxoVY_I/https/media.tenor.com/vsmaOvHnhYIAAAAe/ronaldo.png",
+          "height": 338,
+          "width": 640
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754065122088
+  },
+  {
+    "id": "1400874954995535992",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 01/08**__ :\n\n<:solve_nerf:1374263005650616330>                - **__Kenjutsu expert__**  \n```\n- Force intérieure :\n - Diminution du boost de dégâts\n  - Level 2 : 20% -> 15%\n  - Level 3 : 30% -> 25%\n  - Level 4 : 40% -> 35%\n  - Level 5 : 60% -> 50%\n\n- Méditation :\n - Diminution du pourcentage de heal\n  - Level 1 : 5% -> 2%\n  - Level 2 : 6% -> 3%\n  - Level 3 : 7% -> 4%\n\n- Croissant de lune : \n - Diminution des dégâts \n  - Level 1 : 300 -> 200\n  - Level 2 : 320 -> 220\n  - Level 3 : 350 -> 250\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Taijutsu expert__**  \n```\n- Les portes \n - Diminution du boost de dégâts \n   - Level 1 : 55% -> 40%\n   - Level 2 : 60% -> 45%\n   - Level 3 : 65% -> 50%\n   - Level 4 : 70% -> 55%\n   - Level 5 : 75% -> 60%\n   - Level 6 : 80% -> 65%\n   - Level 7 : 90% -> 75%\n - Diminution des HP perdus/s :\n   - Level 1 : 9hp -> 6hp\n   - Level 2 : 10hp -> 7hp\n   - Level 3 : 11hp -> 8hp\n   - Level 4 : 12hp -> 9hp\n   - Level 5 : 13hp -> 10hp\n   - Level 6 : 14hp -> 11hp\n   - Level 7 : 15hp -> 12hp\n\n- Lâché de poids :\n - Diminution du boost de dégâts :  \n  - Level 2 : 35% -> 30%\n  - Level 3 : 50% -> 40%\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Armes uniques__**  \n```\n- Lame Ensho : \n  - Diminution de la durée de la tornade : 6s -> 5s\n- Hiramekarei :\n  - Diminution du boost de dégâts : 60% -> 50%\n- Kubikiribocho :\n  - Diminution du % du vol d’HP sur le coup spé : 110% -> 100%\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Ermite limace__**  \n```\n- Diminution du boost d'HP\n  - Level 2 : 20% -> 15%\n  - Level 3 : 30 % -> 20%\n- Diminution d'HP des ticks d’auto-heal:\n   - Level 1 : 15hp -> 7hp\n   - Level 2 : 20hp -> 10hp\n   - Level 3 : 25hp -> 15hp\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Jinchuriki : Shukaku__**  \n```\n- Chakra du démon : Shukaku :\n   - Diminution de la consommation de chakra\n     - Level 1 : 40 -> 25\n   - Diminution du boost de vitesse\n     - Level 2 : 30% -> 20%\n     - Level 3 : 40% -> 30%\n- Étranglement du sable :\n   - Diminution des % d’HP drainés \n     - Level 1 : 7% -> 3%\n     - Level 2 : 9% -> 5%\n     - Level 3 : 11% -> 7%\n   - Augmentation du CD \n     - Level 1 : 90s -> 95s\n     - Level 2 : 85s -> 90s\n     - Level 3 : 75s -> 80s\n- Mode Démon : Forme partielle :\n  - Diminution du boost de vitesse\n     - Level 1 : 35% -> 30%\n     - Level 2 : 45% -> 35%\n     - Level 3 : 55% -> 40%\n  -Le fear n'affecte plus les jonins et +\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Jinchuriki : Yonbi__**  \n```\n- Chakra du démon : Yonbi :\n   - Diminution de la consommation de chakra\n     - Level 1 : 40 -> 25\n   - Diminution du boost de vitesse\n     - Level 2 : 30% -> 20%\n     - Level 3 : 40% -> 30%\n- Colère du Roi Singe :\n   - Diminution des % d’HP drainés\n     - Level 1 : 7% -> 3%\n     - Level 2 : 9% -> 5%\n     - Level 3 : 11% -> 7%\n   - Augmentation du CD\n     - Level 1 : 90s -> 95s\n     - Level 2 : 85s -> 90s\n     - Level 3 : 75s -> 80s\n\n```\n\n<:solve_nerf:1374263005650616330>                - **__Jinchuriki : Kyubi__**  \n```\n- Chakra du démon : Kyubi :\n   - Diminution de la consommation de chakra\n     - Level 1 : 40 -> 25\n   - Diminution du boost de vitesse\n     - Level 2 : 30% -> 20%\n     - Level 3 : 40% -> 30%\n```\n\n@here\n\n-# __**A venir**__:  Différents nerfs / Arme Unique Oto / Sweps Kiri",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1754065016269
+  },
+  {
+    "id": "1400540310786019409",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 31/07**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- La Cage Hyoton, les Poings du Hakke et le Cube de Jinton ne tuent plus en boucle.\n- La Cage Hyoton, les Poings du Hakke, le Cube de Jinton, l'Orbe Sakin et la Prison Aqueuse attribuent désormais correctement le kill à l’utilisateur.\n- Fix du bug où lorsque Clone Jinton est tué par le Cage Hyoton, Poings du Hakke, Cube de Jinton, l'Orbe Sakin et la Prison Aqueuse c'est l'utilisateur qui meurt.\n- Fix du bug de l'Orbe Sakin ne tue pas et mets juste en pain.\n- Correction d’un bug sur le Cube de Jinton qui permettait à la cible d’utiliser des jutsu pendant.\n- Correction de divers bugs liés aux Poings du Hakke, ils s’interrompent désormais si la cible meurt.\n- Fix de la speed sur le nuage Jishaku quand l'utilisateur était au sol.\n```\n\n-# __**A venir**__: Arme Unique Oto / Sweps Kiri\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753985230872
+  },
+  {
+    "id": "1400147580972695633",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 30/07**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Fix du \"Jet Aqueux\" : Possible d'utiliser ou d'annuler en maintenant click droit\n- Ajout du Tremblement de terre\n- La stamina ne baisse plus pendant la rang S Kaminari et fix de la speed de la rang S Kaminari\n- Vous ne pouvez plus envoyer de kunai quand vous êtes pris dans la prison suiton\n```\n-# __**A venir**__: Arme Unique Oto / Sweps Kiri",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753891596788
+  },
+  {
+    "id": "1399790295050096671",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 29/07**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Fix du bug Radio : vous pouvez désormais couper votre micro tout en continuant à entendre les autres.\n- Fix bug particule Susano Complet.\n- Ajout de l'hidden fuma : Instinct Animal.\n- Ajout du Rasenshuriken.\n- Fix des particules du naruto run.\n```\n\n<:solve_nerf:1374263005650616330>                - **__Ninpo : Boule de fumée__**  \n```\n- Augmentation du CD : \n  - Level 1 : 60 -> 65\n  - Level 2 : 40 -> 55\n  - Level 3 : 35 -> 45\n\n```\n<:solve_buff:1374263003549138984>                - **__Salamandre__**  \n```\n- Crachat de poison : \n  - Augmentation du slow : 1 -> 3\n  - Augmentation du radius de la zone au sol\n  - Augmentation du temps d'effet d'empoisonnement : 5 -> 7\n\n- Souffle de poison : \n  - Augmentation de la range\n  - Augmentation de la fréquence de ticks \n\n- Enfumoir de poison : \n  - Augmentation de la fréquence de ticks en foncions des levels\n\n- Invocation de la Salamandre (Rang S) : \n  - Augmentation du radius de la zone autour de la Salamandre\n  - Augmentation des dégâts de la zone autour de la Salamandre :\n      - Level 1 : 45 -> 60\n      - Level 2 : 50 -> 75\n  - Augmentation des dégâts du crachat de la Salamandre\n      - Level 1 : 80 -> 90\n      - Level 2 : 90 -> 100\n  - Augmentation du CD : \n      - Level 1 : 80 -> 90\n      - Level 2 : 75 -> 85\n```\n\n\n-# __**A venir**__:   Tremblement de Terre / Arme Unique Oto / Sweps Kiri\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753806413186
+  },
+  {
+    "id": "1399434243297378486",
+    "content": "... 🐲 \n\n🪲                - **__Aburame__**  \n```\n\n- Fléau de l'Essaim : Amélioration de la hitbox.\n\n- Voile du Kikai : l'allié a désormais un indicateur quand il reçoit le bouclier (si la particule disparaît c'est normal, ce sera fix demain. Il garde quand même le bouclier).\n```\n\n-# __**A venir pour les Aburame**__:   Fix du blind sur le Fléau de l'Essaim",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753721523833
+  },
+  {
+    "id": "1399424645840507061",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 28/07**__ :\n\n\n<:solve_shoton:1334653353623425218>                - **__Shoton__**  \n```\n\n- Armure Shoton : Réduction du temps de cast.\n\n- Rockets :\n  - Réduction du temps de cast.\n  - A la fin du lancement des rockets, l'utilisateur redescend très vite pour venir écraser le sol. L'impact inflige de légers dégâts et stun une demi-seconde dans un faible radius.\n\n- Pics de Shoton (NOUVEAU SWEP) : L'utilisateur projette des pics de Shoton devant lui, infligeant des dégâts, un bump et un effet de saignement.\n\n- Dragon de Cristal :\n  - Ajout d'un dezoom à l'utilisation pour plus de visibilité.\n  - Impossibilité de faire des gauche - droite pour aller plus vite.\n  - Augmentation du temps de vol : 12s --> 14s.\n```\n\n<:solve_icon_suiton:1250821997349441597>                - **__Suiton__**  \n```\n\n- Raz-de-Marée : Fix des bugs et rééquilibrage.\n```\n\n-# __**A venir**__:   Mode fantôme dans le TAB !!!!!!!!!!!!!!! / Arme Unique Oto / Sweps Kiri\n\n||@here||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753719235621
+  },
+  {
+    "id": "1398354131151753439",
+    "content": "Fix bug S3 qui faisait qu'on ne recevait pas ses crédits quelques fois",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753464005030
+  },
+  {
+    "id": "1397975545509318698",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 24/07**__ :\n\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Fix du bug des têtes\n- Fix anim du Saut de Chakra\n- Fix d'un bug lié au vol d'apparence\n\n```\n\n<:solve_buff:1374263003549138984>                - **__Yonbi __**  \n```\n- Ajout de la Prison de Lave\n- Ajout de la Colère du Roi des Singes\n```\n\n<:solve_reload:1289153175093248036>                - **__Taijutsu__**  \n```\n- Fix des valeurs du Dragon de la Bête\n```\n\n-# __**A venir**__:   Rasenshuriken / Arme Unique Oto / Sweps Kiri / Rework Rang A Shoton \n\n||@here||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753373743179
+  },
+  {
+    "id": "1396887583803445380",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 21/06**__ :\n\n\n<:solve_buff:1374263003549138984>                - **__Jiton Iron__**  \n```\n- Pluie de limailles :\n  - Ajout d'un ralentissement\n  - La pluie de limailles s'active à l'impact\n\n- Clone de fer :\n  - Augmentation des dégâts :\n    - Niveau 1 : 140 → 180\n    - Niveau 2 : 185 → 220\n    - Niveau 3 : 225 → 280 \n\n- Armure de Fer :\n  - Ajout d'un root à la dissipation de l'armure \n\n- Poings de fer :\n  - Augmentation de la hitbox\n\n```\n\n<:solve_reload:1289153175093248036>                  - **__Inkuton__**  \n```\n- Singes d'encre :\n  - Fix des bug\n\n```\n\n||@here||",
+    "username": "anr212",
+    "avatar": "https://cdn.discordapp.com/avatars/302055291988738048/e379994382b56548c74419da12adca51.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753114352895
+  },
+  {
+    "id": "1396533808349839400",
+    "content": "**Jinton **:\n\n> lorsque l'utilisateur détruit lui-même son clône, il n'est pas re-tp à sa position de base",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753030006254
+  },
+  {
+    "id": "1396529369106612364",
+    "content": "**A venir dans la semaine** : rework rang A Shoton",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028947856
+  },
+  {
+    "id": "1396529092991520829",
+    "content": "la méta fly",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028882025
+  },
+  {
+    "id": "1396529085873651885",
+    "content": "https://tenor.com/view/plane-crash-accident-explosion-gif-16898298",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": "https://tenor.com/view/plane-crash-accident-explosion-gif-16898298",
+        "timestamp": null,
+        "color": null,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://media.tenor.com/iBU4_3binusAAAAe/plane-crash-accident.png",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/xssfIaz3yZPW-kDj3GnDczlnlNqpFEayvF2WoO_jE8o/https/media.tenor.com/iBU4_3binusAAAAe/plane-crash-accident.png",
+          "height": 334,
+          "width": 640
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028880328
+  },
+  {
+    "id": "1396528529805414573",
+    "content": "y'a du rouge de partout mais faites preuve de discernement vous verrez que y'a des buffs à droite à gauche",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028747751
+  },
+  {
+    "id": "1396528361534390302",
+    "content": "<:solve_nerf:1374263005650616330>                  - **__Mangekyou Sharingan Corbeau__**  \n```\n- Baisse du temps de vol :\n  - Niveau 1 : 30 sec → 14 sec\n  - Niveau 2 : 45 sec → 18 sec\n  - Niveau 3 : 60 sec → 22 sec\n\n- Baisse du CD :\n  - Niveau 1 : 180 sec → 130 sec\n  - Niveau 2 : 150 sec → 120 sec\n  - Niveau 3 : 120 sec → 105 sec\n\n```\n\n\n-# __**A venir**__:   \n\n||@here||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028707632
+  },
+  {
+    "id": "1396528345096650873",
+    "content": "<:solve_nerf:1374263005650616330>                  - **__Jinton__**  \n```\n- Clone de Jinton :\n  - Suppression de la regeneration\n\n- Rayon Blanc :\n  - Baisse du temps de vol :\n    - Niveau 1 : 10 sec → 8 sec\n    - Niveau 2 : 14 sec → 10 sec\n    - Niveau 3 : 20 sec → 14 sec\n\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Invocation de l'aigle__**  \n```\n- Baisse du temps de vol :\n  - Niveau 1 : 15 sec → 14 sec\n  - Niveau 2 : 30 sec → 18 sec\n  - Niveau 3 : 40 sec → 26 sec\n- Baisse du CD entre chaque Grab :\n  - 15 sec → 10 sec\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Ailes de Buken__**  \n```\n- Baisse du temps de vol :\n  - Niveau 1 : 20 sec → 12 sec\n  - Niveau 2 : 25 sec → 14 sec\n  - Niveau 3 : 30 sec → 18 sec\n\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Jishaku__**  \n```\n- Baisse du temps de vol :\n  - Niveau 1 : 15 sec → 9 sec\n  - Niveau 2 : 17 sec → 11 sec\n  - Niveau 3 : 20 sec → 13 sec\n\n```",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028703713
+  },
+  {
+    "id": "1396528324263542975",
+    "content": "<:solve_nerf:1374263005650616330>                  - **__Hyoton__**  \n```\n- Les mille pétales de Glaces :\n  - Baisse des dégâts :\n    - Niveau 1 : 20 → 15\n    - Niveau 2 : 25 → 20\n    - Niveau 3 : 30 → 25\n\n- Ruée Glacière :\n  - Augmentation du CD :\n    - Niveau 1 : 55 sec → 60 sec\n    - Niveau 2 : 45 sec → 55 sec\n    - Niveau 3 : 35 sec → 40 sec\n\n- Arène de Glace :\n  - Baisse du ralentissement :\n    - Niveau 1 : 45% → 25%\n    - Niveau 2 : 55% → 35%\n    - Niveau 3 : 65% → 50%\n  - Augmentation du CD :\n    - Niveau 1 : 60 sec → 65 sec\n    - Niveau 2 : 50 sec → 60 sec\n    - Niveau 3 : 40 sec → 55 sec\n  - Baisse du nombre de pics  :\n    - Niveau 1 : 10 → 8\n    - Niveau 2 : 12 → 10\n    - Niveau 3 : 15 → 12\n\n- Miroirs de Glace :\n  - Baisse de la durée :\n    - Niveau 1 : 4 sec → 3 sec\n    - Niveau 2 : 4 sec → 3 sec\n    - Niveau 3 : 5 sec → 4 sec\n  - Augmentation des dégâts :\n    - 12 → 15\n  - Augmentation du CD :\n    - Niveau 1 : 135 sec → 140 sec\n    - Niveau 2 : 115 sec → 125 sec\n    - Niveau 3 : 95 sec → 110 sec\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Kaminari__**  \n```\n- Panthère de foudre noir :\n  - Passage en contrôlable\n\n- Poing de Foudre Noire :\n  - Augmentation du CD :\n    - Niveau 3 : 70 sec → 75 sec\n\n- Rage Électrifiante :\n  - Augmentation du CD :\n    - Niveau 1 : 90 sec → 95 sec\n    - Niveau 2 : 80 sec → 90 sec    \n    - Niveau 3 : 70 sec → 85 sec\n\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Shoton__**  \n```\n- Aiguille de Cristal :\n  - Augmentation de la hitbox\n\n- Dragon de Cristal :\n  - Baisse du temps de vol :\n    - Niveau 1 : 10 sec → 8 sec\n    - Niveau 2 : 14 sec → 10 sec\n    - Niveau 3 : 18 sec → 12 sec\n\n\n\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Inkuton__**  \n```\n- Horde de chiens d'encre :\n  - Diminution des dégâts :\n    - Niveau 1 : 45 → 40\n    - Niveau 2 : 55 → 45\n    - Niveau 3 : 70 → 55\n  - Diminution du temps de wallhack :\n    - Niveau 1 : 10 sec → 5 sec\n    - Niveau 2 : 15 sec → 8 sec\n    - Niveau 3 : 20 sec → 10 sec\n\n- Moine d'encre :\n  - Diminution de la durée :\n    - Niveau 1 : 11 sec → 9 sec\n    - Niveau 2 : 21 sec → 15 sec    \n    - Niveau 3 : 26 sec → 20 sec\n\n- Singes d'encre :\n  - Passage en skillshot\n  - Augmentation du CD :\n    - Niveau 1 : 70 sec → 75 sec\n    - Niveau 2 : 65 sec → 70 sec    \n    - Niveau 3 : 55 sec → 60 sec\n  - Diminution de la durée :\n    - Niveau 1 : 4 sec → 3 sec\n    - Niveau 2 : 5 sec → 4 sec    \n    - Niveau 3 : 6 sec → 5 sec\n  - Diminution du temps de wallhack :\n    - Niveau 1 : 15 sec → 8 sec\n    - Niveau 2 : 20 sec → 10 sec\n    - Niveau 3 : 30 sec → 15 sec\n\n- Invocation du Dragon :\n  - Diminution du temps de vol :\n    - Niveau 1 : 10 sec → 6 sec\n    - Niveau 2 : 15 sec → 8 sec\n    - Niveau 3 : 18 sec → 12 sec\n  - Diminution des dégâts :\n    - Niveau 1 : 250 → 200\n    - Niveau 2 : 350 → 250\n    - Niveau 3 : 550 → 300\n  - Diminution du temps de wallhack :\n    - Niveau 1 : 20 sec → 8 sec\n    - Niveau 2 : 30 sec → 10 sec\n    - Niveau 3 : 45 sec → 15 sec\n\n- Guerriers d'encre :\n  - Passage en skillshot\n  - Diminution des dégâts :\n    - Niveau 2 : 600 → 550\n    - Niveau 3 : 800 → 700\n  - Diminution du temps de wallhack :\n    - Niveau 1 : 35 sec → 8 sec\n    - Niveau 2 : 45 sec → 10 sec\n    - Niveau 3 : 65 sec → 15 sec\n  - Diminution de la vitesse des guerriers :\n    - 250 → 225\n\n```",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028698746
+  },
+  {
+    "id": "1396528305724719168",
+    "content": "# <:solve_nerf:1374263005650616330> __**Hotfix du 20/07**__ :\n\n\n<:solve_nerf:1374263005650616330>                 - **__Bakuton__**  \n```\n- Recouvrement d'argile :\n  - Ajout d'un anti cc\n\n- Les araignées d'argile :\n  - Fix du bug de disparition.\n  - Fix du fait que cela pouvait target les staff en mode admin.\n  - Amélioration du ciblage, elles ciblent maintenant la personne la plus proche du regarde de l'utilisateur.\n\n- Oiseau d'Argile :\n  - Fix du bug où l'oiseau rebondit sur les joueurs.\n  - Diminution du temps de vol :\n    - Niveau 1 : 10 sec → 8 sec\n    - Niveau 2 : 14 sec → 10 sec\n    - Niveau 3 : 18 sec → 12 sec\n```\n\n<:solve_nerf:1374263005650616330>                 - **__Shakuton__**  \n```\n- Spirale de Chaleur :\n  - Baisse de la durée :\n    - Niveau 1 : 5 sec → 6 sec\n    - Niveau 2 : 10 sec → 8 sec\n    - Niveau 3 : 20 sec → 14 sec\n  - Augmentation du CD :\n    - Niveau 1 : 60 sec → 80 sec\n    - Niveau 2 : 55 sec → 75 sec\n    - Niveau 3 : 50 sec → 70 sec\n\n- Courants Ascendants :\n  - Baisse des dégâts :\n    - Niveau 1 : 100 → 70\n    - Niveau 2 : 130 → 90\n    - Niveau 3 : 150 → 110\n  - Baisse du nombre de brulures :\n    - Niveau 1 : 10 → 3\n    - Niveau 2 : 12 → 4\n    - Niveau 3 : 15 → 5  \n  - Augmentation des dégâts des brulures :\n    - 5 → 10  \n  - Augmentation du CD :\n    - Niveau 3 : 70 sec → 75 sec\n\n- Zone de chaleur :\n  - Augmentation du CD :\n    - Niveau 1 : 60 sec → 65 sec\n    - Niveau 2 : 50 sec → 55 sec\n    - Niveau 3 : 40 sec → 50 sec\n\n```\n\n<:solve_nerf:1374263005650616330>                  - **__Yoton__**  \n```\n- Boule de Yoton :\n  - Baisse du nombres de brulures :\n    - Niveau 1 : 3 → 2\n    - Niveau 2 : 4 → 2\n    - Niveau 3 : 5 → 3\n  - Baisse des dégâts a l'impact :\n    - Niveau 1 : 100 → 70\n    - Niveau 2 : 125 → 90\n    - Niveau 3 : 150 → 130\n\n- Eruption de lave :\n  - Baisse du nombres de personnes pouvant être immobilisé :\n    - 4 → 2\n  - Baisse du temps d'immobilisation :\n    - Niveau 2 : 1.5 sec → 1 sec\n    - Niveau 3 : 2 sec → 1.5 sec\n\nGolem de Yoton :\n  - Augmentation du temps entre chaque auto attaque :\n    - 1 sec → 1.35 sec\n  - Baisse des dégâts :\n    - Niveau 1 : 130 → 100\n    - Niveau 2 : 150 → 120\n    - Niveau 3 : 190 → 160\n  - Baisse de la durée :\n    - Niveau 1 : 18 sec → 12 sec\n    - Niveau 2 : 20 sec → 16 sec\n    - Niveau 3 : 25 sec → 20 sec\n\n\n```",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028694326
+  },
+  {
+    "id": "1396528104431681658",
+    "content": "@everyone",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753028646334
+  },
+  {
+    "id": "1396525260966203495",
+    "content": "Je vais pas tarder à envoyer le devlog. \n\n**Sachez une chose** : Sherman a des avocats très puissants qu'il mettra à ma disposition si vous vous en prenez à mon intégrité.",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1753027968399
+  },
+  {
+    "id": "1396161557594898503",
+    "content": "> # <:solve_reload:1289153175093248036>__**Mise à jour du 19/07**__ :\n\n\n> <:solve_naruto:1249368325692067910>  - **__Mapping & Mouvements__**  \n```\n• Mise à jour Map S1 & S3 (fix de bugs, ajouts mineurs)\n• Nouveaux écrans de chargements ! \n• [Pas présent dès l'ouverture] Ajouts de sons d'effets immersifs dans les menus (désactivables au choix via les paramètres) \n• Rework du Double Jump (animations), celui-ci est directionnel à présent.\n• [En test] Ajout de Dash vers la droite ou la gauche avec cooldown (Double Q ou double D pour l'instant) \n```\n\n> *On bosse beaucoup sur des petits détails en ce moment pour améliorer l'expérience de jeu et le confort ! * <:solve_22:1250488230432735232> \n\n# <a:solve_arrow_bl:1371120313760223353> Demain, gros __Patch Note sur les KG__ & rework du Jiton Iron ! <:solve_23:1250488252880785569> <:jiton:1304256801620889650> \n\n||@here||",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1752941254758
+  },
+  {
+    "id": "1394713906919899408",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 15/07**__ :\n\n\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Nouveau subjutsu \"La Fleur d'Ammoniaque\"\n- Nouvelles tenues SHOP disponibles\n- Changement du système d'éditeur d'accessoire\n```\n\n\n<:solve_reload:1289153175093248036>                 - **__Taijutsu Expert__**  \n```\n- Jet de bandelette :\n  - Changement de la hitbox\n\n```\n\n\n\n-# __**A venir**__: Rework Jet de bandelette, rééquilibrage KG, Rework Jiton\n\n||@here||",
+    "username": "anr212",
+    "avatar": "https://cdn.discordapp.com/avatars/302055291988738048/e379994382b56548c74419da12adca51.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1752596107941
+  },
+  {
+    "id": "1394349436355870771",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 14/07**__ :\n\n\n\n<:solve_reload:1289153175093248036>                 - **__Katon__**  \n```\n- Lame de chaleur :\n  - Changement de la hitbox\n\n```\n\n<:solve_buff:1374263003549138984>                - **__Doton__**  \n```\n- Crachat de roche :\n  - Augmentation des dégâts :\n    - Niveau 1 : 15 → 20\n    - Niveau 2 : 25 → 30\n    - Niveau 3 : 35 → 40\n- Poing  Granite :\n  - Baisse du CD :\n    - Niveau 1 : 80 sec → 70 sec\n    - Niveau 2 : 75 sec → 65 sec\n    - Niveau 3 : 70 sec → 60 sec\n\n```\n\n<:solve_buff:1374263003549138984>                - **__Kioshi__**  \n```\n- Lumiere Enveloppante :\n  - Augmentation de la vitesse de déplacement :\n    - Niveau 1 : 10% → 20%\n    - Niveau 2 : 15% → 25%\n    - Niveau 3 : 20% → 30%\n  - Retrait de la consommation de chakra\n\n```\n\n\n\n||@here||",
+    "username": "anr212",
+    "avatar": "https://cdn.discordapp.com/avatars/302055291988738048/e379994382b56548c74419da12adca51.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1752509211387
+  },
+  {
+    "id": "1391461671066927205",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 06/07**__ :\n\n<:solve_nerf:1374263005650616330>                 - **__Yoton__**  \n```\n- Golem de Yoton :\n  - Baisse du nombre de brûlures :\n    - 5 → 3\n  - Baisse de la hitbox \n  - Augmentation du CD :\n    - Niveau 1 : 100 sec → 145 sec\n    - Niveau 2 : 95 sec → 135 sec\n    - Niveau 3 : 90 sec → 125 sec\n```\n\n<:solve_nerf:1374263005650616330>                - **__Ermite Singe actif__**  \n```\n- Baisse du nombre de coups au sol :\n  - 7 → 4\n  - Baisse de la hitbox \n\n```\n\n-# __**A venir**__:   Nouvelles coupes de cheveux, demain.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1751820714490
+  },
+  {
+    "id": "1390003382206332938",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 02/07**__ :\n\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Fix du bug du coiffeur où on ne voyait pas notre personnage.\n```\n\n<:solve_buff:1374263003549138984>                - **__Kaminari __**  \n```\n- Nuage :\n  - Réduction de la vitesse de déplacement du nuage.\n  - Maintenant les éclairs ne sont plus aléatoire, ils tombent uniquement sur les joueurs sous le nuage.\n\n- Boule Kaminari :\n  - Fix du multi-hit.\n  - Augmentation des dégâts : 175 -> 200.\n```\n\n<:solve_buff:1374263003549138984>                - **__Jitoniron__**  \n```\n- Bombe :\n  - Les personnes à l'intérieur ne peuvent plus sauter.\n```\n\n-# __**A venir**__:   Nouvelles coupes de cheveux, option bicolore sur certaines.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1751473031332
+  },
+  {
+    "id": "1389642438192136224",
+    "content": "# <:solve_reload:1289153175093248036>__**Mise à jour du 01/07**__ :\n\n<:solve_naruto:1249368325692067910>                - **__Inventaire__**  \n```\n- Correction du bug de gestion des slots lors de l’organisation de l’inventaire\n\n- Correction de certains bugs d’utilisation liés aux équipements\n\n- Ajout de catégories permettant de filtrer les types d’objets, pour faciliter la navigation dans l’inventaire\n\n- Il n’est plus nécessaire de retirer une arme ou une tenue pour la remplacer : un simple clic droit suffit, ce qui évite de repasser par la tenue de base.\n```\n\n*Je suis au courant de certains bug ils seront fix en live dans quelque secondes, notamment :  *\n>  - La durabilité des armes mal affichés vous inquiétez pas c'est juste un bug visuel.\n>  - Les slots qui ne persistent pas.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1751386975573
+  },
+  {
+    "id": "1388199952345333770",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 27/06**__ :\n\n\n<:buff:1374263003549138984>                - **__Deiton__**  \n```\n- Sable Mouvants boueux :\n  - Augmentation du ralentissement :\n    - Niveau 1 : 10% → 15%\n    - Niveau 2 : 15% → 25%\n    - Niveau 3 : 20% → 30%\n  \n- Crachat de boue :\n  - Augmentation des dégâts :\n    - Niveau 1 : 60 → 80\n    - Niveau 2 : 85 → 100\n    - Niveau 3 : 110 → 130\n```\n\n<:buff:1374263003549138984>                - **__Katon__**  \n```\n- Chute Céleste :\n - Baisse du coût en chakra :\n    - Niveau 1 : 760 → 700\n    - Niveau 2 : 680 → 620\n    - Niveau 3 : 600 → 550\n\n```\n\n<:buff:1374263003549138984>                - **__Suiton__**  \n```\n- Raz de marée :\n - Baisse du coût en chakra :\n    - Niveau 1 : 760 → 700\n    - Niveau 2 : 680 → 600\n    - Niveau 3 : 640 → 520\n\n```\n\n<:buff:1374263003549138984>                - **__Doton__**  \n```\n- Golem de Roche :\n - Baisse du coût en chakra :\n    - Niveau 1 : 760 → 700\n    - Niveau 2 : 680 → 600\n    - Niveau 3 : 600 → 500\n\n```\n\n<:buff:1374263003549138984>                - **__Futon__**  \n```\n- L'oeil du Cyclone :\n - Baisse du coût en chakra :\n    - Niveau 1 : 760 → 700\n    - Niveau 2 : 680 → 600\n    - Niveau 3 : 650 → 520\n\n```\n\n<:buff:1374263003549138984>                - **__Raiton__**  \n```\n- Kirin :\n - Baisse du coût en chakra :\n    - Niveau 1 : 760 → 700\n    - Niveau 2 : 680 → 600\n    - Niveau 3 : 600 → 550\n\n```\n-# __**A venir**__:   Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage / Arme unique Fuma\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1751043060147
+  },
+  {
+    "id": "1387826868635566171",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 26/06**__ :\n\n\n<:solve_naruto:1249368325692067910>                - **__Général__**  \n```\n- Le dragon Inkuton et l'invocation de l'aigle ne peuvent plus grab les transformations.\n- Ajout d'un N+2 sur les singes.\n- Le passif mirage ne cumul plus avec les autres boost.\n- Vous pouvez maintenant lancer le coup de pied marteau Senju en l'air.\n```\n\n<:buff:1374263003549138984>                - **__Bakuton__**  \n```\n- Mine :\n  - Augmentation des dégâts :\n    - Niveau 3 : 140 → 160\n  - Augmentation de la hitbox\n```\n\n<:buff:1374263003549138984>                - **__Jashin__**  \n```\n- Augmentation de la résistance pendant le rituel :\n  - 1000hp → 2000hp\n- Augmentation du renvoie de dégâts :\n  - 80% → 100%\n```\n\n-# __**A venir**__:   \n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750954110059
+  },
+  {
+    "id": "1387462611779457158",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 25/06**__ :\n\n\n<:nerf:1374263005650616330>                 - **__Sakin__**  \n```\n- Vague de sable dorée :\n  - Baisse des dégâts :\n    - Niveau 3 : 450 → 400\n  - Augmentation du CD :\n    - Niveau 1 : 50sec → 55sec\n    - Niveau 2 : 45sec → 50sec\n    - Niveau 3 : 40sec → 45sec\n\n- Armure Dorée :\n  - Baisse de la regen par seconde :\n    - Niveau 1 : 30 → 20\n    - Niveau 2 : 35 → 25\n    - Niveau 3 : 40 → 30\n  - Baisse du temps de l'armure :\n    - Niveau 1 : 10 sec → 8 sec\n    - Niveau 2 : 15 sec → 12 sec\n    - Niveau 3 : 20 sec → 18 sec\n\n- Orbe dorée :\n  - Baisse du ralentissement :\n    - Niveau 2 : 40% → 30%\n    - Niveau 3 : 60% → 40%\n  - Baisse du temps de ralentissement :\n    - Niveau 2 : 4 sec → 3 sec\n    - Niveau 3 : 6 sec → 4 sec\n  - Baisse du radius de l'orbe\n\n\n\n\n```\n\n<:nerf:1374263005650616330>                 - **__Mokuton__**  \n```\n- Enceinte de bois :\n  - Augmentation du CD :\n    - Niveau 1 : 90sec → 95sec\n    - Niveau 2 : 85sec → 90sec\n    - Niveau 3 : 75sec → 85sec\n  - Baisse de la durée de l'enceinte :\n    - Niveau 1 : 6 sec → 5 sec\n    - Niveau 2 : 7 sec → 6 sec\n    - Niveau 3 : 9 sec → 8 sec\n\n- Mains de bois :\n  - Augmentation du CD :\n    - Niveau 3 : 65sec → 75sec\n  - Baisse des dégâts :\n    - Niveau 1 : 220 → 180\n    - Niveau 2 : 250 → 200\n    - Niveau 3 : 270 → 220\n\n- Dragon de bois :\n  - Baisse des dégâts :\n    - Niveau 1 : 400 → 200\n    - Niveau 2 : 400 → 250\n    - Niveau 3 : 400 → 300\n  - Baisse des dégâts par tic :\n    - Niveau 1 : 100 → 50\n    - Niveau 2 : 100 → 60\n    - Niveau 3 : 100 → 75\n  - Baisse du temps d'étourdissement :\n    - Niveau 1 : 3sec → 2sec\n    - Niveau 2 : 3sec → 2sec\n    - Niveau 3 : 4sec → 3sec\n\n```\n\n<:buff:1374263003549138984>                  - **__Aburame__**  \n```\n- Voile du Kikai :\n  - Augmentation des stack d'esquive :\n    - Niveau 2 : 6 → 8\n    - Niveau 3 : 7 → 10\n```\n\n-# __**A venir**__:   Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage / Arme unique Fuma\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750867264457
+  },
+  {
+    "id": "1387107988006764687",
+    "content": "# <:solve_reload:1289153175093248036>__**Mise à jour 24/06**__ :\n\n<:solve_naruto:1249368325692067910>                  - **__Général__**  \n```\n- Fix du système de Missives\n- Fix de l'HDV\n- Fix des coffres de factions pour les objets qui restaient alors qu'ils n'étaient plus là\n- Les ryos s'actualisent désormais correctement quand vous ouvrez votre inventaire\n- Nouveau swep Yamigawa\n- Nouveau subjutsu Katon : Flèche de Feu\n- Nouveau subjutsu : Invocation Enma\n- Nouveau coup spécial : Baton Enma\n```\n\n-# __**A venir**__:   Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage / Arme unique Fuma\n\n||@here||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750782715561
+  },
+  {
+    "id": "1386766421853212874",
+    "content": "# <:solve_reload:1289153175093248036>__**Mise à jour 23/06**__ :\n\n<:solve_naruto:1249368325692067910>                  - **__Map__**  \n```\n- Fix des problèmes de portes du Palais d'Oto.\n- Ajout de cellules (Non reservé au FS) dans le Palais d'Oto.\n- Ajout d'un arbre et de végétations devant Suna en rapport à la mort d'Hiroto Senju.\n```\n\n-# __**A venir**__:   Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750701279844
+  },
+  {
+    "id": "1386016313889263737",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 21/06**__ :\n\n*Les élus dans le fin.*\n\n<:nerf:1374263005650616330>                 - **__Jinton__**  \n```\n- Clone de Jinton :\n  - Baisse du pourcentage de vie du clone :\n    - Niveau 1 : 50% → 40%\n    - Niveau 2 : 60% → 50%\n    - Niveau 3 : 80% → 60%\n  - Augmentation du CD :\n    - Niveau 1 : 80 sec → 85 sec\n    - Niveau 2 : 70 sec → 80 sec\n    - Niveau 3 : 65 sec → 75 sec\n\n- Bouclier - Secousses :\n  - Augmentation du CD :\n    - Niveau 1 : 60 sec → 65 sec\n    - Niveau 2 : 50 sec → 60 sec\n    - Niveau 3 : 40 sec → 55 sec\n\n- Rayon Blanc :\n  - Augmentation du CD :\n    - Niveau 1 :100 sec → 120 sec\n    - Niveau 2 : 95 sec → 115 sec\n    - Niveau 3 : 90 sec → 110 sec\n\n```\n\n<:nerf:1374263005650616330>                 - **__Suiton__**  (Oubliez dans les anciens devlog)\n```\n- Bulle d'eau :\n  - Baisse des dégâts :\n    - Niveau 1 : 30 → 25\n    - Niveau 2 : 35 → 30\n    - Niveau 3 : 45 → 40\n  - Baisse du nombre de bulle :\n    - 10 → 7\n```\n\n-# __**A venir**__:   Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750522440169
+  },
+  {
+    "id": "1385642896283271269",
+    "content": "# <:solve_reload:1289153175093248036> __**Mise à Jour du 20/06**__ :\n\n\n## <a:solve_fire:1372638683760427149>  **Nouvelle interface - Nouvelles fonctionnalités**\n\n\n### Personnalisation de l'échelle du HUD\n*Vous pouvez désormais ajuster la taille de votre interface selon vos préférences *\n\n> `solve_naruto_set_hud_scale [valeur]` : Ajuste l'échelle du HUD principal (valeur entre `0.5` et `2.0`)  Valeur de base : `1.2`\n> `solve_naruto_set_combat_hud_scale [valeur]` : Ajuste l'échelle du HUD de combat (valeur entre `0.5` et `2.0`) Valeur de base : `1.0`\n\n\n### HUD de performance\n*Un nouvel affichage des performances est disponible dans le menu des paramètres : *\n\n- Activez l'option **\"Hud performance\"** pour afficher votre **vitesse**, **FPS** et **ping** en temps réel  \n- Accessible depuis le menu des **paramètres**\n\n\n### Refonte du système d'appels\n*Le système d'appels à la cloche a été entièrement revu : *\n\n- Les appels restent désormais affichés **en haut à gauche** de l'écran  \n- Vous pouvez configurer leur **durée d'affichage** dans les paramètres  \n- Appuyez sur `F3` pour afficher la souris et faites un **clic droit sur un appel** pour le fermer  \n- Possibilité de **personnaliser l'icône** affichée lorsque vous faites\n\n### Barre d'orientation\n*Une nouvelle barre d'orientation a été ajoutée en haut de l'écran : *\n\n- Peut être **désactivée** dans le menu des paramètres si vous préférez\n\n### Améliorations des passifs et buffs \n\n- Les **sorts constants** sont maintenant affichés sous forme **d’icônes en bas de la barre de chakra**  \n- Une **barre de temps** a été ajoutée aux **buffs non constants** pour mieux suivre leur durée  \n- La catégorie **\"Autres\"** du **menu Jutsu** a été réorganisé  pour un meilleur rangement\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750433410474
+  },
+  {
+    "id": "1384568328751943781",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 17/06**__ :\n\n<:solve_naruto:1249368325692067910>           - **__Général__**  \n```\n- Le dragon d'Inkuton ne peut plus attraper un joueur qui utilise les rockets shoton.\n- Si vous désactivez le son de la boutique, il n'y a plus le son lors des rerolls.\n- Les Ayatsuris ne peuvent plus fil de chakra les personnes sous immunités.\n- Le bouclier Jinton est maintenant considérés comme une immune.\n- Rang S Senju disponible.\n```\n\n🔨              - **__Fix__**  \n```\n- Fix des particules dans le pack opening.\n- Fix du bug où les singes d'inkuton ne silence pas.\n- Fix hitbox golem mokuton.\n```\n\n-# __**A venir**__:   Rework HUD  / Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750177213610
+  },
+  {
+    "id": "1384203757193269317",
+    "content": "# <:solve_reload:1289153175093248036>__**Mise à Jour du 16/06**__ :\n\n<:solve_naruto:1249368325692067910>           - **__Général__**  \n```\n- Ajouts d'icones sur les jutsu Shukaku et l'ermite sinj.\n- Ajout de l'ermite Sinj et de l'actif sinj.\n- Ajout d'un coffre dans le domaine du clan Mugen.\n- Ajout dans le hud du cooldown de la copie des sharingans.\n```\n\n🔨              - **__Fix__**  \n```\n- Fix du bug qui empêchait d'augmenter les niveaux de son passif.\n- Fix erreur sur l'étranglement de shukaku.\n- Fix erreur à la connexion.\n- Fix des couleurs sur le wallhack Mugen.\n- Fix du cooldown sur la pupille Mugen.\n- Fix du fait que l'utilisateur ou la cible pouvaient utiliser des jutsu pendant l'Étreinte du Crépuscule, La Fureur du dragon et la Fleur du lotus.\n- Fix du boost senju qui s'activait pas.\n```\n\n\n-# __**A venir**__:   Rang S Senju(demain) / Rework HUD  / Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.\n\n||@here||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750090292977
+  },
+  {
+    "id": "1383839085981995119",
+    "content": "# <:solve_reload:1289153175093248036>__**Devlog du 15/06**__ :\n\n> Mini devlog pour quand même vous tenir au courant. On bosse sur des grosses nouveautés, vous verrez cette semaine !\n\n<:solve_new:1225571272965095504>                    - **__General__**  \n```\n- Kusarigama : Ajout du coup spécial\n- Ermite Sinj : Ajout de l'actif-passif\n```\n\n-# __**A venir**__:   Rang S Senju / Rework HUD / Instinct Primal / Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750003348585
+  },
+  {
+    "id": "1383115220133871637",
+    "content": "# <:solve_reload:1289153175093248036>__**Hotfix du 13/06**__ :\n\n<:solve_naruto:1249368325692067910>                   - **__General__**  \n```\n- Tenkazura l'Éventail du Bananier : Ajout du coup spécial\n```\n\n🔨                  - **__Fix__**  \n```\n- Fix de la hitbox du Mur Doton ce qui causait des stucks\n- Fix du bug de chargement de la tête\n```\n\n<:solve_icon_doton:1250821991217364992>                   - **__Doton__**  \n```\n- Passage du swep Épine de Roche en Rang A\n- Passage du swep Poing Granite en Rang B (on conserve les mêmes valeurs équilibrage : pas de nerf)\n```\n\n\n<:buff:1374263003549138984>                - **__Senju__**  \n```\n- Intensification Senju :\n  - Augmentation du temps du boost :\n    - Niveau 1 : 18 sec → 20 sec\n    - Niveau 2 : 20 sec → 25 sec\n    - Niveau 3 : 25 sec → 30 sec\n  - Augmentation de la vitesse de déplacement :\n    - Niveau 1 : 20% → 25%\n    - Niveau 2 : 25% → 30%\n    - Niveau 3 : 30% → 35%\n\n- Coup de pied marteau :\n  - Augmentation des dégâts :\n    - Niveau 1 : 170 → 180\n    - Niveau 2 : 180 → 190\n    - Niveau 3 : 190 → 205\n\n- Régénération Cellulaire :\n  - Baisse du CD :\n    - Niveau 2 : 145 sec → 135 sec \n    - Niveau 3 : 175 sec → 155 sec\n  - Baisse du cout de chakra:   \n    - Niveau 1 : 320 → 240\n    - Niveau 2 : 360 → 280\n    - Niveau 3 : 400 → 320\n\n- Cataclysme :\n  - Augmentation des dégâts :\n    - Niveau 1 : 200 → 210\n    - Niveau 2 : 230 → 240\n    - Niveau 3 : 270 → 280\n\n```\n\n<:nerf:1374263005650616330>                 - **__Rasengan__**  \n```\n- Baisse des dégâts :\n  - Niveau 1 : 550 → 300\n  - Niveau 2 : 550 → 400\n  - Niveau 3 : 550 → 500\n\n\n```\n\n-# __**A venir**__:   Rework Coup de Pied Senju / Rang S Senju / Rework HUD / Instinct Primal / Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.\n\n||@here||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1749830765518
+  },
+  {
+    "id": "1382759197103362169",
+    "content": "# <:solve_reload:1289153175093248036>__**Patchnote du 12/06**__ :\n\n<:solve_naruto:1249368325692067910>                   - **__General__**  \n```\n- Rajout d'hud sur l'invisibilité mirage et boost mirage.\n- Rajout d'hud poing de chakra.\n- Changement affichage jutsu autres (hier)\n- Rework particules des portes (hier)\n- Barre de vie en mode staff par rapport au village de la personne (hier)\n- Nouveaux subjutsu : Random Ramen / Parchemin Explosif / Boule de fumée / Transfert de vie / Lien vital\n```\n\n🔨                  - **__Fix__**  \n```\n- Fix bug Toupie Céleste.\n- Fix particule poing de chakra.\n```\n\n<:solve_reload:1289153175093248036>                 - **__Taijutsu Expert__**  \n```\n- Toupie Céleste :\n  - Augmentation des dégâts :\n    - Niveau 1 : 25 → 40\n    - Niveau 2 : 35 → 50\n    - Niveau 3 : 45 → 60\n  - Baisse de la vitesse de déplacement.\n  - Baisse de la fréquence des tics de dégâts.\n```\n\n<:buff:1374263003549138984>                - **__Aburame__**  \n```\n- Frappe Chitineuse :\n  - Augmentation du temps du boost :\n    - Niveau 2 : 14 sec → 16 sec\n    - Niveau 3 : 15 sec → 18 sec\n\n- Fléau de l'Essaim :\n  - Baisse du CD :\n    - Niveau 1 : 80 sec → 70 sec\n    - Niveau 2 : 75 sec → 65 sec\n    - Niveau 3 : 70 sec → 60 sec\n\n- Nuage d'insectes :\n  - Augmentation des dégâts :\n    - Niveau 1 : 30 → 40\n\n```\n\n<:solve_reload:1289153175093248036>                - **__Senju__**  \n```\n- Intensification Senju :\n  - Boost plus constant.\n  - Augmentation du boost de dégâts taijutsu :\n    - Niveau 1 : 20% → 35%\n    - Niveau 2 : 35% → 55%\n    - Niveau 3 : 45% → 70%\n  - Augmentation du boost de dégâts kenjutsu :\n    - Niveau 1 : 20% → 30%\n    - Niveau 2 : 25% → 35%\n    - Niveau 3 : 30% → 45%\n  - Augmentation du boost de résistance :\n    - Niveau 1 : 5% → 7%\n    - Niveau 2 : 5% → 8%\n    - Niveau 3 : 8% → 10%\n  - Durée : \n    - Niveau 1 : 18sec\n    - Niveau 2 : 20sec\n    - Niveau 3 : 25sec\n  - Cooldown : \n    - Niveau 1 : 70sec\n    - Niveau 2 : 65sec\n    - Niveau 3 : 60sec\n\n- Coup de pied marteau :\n  - Diminution des dégâts :\n    - Niveau 1 : 175 → 170\n    - Niveau 2 : 215 → 180\n    - Niveau 3 : 240 → 190\n\n- Cataclysme :\n  - Diminution des dégâts :\n    - Niveau 1 : 220 → 200\n    - Niveau 2 : 250 → 230\n    - Niveau 3 : 300 → 270\n```\n\n-# __**A venir**__: Rework HUD / Instinct Primal / Trame Ermite Serpent / Armes Griffes / Arme Sarbacane / Trame Enma / Arme Coquillage.\n\n||<@&1252646455617785978> ||",
+    "username": "nonpastellement",
+    "avatar": "https://cdn.discordapp.com/avatars/193086726007160832/5176dcf16a8abe17c1f231f2cf923eb3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1749745883013
+  }
+]

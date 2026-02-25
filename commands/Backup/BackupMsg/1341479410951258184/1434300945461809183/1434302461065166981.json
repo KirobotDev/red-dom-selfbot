@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1435370173912715305",
+    "content": "# Avant d'ouvrir un ticket : #\n\n<a:warning:1032948699489374219> - Nous ne recrutons pas de modo ou Helpeur nous sélectionnons nous-même\n<a:war:1411006440348581918> - Merci d'écrire la raison d'ouverture du ticket",
+    "username": "jules_.csr",
+    "avatar": "https://cdn.discordapp.com/avatars/984159943898853376/6872f694fb8d3c811d479652bf3c74bb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762289317349
+  },
+  {
+    "id": "1435013719221469266",
+    "content": "",
+    "username": "Ticket Tool",
+    "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/dd89587457ef9f971d331426cad9e2be.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "To create a ticket use the Create ticket button",
+        "url": null,
+        "timestamp": null,
+        "color": 3706428,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Assistance Anti Casseurs"
+        },
+        "footer": {
+          "text": "TicketTool.xyz - Ticketing without clutter",
+          "icon_url": "https://tickettool.xyz/images/footer.png"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762204331928
+  }
+]

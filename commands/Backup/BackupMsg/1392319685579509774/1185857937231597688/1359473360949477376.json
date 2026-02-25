@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1359474640178909394",
+    "content": "@everyone On ne fera plus de everyone à l'avenir pour ces deux choses ! N'oubliez pas 😄",
+    "username": "luquioz_",
+    "avatar": "https://cdn.discordapp.com/avatars/754753455226093578/2c21359979a380da210f8a7396d8dc43.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744194412036
+  },
+  {
+    "id": "1359474229913063505",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Rôles Notifications",
+        "type": "rich",
+        "description": "<@&1359472620973588511>  : Recevoir toutes les notifications quand un membre de notre faction stream \n\n<@&1359472672773505165> : Recevoir toutes les notificationss quand il y a un giveaways !",
+        "url": null,
+        "timestamp": null,
+        "color": 9936031,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744194314221
+  }
+]

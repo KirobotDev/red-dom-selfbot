@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1383486957295763538",
+    "content": "",
+    "username": "Solve・Central",
+    "avatar": "https://cdn.discordapp.com/avatars/1368647398548701356/a_da93794f57dbde287c6414a7e419ac3a.webp",
+    "embeds": [
+      {
+        "title": "🍥 Nos serveurs Discord",
+        "type": "rich",
+        "description": "> Retrouvez l’ensemble de nos serveurs et liens clés.",
+        "url": null,
+        "timestamp": "2025-10-26T17:06:03.088Z",
+        "color": 15105570,
+        "fields": [
+          {
+            "name": "👥 Nos serveurs",
+            "value": "> • <:solve_naruto:1249368325692067910> [**Naruto-RP**](https://discord.gg/solve-naruto) • Serveur principal\n> • <:discotoolsxyzicon33:1280595509240660089> [**Douane (WL)**](https://discord.gg/tT2yCWBDEu) • Whitelist\n> • <:solve_konoha_neon:1255183715676721203> [**Konoha**](https://discord.gg/9gfZfMYTVR) • Village\n> • <:solve_suna_neon:1265116010013392897> [**Suna**](https://discord.gg/Fzszx6BZgA) • Village\n> • 🎶 [**Oto**](https://discord.gg/5MnPtKNPBf) • Village\n> • <:solve_icon_kiri:1250821963484626964> [**Kiri**](https://discord.gg/j2Aa3krnjF) • Village\n> • 🕷️ [**Nukenin**](https://discord.gg/UGsfKGykE7) • Hors-la-loi\n> • <:roleplay_icon_solve:1285653650148036659> [**Rôleplay**](https://discord.gg/PqQDPY4n74) • Suivi MJ / RP",
+            "inline": false
+          },
+          {
+            "name": "🔗 Liens importants",
+            "value": "> • 💰 [**Boutique**](https://www.boutique.solve-community.fr/) • Achats & soutiens\n> • 🌍 [**Wiki Naruto-RP**](https://wiki.solve-community.fr/naruto) • Documentation\n> • 🍃 [**Collection d’addons**](https://steamcommunity.com/sharedfiles/filedetails/?id=3422759216) • Steam Workshop",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://i.imgur.com/D3tm3dv.png",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/MfK5Y1FmuSXcubOA9tGemJi4DlcQMgB8BFnmnFXDmso/https/i.imgur.com/D3tm3dv.png",
+          "height": 345,
+          "width": 350
+        },
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Solve・Naruto",
+          "icon_url": "https://cdn.discordapp.com/avatars/1368647398548701356/a_da93794f57dbde287c6414a7e419ac3a.gif?size=1024"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1749919394564
+  }
+]

@@ -1,0 +1,2096 @@
+[
+  {
+    "id": "1379161795796926505",
+    "name": "→ 🏝️•𝘾𝙃𝙄𝙇𝙇",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061390315520041",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "29360128",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "29360128",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "36700673",
+        "deny": "2098566953172304"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1384070486220210236",
+    "name": "🛠️•ᴀɪᴅᴇ ᴍᴀᴘ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 17,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "4350766235516753"
+      }
+    ]
+  },
+  {
+    "id": "1322061848211623947",
+    "name": "→ 😴•𝘼𝙁𝙆",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061390315520041",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "29360128",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "36700673",
+        "deny": "2098566953172304"
+      },
+      {
+        "id": "1415581350974591078",
+        "allow": "29360128",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1427395453988638884",
+    "name": "→⏱️•𝙋𝙍𝙀𝙎𝙀𝙉𝘾𝙀-𝙊𝘽𝙇𝙄𝙂𝘼𝙏𝙊𝙄𝙍𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1427532291340505119",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "66561",
+        "deny": "4012103703132240"
+      }
+    ]
+  },
+  {
+    "id": "1447376604983459880",
+    "name": "→📘•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝙂𝙀𝙍𝘼𝙉𝙏-𝘿𝙄𝙎𝘾𝙊𝙍𝘿",
+    "type": "GUILD_TEXT",
+    "parentId": "1447363453470904351",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1444397634856026335",
+        "allow": "66625",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1409132858114576494",
+    "name": "→💻•𝙑𝙊𝙎-𝙎𝙀𝙏𝙐𝙋",
+    "type": "GUILD_FORUM",
+    "parentId": "1322056608271962113",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "139264",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "274878007361",
+        "deny": "1795110304379920"
+      }
+    ]
+  },
+  {
+    "id": "1442932866819428443",
+    "name": "👑•ᴊᴜᴊᴜғᴀsʜ & ᴡxɪʟʏ3s",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1444391236906651658",
+    "name": "🛠️•ᴇϙᴜɪᴘᴇ ᴅɪSᴄᴏʀᴅ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 12,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1453083926816887056",
+    "name": "→❓•𝘿𝙀𝙈𝘼𝙉𝘿𝙀-𝘿𝙄𝙑𝙀𝙍𝙎𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1447363453470904351",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "199745",
+        "deny": "0"
+      },
+      {
+        "id": "1444397634856026335",
+        "allow": "199745",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1444399479951196170",
+        "allow": "199745",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1427899051608899654",
+    "name": "→ 🎤•𝙑𝙊𝘾 𝘼𝘾",
+    "type": "GUILD_VOICE",
+    "parentId": "1427898035723046973",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1406354861989167114",
+        "allow": "36701697",
+        "deny": "2098566953171280"
+      },
+      {
+        "id": "everyone",
+        "allow": "1",
+        "deny": "2098566989872976"
+      }
+    ]
+  },
+  {
+    "id": "1322060752802152529",
+    "name": "🌍•ɢʟᴏʙᴀʟ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1447376384002494597",
+    "name": "→📘•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝙂𝙀𝙍𝘼𝙉𝙏-𝘿𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1447363453470904351",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      },
+      {
+        "id": "1444399479951196170",
+        "allow": "66625",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1322054305313853453",
+    "name": "→👤•𝙈𝙊𝘿𝙀𝙍𝘼𝙏𝙀𝙐𝙍-𝙎𝙀𝙐𝙇𝙀𝙈𝙀𝙉𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1442932866819428443",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1041795851649028188",
+        "allow": "101441",
+        "deny": "4012103703097360"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1795488261602385"
+      }
+    ]
+  },
+  {
+    "id": "1384066774449782855",
+    "name": "→⚙•𝙃𝙄𝙎𝙏𝙊𝙍𝙄𝙌𝙐𝙀-𝙏𝙄𝘾𝙆𝙀𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1427535277588742236",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "66561",
+        "deny": "8515703330502736"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1447363453470904351",
+    "name": "🏛️•ᴄᴏɴsᴇɪʟ ᴅ·ᴀᴅᴍɪɴɪsᴛʀᴀᴛɪᴏɴ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 11,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1444391727115796591",
+    "name": "→📣•𝘼𝙉𝙉𝙊𝙉𝘾𝙀-𝙀𝙌𝙐𝙄𝙋𝙀-𝘿𝙎",
+    "type": "GUILD_NEWS",
+    "parentId": "1444391236906651658",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "66625",
+        "deny": "8515634611025936"
+      },
+      {
+        "id": "1415581350974591078",
+        "allow": "133120",
+        "deny": "0"
+      },
+      {
+        "id": "1444397634856026335",
+        "allow": "165888",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      },
+      {
+        "id": "1444399479951196170",
+        "allow": "133120",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1382239273251770368",
+    "name": "🛡️•Sᴛᴀғғ/SᴜᴘᴇʀSᴛᴀғғ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 13,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1447366920553762856",
+    "name": "→🚫•𝘿𝙀𝙈𝘼𝙉𝘿𝙀-𝘿𝙀-𝘽𝘼𝙉",
+    "type": "GUILD_TEXT",
+    "parentId": "1447363453470904351",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "199745",
+        "deny": "0"
+      },
+      {
+        "id": "1444397634856026335",
+        "allow": "199745",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1444399479951196170",
+        "allow": "199745",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1322056608271962113",
+    "name": "👥•ᴄᴏᴍᴍᴜɴᴀᴜᴛᴇ́",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1433542345055535325",
+    "name": "→⏹️•𝙋𝙍𝙊𝙋𝙎-3𝘿",
+    "type": "GUILD_TEXT",
+    "parentId": "1442932866819428443",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1041795851649028188",
+        "allow": "257089",
+        "deny": "4012103702941712"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1433566091623530569",
+    "name": "→🧰•𝘽𝙐𝙍𝙀𝘼𝙐 𝙎𝙐𝙋𝙀𝙍𝙑𝙄𝙎𝙀𝙐𝙍",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061343552966779",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1431112204077502587",
+        "allow": "49284865",
+        "deny": "2098566940588112"
+      },
+      {
+        "id": "1041795851649028188",
+        "allow": "66061825",
+        "deny": "2098566923811152"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "34604032",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "1",
+        "deny": "2098566989872976"
+      },
+      {
+        "id": "1322074864676372502",
+        "allow": "34604033",
+        "deny": "2098566955268944"
+      }
+    ]
+  },
+  {
+    "id": "1447365811055628472",
+    "name": "→📣•𝙋𝙍𝙀𝙎𝙀𝙉𝙏𝘼𝙏𝙄𝙊𝙉-𝘿𝙐-𝘾𝙊𝙉𝙎𝙀𝙄𝙇",
+    "type": "GUILD_NEWS",
+    "parentId": "1447363453470904351",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "66625",
+        "deny": "0"
+      },
+      {
+        "id": "1444397634856026335",
+        "allow": "66625",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "8515634611092561"
+      },
+      {
+        "id": "1444399479951196170",
+        "allow": "66625",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1427534423355822081",
+    "name": "⛔•Sᴀɴᴄᴛɪᴏɴ/ʜʀᴘ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 14,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1383894044693758033",
+    "name": "→🧾•𝙈𝙊𝙏𝙄𝙁-𝘽𝙇𝘼𝘾𝙆𝙇𝙄𝙎𝙏𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1427534423355822081",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1390867780416573490",
+        "allow": "68673",
+        "deny": "4012103703130128"
+      },
+      {
+        "id": "1145354429470617621",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "66561",
+        "deny": "1760303889446992"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1322058603020161096",
+    "name": "⚒️•SᴀɴᴄᴛɪᴏɴS & ᴀᴠᴇʀᴛɪSSᴇᴍᴇɴᴛ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 8,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1433571871588094175",
+    "name": "→📙•𝘿𝙀𝙍𝙊𝙂𝘼𝙏𝙄𝙊𝙉-𝙎𝙐𝙋𝙀𝙍𝙑𝙄𝙎𝙀𝙐𝙍",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1431112204077502587",
+        "allow": "66625",
+        "deny": "4012034983655440"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1333308529242542122",
+    "name": "Member Count: 536",
+    "type": "GUILD_VOICE",
+    "parentId": "1333308527422341221",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "432533456807919639",
+        "allow": "1048576",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "2098566989871952"
+      }
+    ]
+  },
+  {
+    "id": "1379161821587443823",
+    "name": "→ 🧳•𝙍𝙊𝙇𝙀𝙋𝙇𝘼𝙔",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061390315520041",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "29360128",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "29360128",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "36700673",
+        "deny": "2098566953172304"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1442940700902822029",
+    "name": "→📘•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝙂𝙀𝙍𝘼𝙉𝙏-𝙈𝙊𝘿𝙊",
+    "type": "GUILD_TEXT",
+    "parentId": "1447363453470904351",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1447366662838948100",
+    "name": "→📬𝙁𝙊𝙍𝙐𝙈-𝘿𝙐-𝘾𝙊𝙉𝙎𝙀𝙄𝙇",
+    "type": "GUILD_FORUM",
+    "parentId": "1447363453470904351",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "274878008385",
+        "deny": "0"
+      },
+      {
+        "id": "1444397634856026335",
+        "allow": "274878008385",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "8515600251354193"
+      },
+      {
+        "id": "1444399479951196170",
+        "allow": "274878008385",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1427898035723046973",
+    "name": "✅•ᴀᴅᴍɪɴ ᴄᴏɴSᴇɪʟʟᴇʀ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 10,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1427905248181096448",
+    "name": "→📣•𝘼𝙉𝙉𝙊𝙉𝘾𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1431112204077502587",
+        "allow": "133120",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      }
+    ]
+  },
+  {
+    "id": "1384135538247860364",
+    "name": "→📘•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝙎𝙏𝘼𝙁𝙁",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      },
+      {
+        "id": "1322073836274978897",
+        "allow": "66625",
+        "deny": "1760303889446928"
+      }
+    ]
+  },
+  {
+    "id": "1338534952723157003",
+    "name": "→📣•𝘼𝙉𝙉𝙊𝙉𝘾𝙀",
+    "type": "GUILD_NEWS",
+    "parentId": "1322060752802152529",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "835988152320524291",
+        "allow": "232513",
+        "deny": "4012034983489552"
+      },
+      {
+        "id": "1041795851649028188",
+        "allow": "232513",
+        "deny": "4012034983489552"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "922509638988103720",
+        "allow": "133120",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65601",
+        "deny": "1795419542060048"
+      }
+    ]
+  },
+  {
+    "id": "1427535277588742236",
+    "name": "🧰•ʟᴏɢS",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 16,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1426885165707169904",
+    "name": "→💡•𝙄𝘿𝙀𝙀-𝙈𝘼𝙋",
+    "type": "GUILD_FORUM",
+    "parentId": "1322056608271962113",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "8192",
+        "deny": "131072"
+      },
+      {
+        "id": "everyone",
+        "allow": "274877974593",
+        "deny": "1795110304412688"
+      }
+    ]
+  },
+  {
+    "id": "1453125320654983332",
+    "name": "tickets-1351130997512474667",
+    "type": "GUILD_TEXT",
+    "parentId": "1438104854269792339",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1351130997512474667",
+        "allow": "2147601472",
+        "deny": "0"
+      },
+      {
+        "id": "958547309728256081",
+        "allow": "2147740752",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1438098340439916646",
+        "allow": "2147601472",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1451964249462013953",
+    "name": "→💭•𝘿𝙄𝙎𝘾𝙐𝙎𝙎𝙄𝙊𝙉-𝙎𝙐𝙋𝙀𝙍𝙎𝙏𝘼𝙁𝙁",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1390867780416573490",
+        "allow": "70368744283201",
+        "deny": "3941734958915600"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1427905597809885184",
+    "name": "→🚨•𝘼𝙑𝙀𝙍𝙏𝙄𝙎𝙎𝙀𝙈𝙀𝙉𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "1431112204077502587",
+        "allow": "199681",
+        "deny": "4012103702999120"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      }
+    ]
+  },
+  {
+    "id": "1408900611885236224",
+    "name": "🏝️•ᴇϙᴜɪᴘᴇ ᴄᴀʟɪғᴏʀɴɪᴀ ʀᴘ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 6,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1445904963212546098",
+    "name": "→⚖️•𝘽𝙐𝙍𝙀𝘼𝙐 𝙂𝙀𝙍𝘼𝙉𝙏 𝙈𝙊𝘿𝙊",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061343552966779",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1041795851649028188",
+        "allow": "66061825",
+        "deny": "2098566923811152"
+      },
+      {
+        "id": "1415581350974591078",
+        "allow": "32507392",
+        "deny": "0"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "34604032",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "1",
+        "deny": "2098566989872976"
+      },
+      {
+        "id": "1322074864676372502",
+        "allow": "34604033",
+        "deny": "2098566955268944"
+      }
+    ]
+  },
+  {
+    "id": "1426736062163718145",
+    "name": "→🔔•𝙈𝙄𝙎𝙀-𝘼-𝙅𝙊𝙐𝙍",
+    "type": "GUILD_NEWS",
+    "parentId": "1322060752802152529",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1041795851649028188",
+        "allow": "165888",
+        "deny": "0"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65601",
+        "deny": "1795419542060048"
+      }
+    ]
+  },
+  {
+    "id": "1453112028775317646",
+    "name": "tickets-1173508336063356948",
+    "type": "GUILD_TEXT",
+    "parentId": "1438104854269792339",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1173508336063356948",
+        "allow": "2147601472",
+        "deny": "0"
+      },
+      {
+        "id": "958547309728256081",
+        "allow": "2147740752",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1438098340439916646",
+        "allow": "2147601472",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1322061390315520041",
+    "name": "🎙•ᴠᴏᴄ ᴘᴜʙʟɪᴄ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 9,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1438104854269792339",
+    "name": "🎫•ᴀSSɪSᴛᴀɴᴄᴇ ᴅɪʀᴇᴄᴛɪᴏɴ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 19,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "4350766235516753"
+      }
+    ]
+  },
+  {
+    "id": "1433929143300526231",
+    "name": "→🎤•𝙑𝙊𝘾 𝙀𝙌𝙐𝙄𝙋𝙀 𝘿𝙎",
+    "type": "GUILD_VOICE",
+    "parentId": "1444391236906651658",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "36701697",
+        "deny": "2098566953171280"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1322061343552966779",
+    "name": "⚙•ᴠᴏᴄ sᴛᴀғғ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1383933882277298196",
+    "name": "→📅•𝙅𝙐𝙎𝙏𝙄𝙁𝙄𝘾𝘼𝙏𝙄𝙁-𝘿’𝘼𝘽𝙎𝙀𝙉𝘾𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1427532291340505119",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1415581350974591078",
+        "allow": "68673",
+        "deny": "4012103703130128"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "68673",
+        "deny": "1760303889444880"
+      }
+    ]
+  },
+  {
+    "id": "1396605887694766130",
+    "name": "🗂️•ᴀssɪsᴛᴀɴᴄᴇ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 7,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1331218184774221834",
+    "name": "→🪛•𝘽𝙐𝙂-𝙈𝘼𝙋",
+    "type": "GUILD_FORUM",
+    "parentId": "1322056608271962113",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "8192",
+        "deny": "131072"
+      },
+      {
+        "id": "everyone",
+        "allow": "274877974593",
+        "deny": "1795110304412688"
+      }
+    ]
+  },
+  {
+    "id": "1384137738768486400",
+    "name": "→📕•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝙎𝙐𝙋𝙀𝙍𝙎𝙏𝘼𝙁𝙁",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      },
+      {
+        "id": "1390867780416573490",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      }
+    ]
+  },
+  {
+    "id": "1424135502508068924",
+    "name": "→ 💼•𝘽𝙐𝙍𝙀𝘼𝙐 - 𝙒𝙓 𝙄𝙇𝙔3𝙎 -",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061343552966779",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1041795851649028188",
+        "allow": "66061825",
+        "deny": "2098566923811152"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "34604032",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "1",
+        "deny": "2098566989872976"
+      }
+    ]
+  },
+  {
+    "id": "1451964487140638894",
+    "name": "→📸•𝙈𝙀𝘿𝙄𝘼𝙎-𝙃𝙍𝙋",
+    "type": "GUILD_TEXT",
+    "parentId": "1427534423355822081",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "101441",
+        "deny": "1760303889412112"
+      },
+      {
+        "id": "1145354429470617621",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      }
+    ]
+  },
+  {
+    "id": "1333308527422341221",
+    "name": "📊•Sᴇʀᴠᴇᴜʀ sᴛᴀᴛs",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "66624",
+        "deny": "2098828982811409"
+      },
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1409308869707956224",
+    "name": "→📬•𝘿𝙀𝙈𝘼𝙉𝘿𝙀-𝘿𝙀-𝘽𝙇𝘼𝘾𝙆𝙇𝙄𝙎𝙏𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1427534423355822081",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "68673",
+        "deny": "1760303889444880"
+      }
+    ]
+  },
+  {
+    "id": "1427532291340505119",
+    "name": "🗓️•ʜᴏʀᴀɪʀᴇS ʜᴇʙᴅᴏᴍᴀᴅᴀɪʀᴇ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 15,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1415601222710202410",
+    "name": "⚒️•ᴀɪᴅᴇ ᴅɪSᴄᴏʀᴅ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 18,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "4350766235516753"
+      }
+    ]
+  },
+  {
+    "id": "1395793799497912340",
+    "name": "→🗒️•𝙍𝙀𝙐𝙉𝙄𝙊𝙉",
+    "type": "GUILD_VOICE",
+    "parentId": "1322061343552966779",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "1",
+        "deny": "2098566989872976"
+      },
+      {
+        "id": "1322074864676372502",
+        "allow": "36736577",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1433570030687096923",
+    "name": "→🧾•𝙈𝙊𝙏𝙄𝙁-𝘾𝘼𝙂𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1427534423355822081",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "68673",
+        "deny": "1760303889444880"
+      },
+      {
+        "id": "1145354429470617621",
+        "allow": "66625",
+        "deny": "4012103703132176"
+      }
+    ]
+  },
+  {
+    "id": "1451964139584098518",
+    "name": "→💭•𝘿𝙄𝙎𝘾𝙐𝙎𝙎𝙄𝙊𝙉-𝙎𝙏𝘼𝙁𝙁",
+    "type": "GUILD_TEXT",
+    "parentId": "1382239273251770368",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "101441",
+        "deny": "1760303889412112"
+      }
+    ]
+  },
+  {
+    "id": "1330580000834846750",
+    "name": "🏡•ᴀᴄᴄᴇᴜɪʟ",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "66624",
+        "deny": "2098966421764881"
+      },
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1404168220851830987",
+    "name": "→🚫•𝙇𝙄𝙎𝙏𝙀-𝘽𝙇𝘼𝘾𝙆𝙇𝙄𝙎𝙏𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1322058603020161096",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      },
+      {
+        "id": "1145354429470617621",
+        "allow": "68609",
+        "deny": "4012103703130192"
+      }
+    ]
+  },
+  {
+    "id": "1427898566046646433",
+    "name": "→🚨•𝘼𝙑𝙀𝙍𝙏𝙄𝙎𝙎𝙀𝙈𝙀𝙉𝙏-𝘼𝘾",
+    "type": "GUILD_TEXT",
+    "parentId": "1427898035723046973",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1406354861989167114",
+        "allow": "66625",
+        "deny": "103079217152"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1427022690493006026",
+    "name": "→⛓️•𝙄𝙉𝙁𝙊𝙎-𝘼𝙑𝙀𝙍𝙏𝙄𝙎𝙎𝙀𝙈𝙀𝙉𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1322058603020161096",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1438097959995703296",
+    "name": "→🎫•𝘾𝙊𝙉𝙏𝘼𝘾𝙏𝙀𝙍-𝙇𝘼-𝘿𝙄𝙍𝙀𝘾𝙏𝙄𝙊𝙉",
+    "type": "GUILD_TEXT",
+    "parentId": "1396605887694766130",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1322054305313853450",
+    "name": "→📚•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "66561",
+        "deny": "1795488261535824"
+      }
+    ]
+  },
+  {
+    "id": "1427902983424970815",
+    "name": "→🚨•𝘼𝙑𝙀𝙍𝙏𝙄𝙎𝙎𝙀𝙈𝙀𝙉𝙏-𝙀𝙌𝙐𝙄𝙋𝙀-𝘿𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1444391236906651658",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "66625",
+        "deny": "8515703330502672"
+      },
+      {
+        "id": "1415581350974591078",
+        "allow": "199745",
+        "deny": "8515703330369552"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1416461682225578144",
+    "name": "→📙•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝙈𝙊𝘿𝙀𝙍𝘼𝙏𝙀𝙐𝙍",
+    "type": "GUILD_TEXT",
+    "parentId": "1444391236906651658",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "1380623279428993054",
+        "allow": "66625",
+        "deny": "8515703330502672"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1322107176059273216",
+    "name": "→🛠️•𝘼𝙄𝘿𝙀-𝙈𝘼𝙋",
+    "type": "GUILD_TEXT",
+    "parentId": "1396605887694766130",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1415601989265522698",
+    "name": "→⚒️•𝘼𝙄𝘿𝙀-𝘿𝙄𝙎𝘾𝙊𝙍𝘿",
+    "type": "GUILD_TEXT",
+    "parentId": "1396605887694766130",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1409274610981146674",
+    "name": "→📗•𝙍𝙀𝙂𝙇𝙀𝙈𝙀𝙉𝙏-𝘼𝘾",
+    "type": "GUILD_TEXT",
+    "parentId": "1427898035723046973",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1406354861989167114",
+        "allow": "66625",
+        "deny": "103079217152"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1386265421799227463",
+    "name": "→📄•𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉𝙎-𝙀𝙏-𝙇𝙄𝙀𝙉𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1322060995341975572",
+    "name": "→👋🏼•𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙐𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1330580000834846750",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1322066928457617510",
+    "name": "→🗂️•𝙃𝙄𝙀𝙍𝘼𝙍𝘾𝙃𝙄𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1408900611885236224",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "835988152320524291",
+        "allow": "133120",
+        "deny": "0"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1444013009705111573",
+    "name": "→📅•𝙅𝙐𝙎𝙏𝙄𝙁𝙄𝘾𝘼𝙏𝙄𝙁-𝘿’𝘼𝘽𝙎𝙀𝙉𝘾𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1444391236906651658",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "68673",
+        "deny": "8515703330500624"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1333303256004300873",
+    "name": "→🔮•𝘽𝙊𝙊𝙎𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1430624944257241118",
+    "name": "→🗂️•𝙃𝙄𝙀𝙍𝘼𝙍𝘾𝙃𝙄𝙀-𝙋𝙍𝙄𝙑𝙀𝙍",
+    "type": "GUILD_TEXT",
+    "parentId": "1408900611885236224",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1322073963739873310",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      },
+      {
+        "id": "1381102687495651358",
+        "allow": "1024",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1322086688880595006",
+    "name": "→📩•𝙄𝙉𝙑𝙄𝙏𝘼𝙏𝙄𝙊𝙉",
+    "type": "GUILD_TEXT",
+    "parentId": "1330580000834846750",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      },
+      {
+        "id": "1322086306767175703",
+        "allow": "515396389952",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1444396585877377024",
+    "name": "→🗂️•𝙃𝙄𝙀𝙍𝘼𝙍𝘾𝙃𝙄𝙀-𝙀𝙌𝙐𝙄𝙋𝙀-𝘿𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1444391236906651658",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "66625",
+        "deny": "8515703330502672"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1406211314103226449",
+    "name": "→💭•𝘿𝙄𝙎𝘾𝙐𝙎𝙎𝙄𝙊𝙉-𝘼𝘾",
+    "type": "GUILD_TEXT",
+    "parentId": "1427898035723046973",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1406354861989167114",
+        "allow": "68673",
+        "deny": "4012103703130128"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1397190525240610846",
+    "name": "→🔢•𝘾𝙊𝙈𝙋𝙏𝙀𝙐𝙍",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "2147622912",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "329793",
+        "deny": "1795488261272592"
+      }
+    ]
+  },
+  {
+    "id": "1430934279650803902",
+    "name": "→📊•𝙑𝙊𝙎-𝙎𝙏𝘼𝙏𝘽𝙊𝘼𝙍𝘿𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 8,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "2147622912",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "100417",
+        "deny": "1795488261501968"
+      }
+    ]
+  },
+  {
+    "id": "1413594313077686362",
+    "name": "→📷•𝙈𝙀𝘿𝙄𝘼",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "2147622912",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "100417",
+        "deny": "1795488261501968"
+      }
+    ]
+  },
+  {
+    "id": "1379173411116290359",
+    "name": "→🛡️•𝘼𝙑𝙄𝙎-𝙈𝙊𝘿𝙀𝙍𝘼𝙏𝙄𝙊𝙉",
+    "type": "GUILD_TEXT",
+    "parentId": "1408900611885236224",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "139264",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "329793",
+        "deny": "1795488261272592"
+      }
+    ]
+  },
+  {
+    "id": "1442631261788049418",
+    "name": "→🤖•𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙀-𝘽𝙊𝙏",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 7,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "2147484672",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "2147622912",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "329793",
+        "deny": "1795488261272592"
+      }
+    ]
+  },
+  {
+    "id": "1395789661355380907",
+    "name": "→✅•𝘿𝙀𝙑𝙀𝙉𝙄𝙍-𝘼𝘾",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1452004960790253748",
+    "name": "→📉•𝙉𝙄𝙑𝙀𝘼𝙐𝙓-𝙈𝙊𝘿𝙀𝙍𝘼𝙏𝙀𝙐𝙍",
+    "type": "GUILD_TEXT",
+    "parentId": "1444391236906651658",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1380623279428993054",
+        "allow": "66561",
+        "deny": "8515703330502736"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1049600"
+      }
+    ]
+  },
+  {
+    "id": "1446962325100826686",
+    "name": "→🎥•𝙑𝙊𝙎-𝙇𝙄𝙑𝙀𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 10,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "8192",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1330956374531641387",
+    "name": "→🔗•𝙇𝙄𝙎𝙏𝙀-𝘾𝘼𝙂𝙀",
+    "type": "GUILD_TEXT",
+    "parentId": "1322058603020161096",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1145354429470617621",
+        "allow": "68609",
+        "deny": "4012103703130192"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1396590310414618705",
+    "name": "→✅•𝙇𝙄𝙎𝙏𝙀-𝘿𝘽𝙇",
+    "type": "GUILD_TEXT",
+    "parentId": "1322058603020161096",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "66561",
+        "deny": "4012103703132240"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "4047288075222096"
+      }
+    ]
+  },
+  {
+    "id": "1333311497107017808",
+    "name": "→📈•𝙉𝙄𝙑𝙀𝘼𝙐𝙓",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1451965612485246997",
+    "name": "→💭•𝘿𝙄𝙎𝘾𝙐𝙎𝙎𝙄𝙊𝙉-𝙀𝙌𝙐𝙄𝙋𝙀-𝘿𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1444391236906651658",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "101441",
+        "deny": "8515703330467856"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1426730191807582238",
+    "name": "→🎉•𝘾𝙊𝙉𝘾𝙊𝙐𝙍𝙎",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1088",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1427898802936873050",
+    "name": "→📣•𝘼𝙉𝙉𝙊𝙉𝘾𝙀-𝘼𝘾",
+    "type": "GUILD_TEXT",
+    "parentId": "1427898035723046973",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1406354861989167114",
+        "allow": "66625",
+        "deny": "103079217152"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1424131229330047199",
+    "name": "→🗾•𝘼𝙑𝙄𝙎-𝙈𝘼𝙋",
+    "type": "GUILD_TEXT",
+    "parentId": "1408900611885236224",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "139264",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "329793",
+        "deny": "1795488261272592"
+      }
+    ]
+  },
+  {
+    "id": "1431505898462908427",
+    "name": "→💭•𝘿𝙄𝙎𝘾𝙐𝙎𝙎𝙄𝙊𝙉",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "2147622912",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "329793",
+        "deny": "1795488261272592"
+      }
+    ]
+  },
+  {
+    "id": "1427761507869134888",
+    "name": "→📌•𝙑𝙊𝙎-𝙏𝙄𝙆𝙏𝙊𝙆",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 9,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "8192",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "65537",
+        "deny": "1795488261536848"
+      }
+    ]
+  },
+  {
+    "id": "1431054625171050638",
+    "name": "→📳•𝙎𝙀𝙎𝙎𝙄𝙊𝙉𝙎-𝘾𝘼𝙇𝙄𝙁𝙊𝙍𝙉𝙄𝘼",
+    "type": "GUILD_TEXT",
+    "parentId": "1322060752802152529",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1433926092724637716",
+        "allow": "199745",
+        "deny": "4012103702999056"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "199745",
+        "deny": "4012103702999056"
+      },
+      {
+        "id": "1322073836274978897",
+        "allow": "2048",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "196673",
+        "deny": "4047288075090960"
+      },
+      {
+        "id": "1322073963739873310",
+        "allow": "2048",
+        "deny": "0"
+      },
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1390867780416573490",
+        "allow": "2048",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1445903802984169654",
+    "name": "→♾️•𝙃𝙄𝙎𝙏𝙊𝙄𝙍𝙀-𝙄𝙉𝙁𝙄𝙉𝙄",
+    "type": "GUILD_TEXT",
+    "parentId": "1322056608271962113",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1322082482769756240",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "1380623279428993054",
+        "allow": "2147622912",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "329793",
+        "deny": "1795488261272592"
+      }
+    ]
+  }
+]

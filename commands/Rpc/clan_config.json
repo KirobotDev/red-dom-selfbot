@@ -1,0 +1,118 @@
+{
+  "738076428825788550": {
+    "clans": [],
+    "isRotating": false,
+    "rotationTime": 60,
+    "currentClanIndex": 2,
+    "currentClan": null
+  },
+  "1208512644622065777": {
+    "clans": [
+      "1406998410736697515",
+      "1274437651759632484",
+      "1369709405305704520",
+      "1369652748533895209"
+    ],
+    "isRotating": true,
+    "rotationTime": 60,
+    "currentClanIndex": 3,
+    "currentClan": "1274437651759632484"
+  },
+  "1323451262175281222": {
+    "clans": [
+      "1230126013455798302"
+    ],
+    "isRotating": false,
+    "rotationTime": 30,
+    "currentClanIndex": 0,
+    "currentClan": "1230126013455798302"
+  },
+  "1367970827177558128": {
+    "clans": [
+      "1101623286045085776",
+      "1369218540191875092",
+      "1120711931670577203"
+    ],
+    "isRotating": true,
+    "rotationTime": 60,
+    "currentClanIndex": 2,
+    "currentClan": "1369218540191875092"
+  },
+  "1222624195024781433": {
+    "clans": [
+      "1429106175206625372"
+    ],
+    "isRotating": false,
+    "rotationTime": 30,
+    "currentClanIndex": 0,
+    "currentClan": null
+  },
+  "1173508336063356948": {
+    "clans": [
+      "1274437651759632484",
+      "1322053747509170206",
+      "1213893111931998298",
+      "1038108273703919746"
+    ],
+    "isRotating": false,
+    "rotationTime": 60,
+    "currentClanIndex": 0,
+    "currentClan": null
+  },
+  "1398028499846955129": {
+    "clans": [
+      "1432792853817593909"
+    ],
+    "isRotating": true,
+    "rotationTime": 30,
+    "currentClanIndex": 0,
+    "currentClan": "1432792853817593909"
+  },
+  "1349510608009039922": {
+    "clans": [
+      "1274437651759632484",
+      "1406998410736697515"
+    ],
+    "isRotating": false,
+    "rotationTime": 60,
+    "currentClanIndex": 0,
+    "currentClan": "1274437651759632484"
+  },
+  "1429034970969804923": {
+    "clans": [
+      "1431328918987739198"
+    ],
+    "isRotating": false,
+    "rotationTime": 30,
+    "currentClanIndex": 0,
+    "currentClan": null
+  },
+  "1383420517515792497": {
+    "clans": [
+      "1224381110855794802",
+      "1402701914273091724"
+    ],
+    "isRotating": false,
+    "rotationTime": 60,
+    "currentClanIndex": 0,
+    "currentClan": null
+  },
+  "1385342457570394187": {
+    "clans": [
+      "1274437651759632484"
+    ],
+    "isRotating": false,
+    "rotationTime": 30,
+    "currentClanIndex": 0,
+    "currentClan": null
+  },
+  "1279729777254596660": {
+    "clans": [
+      "929442138419241040"
+    ],
+    "isRotating": false,
+    "rotationTime": 60,
+    "currentClanIndex": 0,
+    "currentClan": null
+  }
+}

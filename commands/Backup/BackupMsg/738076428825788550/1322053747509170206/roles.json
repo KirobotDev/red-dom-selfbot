@@ -1,0 +1,370 @@
+[
+  {
+    "id": "1330584754323591241",
+    "name": "PLAYSTATION",
+    "color": 30920,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1431117399821914193",
+    "name": "RESPONSABLE STAFF",
+    "color": 26367,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1339338887302217751",
+    "name": "Emoji.gg Bot",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8936753581056"
+  },
+  {
+    "id": "1410884607959760976",
+    "name": "MEE6",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "364870364415"
+  },
+  {
+    "id": "1438098340439916646",
+    "name": "ASSISTANCE DIRECTION",
+    "color": 1118481,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1381102687495651358",
+    "name": "CHAT MODÉRATION",
+    "color": 10354943,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1322073836274978897",
+    "name": "STAFF",
+    "color": 26367,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "132096"
+  },
+  {
+    "id": "1322074864676372502",
+    "name": "VOCAL REUNION",
+    "color": 4865535,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1024"
+  },
+  {
+    "id": "1433926092724637716",
+    "name": "EQUIPE DISCORD",
+    "color": 7700479,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1399441909646360730",
+    "name": "Euphony",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "20204552"
+  },
+  {
+    "id": "1322086306767175703",
+    "name": "InviteLogger",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "268462304"
+  },
+  {
+    "id": "1322082482769756240",
+    "name": "MEMBRES",
+    "color": 11033088,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "33555456"
+  },
+  {
+    "id": "1444399479951196170",
+    "name": "GÉRANT ÉQUIPE-DS",
+    "color": 10328831,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1406354861989167114",
+    "name": "CHAT AC",
+    "color": 10354943,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1333307548220260427",
+    "name": "Member Count",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1396847406024364065",
+    "name": "counting",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "268520512"
+  },
+  {
+    "id": "1430606092907319429",
+    "name": "RESPONSABLE AC",
+    "color": 2686782,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1024"
+  },
+  {
+    "id": "1426718870475112511",
+    "name": "CALIFORNIA RP TICKET",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "76816"
+  },
+  {
+    "id": "1322073963739873310",
+    "name": "ADMIN CONSEILLER",
+    "color": 2686782,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "132096"
+  },
+  {
+    "id": "1380686347584540695",
+    "name": "DraftBot",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "397250391551"
+  },
+  {
+    "id": "1415581350974591078",
+    "name": "GÉRANT MODÉRATEUR",
+    "color": 6448639,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1101856384386"
+  },
+  {
+    "id": "1322498758876860419",
+    "name": "Koya",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1644971945207"
+  },
+  {
+    "id": "1333305176827629682",
+    "name": "DISBOARD.org",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "19473"
+  },
+  {
+    "id": "1410882762902077525",
+    "name": "Dyno",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1513962695871"
+  },
+  {
+    "id": "1395182659969224705",
+    "name": "BOOSTEUR",
+    "color": 16735204,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "140737488355328"
+  },
+  {
+    "id": "1390867780416573490",
+    "name": "SUPERSTAFF",
+    "color": 16729875,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1418917403051556964",
+    "name": "CRÉATEUR DE CONTENU",
+    "color": 11127295,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1322080770428375100",
+    "name": "BOT",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2108863302074367"
+  },
+  {
+    "id": "1330584436030570506",
+    "name": "PC",
+    "color": 52735,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1322096349478391940",
+    "name": "John-Bot",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1716883045215487"
+  },
+  {
+    "id": "1444419863056617514",
+    "name": "LISTE CAGE/BL",
+    "color": 16315135,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1390866034235277312",
+    "name": "CO CRÉATEUR",
+    "color": 16767891,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "40684613740295"
+  },
+  {
+    "id": "1444397634856026335",
+    "name": "GÉRANT DISCORD",
+    "color": 13395455,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "4504699369817223"
+  },
+  {
+    "id": "1330584922947195001",
+    "name": "SWITCH",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1322471151343243406",
+    "name": "ASSISTANCE MAP",
+    "color": 1118481,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1426735230235971675",
+    "name": "STAFF TEST",
+    "color": 26367,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1415582355996807178",
+    "name": "ASSISTANCE DISCORD",
+    "color": 1118481,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "1024"
+  },
+  {
+    "id": "1322071391331156028",
+    "name": "CRÉATEUR",
+    "color": 16767891,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1449139985562472686",
+    "name": "MASCOTTE",
+    "color": 11127295,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1330585067373723797",
+    "name": "FILLE",
+    "color": 12910821,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1402770997354037338",
+    "name": "MEMBRE VIP",
+    "color": 7692288,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1431112204077502587",
+    "name": "SUPERVISEUR",
+    "color": 16755516,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "132096"
+  },
+  {
+    "id": "1330584652829687899",
+    "name": "XBOX",
+    "color": 27662,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1380623279428993054",
+    "name": "MODÉRATEUR",
+    "color": 16047615,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "1099675214848"
+  },
+  {
+    "id": "1330585002659807324",
+    "name": "GARÇON",
+    "color": 48034,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1410885209829933079",
+    "name": "carl-bot",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "10191898143990"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1410643368383483904",
+    "content": "",
+    "username": "Solve・Admin",
+    "avatar": "https://cdn.discordapp.com/avatars/1378096450613018716/7ee2f789ddafecea0b5ebbfe87c1aa5a.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "## <:solve_naruto:1249368325692067910> Ouvrir un ticket via le bot admin",
+        "url": null,
+        "timestamp": "2025-08-30T18:27:35.037Z",
+        "color": 3842044,
+        "fields": [
+          {
+            "name": "Comment ça marche ?",
+            "value": "> <:solve_num1:1251525865817378847> Sélectionnez la **raison** de votre ticket dans le menu.\n> <:solve_num2:1251525867285516379> Le bot vous envoie un **message privé (MP)**.\n> <:solve_num3:1251525868858380358> Répondez en MP avec votre **message**.\n> <:solve_num4:1251525870506479728> Votre ticket **sera ouvert** chez le staff et vous pourrez intéragir via les MP du bot.",
+            "inline": false
+          },
+          {
+            "name": "Prévention",
+            "value": "> - Si vos MP sont fermés, ouvrez-les : **Paramètres utilisateur** → **Contenu et social** → **Permissions sociales** → **Messages privés et demandes d'ami**.",
+            "inline": false
+          }
+        ],
+        "thumbnail": null,
+        "image": {
+          "url": "https://i.imgur.com/jqiCD4T.png",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/3SG2RCbSg-hq9onT3roIaThW720-RU9chuLsq6jBOLM/https/i.imgur.com/jqiCD4T.png",
+          "height": 400,
+          "width": 1440
+        },
+        "author": null,
+        "footer": {
+          "text": "🍥 Solve • Admin"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1756393987509
+  }
+]

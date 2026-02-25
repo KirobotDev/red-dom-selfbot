@@ -1,0 +1,12 @@
+discord:
+  client_id: "1444663387249315975"
+  bot_token: "MTQ0NDY2MzM4NzI0OTMxNTk3NQ.GXDI_6.TNYW_NQbGjlbFyXTGrqmw8ZaYdArfIh6K8f-Xg"
+  
+db:
+  host: 'localhost'
+  port: 3306
+  user: 'bot_user'
+  password: 'myjMJS62+.'
+  database: 's1_sb_test'
+  charset: 'utf8mb4'
+  connectTimeout: 60000

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "1185879003744186479",
+    "name": "・Bot",
+    "color": 11127295,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1360221463428464973",
+    "name": "Medal",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "274877959168"
+  },
+  {
+    "id": "1203700936342638674",
+    "name": "Ticket Tool",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2416045072"
+  },
+  {
+    "id": "1359357289609433298",
+    "name": "Meilleur Joueur du DS",
+    "color": 15844367,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1185961042417832017",
+    "name": "~~~~~~~~~~~~~~~~~",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1185880447952113664",
+    "name": "Visiteur",
+    "color": 8886702,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1197293182296268871",
+    "name": "Boosteur WLH",
+    "color": 14814089,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "555225491820097"
+  },
+  {
+    "id": "1196855834454544454",
+    "name": "PvP",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1185959650185723914",
+    "name": "・Admin",
+    "color": 11156283,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "264"
+  },
+  {
+    "id": "1185960994296565820",
+    "name": "~~~~~~~~~~~~~~~~~",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8797166764032"
+  },
+  {
+    "id": "1356362570461745364",
+    "name": "farm",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1356362441205743690",
+    "name": "pvp",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1185961070838419587",
+    "name": "~~~~~~~~~~~~~~~~~",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1357807158615609354",
+    "name": ".",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1359472672773505165",
+    "name": "Notification Giveaway",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1196855777940488202",
+    "name": "farmeur",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1185960114243510394",
+    "name": "・Recrut",
+    "color": 9854847,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1359475286026223764",
+    "name": "Pingcord",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "67632192"
+  },
+  {
+    "id": "1359472620973588511",
+    "name": "Notification Stream",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1358521679474725017",
+    "name": "Best PvP player",
+    "color": 3608662,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1099599708160"
+  },
+  {
+    "id": "1185960918165762129",
+    "name": "~~~~~~~~~~~~~~~~~",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1185866970038538242",
+    "name": "DraftBot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2113400319"
+  },
+  {
+    "id": "1389621864493617174",
+    "name": "Emoji.gg Bot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8936753581056"
+  },
+  {
+    "id": "1185960058270527498",
+    "name": "・Membre",
+    "color": 3577974,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1185866857039798274",
+    "name": "Invite Tracker",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "268822624"
+  },
+  {
+    "id": "1185867062791393284",
+    "name": "Musico",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "139590495505"
+  },
+  {
+    "id": "1185959979736375369",
+    "name": "・Officier",
+    "color": 5025232,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1358820554299277487",
+    "name": "carl-bot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "573242775563510"
+  },
+  {
+    "id": "1185872909856686141",
+    "name": "・Leader",
+    "color": 13927485,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1356365974659403856",
+    "name": "・Leader V2",
+    "color": 14336812,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1356851385575932088",
+    "name": "help trap",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235403512679108650",
+    "name": "Ally ❤️",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  }
+]

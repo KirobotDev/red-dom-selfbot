@@ -1,0 +1,930 @@
+[
+  {
+    "id": "1378071874554040350",
+    "name": "▰▰▰▰▰ ANIMATION & MJ ▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1390001891081195600",
+    "name": "• Gagnant FFA",
+    "color": 6580641,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235223031991767041",
+    "name": "• Responsable",
+    "color": 10036774,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "2292499456598150"
+  },
+  {
+    "id": "1350140157713711215",
+    "name": "• Équilibrage Economie",
+    "color": 8839897,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1196875661445435553",
+    "name": "• Gérant Serveur",
+    "color": 16712194,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1295716346155241513",
+    "name": "• Gérant Discord",
+    "color": 5025232,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1390803619191984179",
+    "name": "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1370011923583602730",
+    "name": "▰▰▰▰▰▰▰▰ CLE ▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1338662426811564053",
+    "name": "• Solve Awards 2025",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1382372649413513226",
+    "name": "▰▰ DANGER ZONE ▰▰",
+    "color": 16056320,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1331489882027200512",
+    "name": "• Resp. Builder",
+    "color": 4805434,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1352784563306496173",
+    "name": "• FreshTok",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1328351043863449630",
+    "name": "• Gestion Lore",
+    "color": 7856378,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1417236598356967474",
+    "name": "Moove tempo",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "281475009216512"
+  },
+  {
+    "id": "1252646455617785978",
+    "name": "• Whitelist",
+    "color": 4173423,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1197304570024558696",
+    "name": "• Super Membre",
+    "color": 10495115,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "533235326373441"
+  },
+  {
+    "id": "1381376523260526673",
+    "name": "• Bypass Discord Haut-Staff",
+    "color": 13594573,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1277428875684483145",
+    "name": "• Resp. Douane",
+    "color": 10903829,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1343281546693447730",
+    "name": "• Gérance",
+    "color": 10382335,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2310100232577414"
+  },
+  {
+    "id": "1200726607086751795",
+    "name": "• Administrateur",
+    "color": 4436209,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1250549245124018240",
+    "name": "• Tiers 1",
+    "color": 1436666,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1378072632897044532",
+    "name": "▰▰▰▰▰▰▰ SOLVE ▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1399922871844733040",
+    "name": "• Streamer +",
+    "color": 6962618,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1275525615310864588",
+    "name": "• Maître du Jeu",
+    "color": 1742716,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1378071835505332325",
+    "name": "▰▰▰▰▰ AUTRES POLES ▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1313408120969760819",
+    "name": "• Formateur Staff",
+    "color": 5083094,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1328341713030484008",
+    "name": "• Resp. Lore",
+    "color": 2594472,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1378071624548356132",
+    "name": "▰▰▰▰▰▰▰ STAFF ▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1359883995147669624",
+    "name": "• Resp. Modélisateur",
+    "color": 12147741,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1370791123878154251",
+    "name": "• Modérateur Sénior",
+    "color": 4078734,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1386322879049764885",
+    "name": "• Resp. Adj. Douane",
+    "color": 10178322,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1251664811666706445",
+    "name": "Tebex",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2617379855"
+  },
+  {
+    "id": "1368681538505408593",
+    "name": "• Clé de Grizzly",
+    "color": 762653,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1269447411189682348",
+    "name": "• Gestion Wiki",
+    "color": 3447003,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1370011984678092861",
+    "name": "▰▰▰▰▰▰▰▰ BOT ▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1362823647596773406",
+    "name": "• Rubik's Network",
+    "color": 11156283,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1250481607933169715",
+    "name": "• Support",
+    "color": 6249821,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1310029561593069618",
+    "name": "• Accès",
+    "color": 7737116,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1390759854007914536",
+    "name": "• Perdant FFA",
+    "color": 9854847,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1386322804982681691",
+    "name": "• Douanier Senior",
+    "color": 11362836,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1387766907008057374",
+    "name": "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1302980603783811115",
+    "name": "• Référent Streamer",
+    "color": 5581971,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "268435456"
+  },
+  {
+    "id": "1378100285943054571",
+    "name": "Solve・Admin",
+    "color": 3066993,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2048"
+  },
+  {
+    "id": "1344838601598566441",
+    "name": "• Resp. Modérateur",
+    "color": 3026030,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1196880018635243530",
+    "name": "• Direction",
+    "color": 1326760,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1390347152315908166",
+    "name": "▰▰▰▰ AUTRES+ ▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1381662724508881047",
+    "name": "• Présélectionné Tournoi",
+    "color": 9156956,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1311296463753445428",
+    "name": "• Resp. CM",
+    "color": 7996270,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1284864059480604742",
+    "name": "• Équilibrage",
+    "color": 8839897,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "29360128"
+  },
+  {
+    "id": "1235280054347370507",
+    "name": "• Ami",
+    "color": 16601478,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1304856352887275671",
+    "name": "• Gérant Support & Boutique",
+    "color": 8289918,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1369066163371380826",
+    "name": "• Clé d'Ataraxe",
+    "color": 1996536,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1329190422093889627",
+    "name": "• Animateur Senior",
+    "color": 4671607,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1235279214232604814",
+    "name": "▰▰▰▰▰▰▰ COM' ▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1288983338199023636",
+    "name": "• Modélisateur",
+    "color": 13396514,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1373085733862244432",
+    "name": "• Solve BOT",
+    "color": 8607005,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1250462348490182706",
+    "name": "• Streamer",
+    "color": 5581971,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235235354311921674",
+    "name": "• Animation",
+    "color": 16734815,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "29360128"
+  },
+  {
+    "id": "1276708697581551626",
+    "name": "• Resp. MJ",
+    "color": 1603665,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1390007390572642395",
+    "name": "• Accès Tournoi",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1310311635789025330",
+    "name": "▰▰▰▰▰▰ HAUT-STAFF ▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1386323006917185626",
+    "name": "▰▰▰▰▰ DOUANE ▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1377317759008116778",
+    "name": "Solve・Douane",
+    "color": 3066993,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "268435584"
+  },
+  {
+    "id": "1390391976624521352",
+    "name": "▰▰▰▰ SPECIAUX ++ ▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1310311278572736562",
+    "name": "• Gérant Staff",
+    "color": 16724273,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1386794281653502052",
+    "name": "• Gold",
+    "color": 10181046,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1417499020812882030",
+    "name": "• Rubik's Group",
+    "color": 16777215,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1250442292767232030",
+    "name": "▰▰ DIRECTION ▰▰",
+    "color": 16777215,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1400263845947379864",
+    "name": "• Bypass Web",
+    "color": 9854847,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1382373814696153090",
+    "name": "Xenon",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1381766941840244766",
+    "name": "MEE6",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235234849456132106",
+    "name": "• Haut-Staff",
+    "color": 6249821,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2252916736008326"
+  },
+  {
+    "id": "1381815143175950469",
+    "name": "Solve・Central",
+    "color": 3066993,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "402653316"
+  },
+  {
+    "id": "1235235299899216044",
+    "name": "• Modération",
+    "color": 16734815,
+    "hoist": false,
+    "mentionable": true,
+    "permissions": "2252899354681344"
+  },
+  {
+    "id": "1344800821958938748",
+    "name": "• Maître du jeu Sénior",
+    "color": 25680,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1378071886730100757",
+    "name": "▰▰▰▰▰▰ MODERATION ▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1386794279447564299",
+    "name": "• Premium",
+    "color": 11027200,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1370809059174777023",
+    "name": "• Équilibrage Sounds / Design",
+    "color": 8839897,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1250549227566796860",
+    "name": "• Tiers 2",
+    "color": 16746256,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1369753937451815012",
+    "name": "• Laboratoire de Nagisa | Privé",
+    "color": 15105570,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1383589626081443850",
+    "name": "DraftBot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1251200970436903013",
+    "name": "• Douanier",
+    "color": 12744726,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1249765750126936104",
+    "name": "• Coordinateur",
+    "color": 13933629,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1377326380660035746",
+    "name": "• BOT",
+    "color": 11127295,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1235231270951190568",
+    "name": "• Animateur",
+    "color": 7171507,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1370864341758509088",
+    "name": "• Laboratoire de Nagisa | Public",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1251593463364059237",
+    "name": "• Community Manager",
+    "color": 10027115,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2836765786251264"
+  },
+  {
+    "id": "1274775775874256957",
+    "name": "• Gérant Développement",
+    "color": 4600488,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "268436496"
+  },
+  {
+    "id": "1370012212223148132",
+    "name": "▰▰▰▰▰ SPECIAUX + ▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1197304225277952151",
+    "name": "• Staff Naruto",
+    "color": 6249821,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "4537633341440"
+  },
+  {
+    "id": "1252240595985104958",
+    "name": "• DISBOARD.org",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235279280926097429",
+    "name": "▰▰▰▰▰▰▰ GESTION ▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1378071893529333880",
+    "name": "▰▰▰▰▰▰ DEV & MODEL ▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1381376327445119126",
+    "name": "▰▰▰▰▰▰ BYPASS ▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235284114387763201",
+    "name": "• Resp. Animation",
+    "color": 3487331,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1382380781762117652",
+    "name": "• Solve BOT",
+    "color": 8607005,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235282610192650364",
+    "name": "• Membre",
+    "color": 12961221,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1385822251403968512",
+    "name": "• Clé de Ray",
+    "color": 7012866,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1381662643156287549",
+    "name": "▰▰▰▰▰▰▰ AUTRES ▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1251581493902577767",
+    "name": "• GiveawayBot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1370012132187443291",
+    "name": "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1237188390873731123",
+    "name": "• Developpeur",
+    "color": 4074383,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "4398046511104"
+  },
+  {
+    "id": "1297534488422780999",
+    "name": "• Premium",
+    "color": 10192486,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235230679323643975",
+    "name": "• Modérateur",
+    "color": 5131442,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1369437593858605056",
+    "name": "🔑",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1426708723404902405",
+    "name": "Solve・Panel",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1277429076940034170",
+    "name": "• Gérant Équilibrage",
+    "color": 60159,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1378704704023953540",
+    "name": "• Clé de Paradou",
+    "color": 6323595,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235231321626906715",
+    "name": "• Probatoire",
+    "color": 16426757,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1311397836486737953",
+    "name": "• Builder",
+    "color": 6979166,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1382372711828820028",
+    "name": "▰▰ DANGER ZONE ▰▰",
+    "color": 16056320,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1367853259750117396",
+    "name": "• Clé de Makarov",
+    "color": 13041664,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1310311415894245396",
+    "name": "• Gérant RP",
+    "color": 9126723,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1316995208940093490",
+    "name": "• Partenaire",
+    "color": 13724671,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1235279718610243604",
+    "name": "▰▰▰▰▰▰▰ SPECIAUX ▰▰▰▰▰▰",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1250457246882725940",
+    "name": "• Early Access",
+    "color": 16743680,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  }
+]

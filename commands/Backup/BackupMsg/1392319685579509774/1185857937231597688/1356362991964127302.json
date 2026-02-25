@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1359472928017874964",
+    "content": "@everyone Merci de tous prendre vos rôle ! On ne fera plus de everyone desormais.",
+    "username": "luquioz_",
+    "avatar": "https://cdn.discordapp.com/avatars/754753455226093578/2c21359979a380da210f8a7396d8dc43.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744194003825
+  },
+  {
+    "id": "1356363446635204728",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Choisie ton pôle",
+        "type": "rich",
+        "description": "⚔️ | pvp\n🧑‍🌾 | farm\n🪂 | help trap",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Choisissez vos rôles en interagissant avec ce message !"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743452645692
+  }
+]

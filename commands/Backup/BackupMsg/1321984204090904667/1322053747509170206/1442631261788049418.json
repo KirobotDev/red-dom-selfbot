@@ -1,0 +1,2823 @@
+[
+  {
+    "id": "1452961443505897482",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452961446815338649/levelImage.png?ex=694d08cb&is=694bb74b&hm=e937bb5fcbd4a4df8183d1df5936df88c7b48a8d44a73eb0a37e8284c1732840&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452961446815338649/levelImage.png?ex=694d08cb&is=694bb74b&hm=e937bb5fcbd4a4df8183d1df5936df88c7b48a8d44a73eb0a37e8284c1732840&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766483402850
+  },
+  {
+    "id": "1452930449134588028",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452930452259340339/levelImage.png?ex=694cebed&is=694b9a6d&hm=2921db4ec8be22bcc452d4f661be7bc7b9f634ef47aaccd15e44794e5c1d03cf&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452930452259340339/levelImage.png?ex=694cebed&is=694b9a6d&hm=2921db4ec8be22bcc452d4f661be7bc7b9f634ef47aaccd15e44794e5c1d03cf&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766476013216
+  },
+  {
+    "id": "1452808357907009729",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **𝐌𝐎𝐃𝐄𝐑𝐀𝐓𝐄𝐔𝐑 𝐙𝐄𝐍𝐎𝐗** `(@boxed_zenox22)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1352422072244240418>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1352422072244240418",
+            "inline": true
+          },
+          {
+            "name": "Rôles [6]",
+            "value": "<@&1380623279428993054>, <@&1433926092724637716>, <@&1322082482769756240>, <@&1322074864676372502>, <@&1330584436030570506>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1742512948:F>\n➜<t:1742512948:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1762561186:F>\n➜<t:1762561186:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/guilds/1322053747509170206/users/1352422072244240418/avatars/659ba5072bdff64ea64764910b3850a6.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/vXBEODmmpoWxVJg29FK89S8PPVtrIPiwke9MU-Gm5gQ/%3Fsize%3D128/https/cdn.discordapp.com/guilds/1322053747509170206/users/1352422072244240418/avatars/659ba5072bdff64ea64764910b3850a6.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur 𝐌𝐎𝐃𝐄𝐑𝐀𝐓𝐄𝐔𝐑 𝐙𝐄𝐍𝐎𝐗",
+          "icon_url": "https://cdn.discordapp.com/guilds/1322053747509170206/users/1352422072244240418/avatars/659ba5072bdff64ea64764910b3850a6.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766446904399
+  },
+  {
+    "id": "1452773281399832637",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **Mehdi** `(@m.k048_21833)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1286715615746199734>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1286715615746199734",
+            "inline": true
+          },
+          {
+            "name": "Rôles [6]",
+            "value": "<@&1380623279428993054>, <@&1433926092724637716>, <@&1322082482769756240>, <@&1322074864676372502>, <@&1330584754323591241>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1726847308:F>\n➜<t:1726847308:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1765035270:F>\n➜<t:1765035270:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/1286715615746199734/15efe06e01dedc2382cdcc88607a48c2.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/oxlxqRVTZZW5RGiCMw-Kc43MG30nkO5DyeIAfpc6qwY/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1286715615746199734/15efe06e01dedc2382cdcc88607a48c2.png",
+          "height": 114,
+          "width": 114
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur Mehdi",
+          "icon_url": "https://cdn.discordapp.com/avatars/1286715615746199734/15efe06e01dedc2382cdcc88607a48c2.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766438541508
+  },
+  {
+    "id": "1452772880994533489",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452772886812037222/levelImage.png?ex=694d01ef&is=694bb06f&hm=853854782880398d10e29c434ac651f7665d076597b957c434e64fc7d92b4f24&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452772886812037222/levelImage.png?ex=694d01ef&is=694bb06f&hm=853854782880398d10e29c434ac651f7665d076597b957c434e64fc7d92b4f24&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766438446044
+  },
+  {
+    "id": "1452437148396687592",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452437151353671680/levelImage.png?ex=694d1ac1&is=694bc941&hm=eb00e0a2c86f52e3e83eb0155793b77c3cbdb57e3f5e290d202548fa7af20b48&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452437151353671680/levelImage.png?ex=694d1ac1&is=694bc941&hm=eb00e0a2c86f52e3e83eb0155793b77c3cbdb57e3f5e290d202548fa7af20b48&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766358401155
+  },
+  {
+    "id": "1452419572039684147",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452419575319756810/levelImage.png?ex=694d0a63&is=694bb8e3&hm=c626b1fd672adcdaa2e65f695e6595efaa2b5388446026f26164d8ab0e733f71&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452419575319756810/levelImage.png?ex=694d0a63&is=694bb8e3&hm=c626b1fd672adcdaa2e65f695e6595efaa2b5388446026f26164d8ab0e733f71&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766354210625
+  },
+  {
+    "id": "1452408736315605013",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **Nico_782** `(@espace_111)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1395362625445167216>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1395362625445167216",
+            "inline": true
+          },
+          {
+            "name": "Rôles [8]",
+            "value": "<@&1380623279428993054>, <@&1322073963739873310>, <@&1433926092724637716>, <@&1322082482769756240>, <@&1406354861989167114>, <@&1322074864676372502>, <@&1330584436030570506>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1752750774:F>\n➜<t:1752750774:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1761146077:F>\n➜<t:1761146077:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/1395362625445167216/18a8e55bcffb3182a0f20c5faf9d2779.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/hKMV7VbDkzp8SHAw2CyPdmfT9Va3umpkwN7uwmQXDxQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1395362625445167216/18a8e55bcffb3182a0f20c5faf9d2779.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur Nico_782",
+          "icon_url": "https://cdn.discordapp.com/avatars/1395362625445167216/18a8e55bcffb3182a0f20c5faf9d2779.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766351627187
+  },
+  {
+    "id": "1452397612576673812",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452397614959038659/levelImage.png?ex=694cf5ef&is=694ba46f&hm=9f36359267a0517bcd8e75eb6dac88a6e934c8f8b854c2af2a1488cbe18d8470&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452397614959038659/levelImage.png?ex=694cf5ef&is=694ba46f&hm=9f36359267a0517bcd8e75eb6dac88a6e934c8f8b854c2af2a1488cbe18d8470&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766348975081
+  },
+  {
+    "id": "1452397438978752765",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452397441793130526/levelImage.png?ex=694cf5c6&is=694ba446&hm=b72d627f07ed46e259240500783abeea8ff81999ab15e29a5bcf19ac39f66684&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452397441793130526/levelImage.png?ex=694cf5c6&is=694ba446&hm=b72d627f07ed46e259240500783abeea8ff81999ab15e29a5bcf19ac39f66684&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766348933692
+  },
+  {
+    "id": "1452381745272983645",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452381747764396143/levelImage.png?ex=694ce728&is=694b95a8&hm=132a26a350d0a038fc51374361cf1c28c5183fc61aa915406d6ca9dded8b28b6&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452381747764396143/levelImage.png?ex=694ce728&is=694b95a8&hm=132a26a350d0a038fc51374361cf1c28c5183fc61aa915406d6ca9dded8b28b6&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766345192021
+  },
+  {
+    "id": "1452366502803275950",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452366506330427504/levelImage.png?ex=694cd8f6&is=694b8776&hm=941dec5d30bb7eaeabb88ce77b820da3fe2794e832b542149ffe397ddb28d4d4&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452366506330427504/levelImage.png?ex=694cd8f6&is=694b8776&hm=941dec5d30bb7eaeabb88ce77b820da3fe2794e832b542149ffe397ddb28d4d4&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766341557933
+  },
+  {
+    "id": "1452359882912305182",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452359885953171732/levelImage.png?ex=694cd2cc&is=694b814c&hm=619b194cc2e00a6d6ad107155663ded4ce1470ce71a07f8cb7c041e8f53e3873&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452359885953171732/levelImage.png?ex=694cd2cc&is=694b814c&hm=619b194cc2e00a6d6ad107155663ded4ce1470ce71a07f8cb7c041e8f53e3873&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766339979628
+  },
+  {
+    "id": "1452350690356760628",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452350693255155794/levelImage.png?ex=694cca3c&is=694b78bc&hm=ce47c2b2792b6221ed7af5aa1972b965509e71b0d82f670109a6ec97ef086788&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452350693255155794/levelImage.png?ex=694cca3c&is=694b78bc&hm=ce47c2b2792b6221ed7af5aa1972b965509e71b0d82f670109a6ec97ef086788&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766337787952
+  },
+  {
+    "id": "1452350589785866402",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452350592889524434/levelImage.png?ex=694cca24&is=694b78a4&hm=054d6f4720688bf660c22fbbcda4c194abea16e0223e583d0f64c1480a88a23b&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452350592889524434/levelImage.png?ex=694cca24&is=694b78a4&hm=054d6f4720688bf660c22fbbcda4c194abea16e0223e583d0f64c1480a88a23b&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766337763974
+  },
+  {
+    "id": "1452350557921739064",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 448 912 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 709 xp)\n<:3_:1368681221307236363> **ՏʅՄՐƙ_ԾԲԲ 🚩** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 34 (99 319 xp)\n<:4_:1368681222506545162> **ℤ𝔼𝕃𝕂𝕆 🌴🚩** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 29 (64 041 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (44 009 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766337756377
+  },
+  {
+    "id": "1452350484433076308",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452350487516151958/levelImage.png?ex=694cca0b&is=694b788b&hm=fedd7ba91d713762a38c107daa574bed4e08849f53337e0e052554b219c04fc7&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452350487516151958/levelImage.png?ex=694cca0b&is=694b788b&hm=fedd7ba91d713762a38c107daa574bed4e08849f53337e0e052554b219c04fc7&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766337738856
+  },
+  {
+    "id": "1452304378160746496",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 448 892 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 709 xp)\n<:3_:1368681221307236363> **ՏʅՄՐƙ_ԾԲԲ 🚩** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 34 (98 535 xp)\n<:4_:1368681222506545162> **ℤ𝔼𝕃𝕂𝕆 🚩** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 29 (63 936 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (44 009 xp)\n\n`#7` **Vine** `(@vine62.)`\n<:transparent:1368681116973662280> ➥ Niveau 24 (38 129 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766326746264
+  },
+  {
+    "id": "1452300463272624128",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452300465449472122/levelImage.png?ex=694d4435&is=694bf2b5&hm=c5b666d471a16c0ce9ae3398d60d16888c554b42212a343d01183a6e208f9dc8&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452300465449472122/levelImage.png?ex=694d4435&is=694bf2b5&hm=c5b666d471a16c0ce9ae3398d60d16888c554b42212a343d01183a6e208f9dc8&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766325812882
+  },
+  {
+    "id": "1452276480028709037",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452276483551657995/levelImage.png?ex=694d2ddf&is=694bdc5f&hm=dccbce4e1ccb1d6376311caf432ca445c93a552a23d93408f1b166271b6a6cdc&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452276483551657995/levelImage.png?ex=694d2ddf&is=694bdc5f&hm=dccbce4e1ccb1d6376311caf432ca445c93a552a23d93408f1b166271b6a6cdc&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766320094831
+  },
+  {
+    "id": "1452264999350304798",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452265001913028813/levelImage.png?ex=694d232e&is=694bd1ae&hm=8b05540847ab137fa6ce25ff6b95b2f59edbaf60d152b47e4a2dea7230b41bcf&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452265001913028813/levelImage.png?ex=694d232e&is=694bd1ae&hm=8b05540847ab137fa6ce25ff6b95b2f59edbaf60d152b47e4a2dea7230b41bcf&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766317357624
+  },
+  {
+    "id": "1452256930927214664",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452256933124902922/levelImage.png?ex=694d1baa&is=694bca2a&hm=27f3a3ced1ccd4ea8fd4cad8202b3278b0635c939d53b8311d452a65dd205449&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452256933124902922/levelImage.png?ex=694d1baa&is=694bca2a&hm=27f3a3ced1ccd4ea8fd4cad8202b3278b0635c939d53b8311d452a65dd205449&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766315433962
+  },
+  {
+    "id": "1452204625980817525",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452204629512421386/levelImage.png?ex=694ceaf4&is=694b9974&hm=4d4d3834d983646ce35d343fb06a3bddbcfd39a53c7170cba77130b308f8bc48&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452204629512421386/levelImage.png?ex=694ceaf4&is=694b9974&hm=4d4d3834d983646ce35d343fb06a3bddbcfd39a53c7170cba77130b308f8bc48&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766302963491
+  },
+  {
+    "id": "1452084979671765112",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452084983354363914/levelImage.png?ex=694d2446&is=694bd2c6&hm=05d7929e1511dd3b5487d2a77d729b433bd118c6904ebe8e61805cb5e79984a6&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452084983354363914/levelImage.png?ex=694d2446&is=694bd2c6&hm=05d7929e1511dd3b5487d2a77d729b433bd118c6904ebe8e61805cb5e79984a6&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766274437588
+  },
+  {
+    "id": "1452063524397514753",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452063529384415455/levelImage.png?ex=694d104b&is=694bbecb&hm=4075b97392ef1a8d829de2174573e032cf3c30e5be9106cb83117e15346f6c03&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452063529384415455/levelImage.png?ex=694d104b&is=694bbecb&hm=4075b97392ef1a8d829de2174573e032cf3c30e5be9106cb83117e15346f6c03&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766269322252
+  },
+  {
+    "id": "1452062834555879445",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452062837714456757/levelImage.png?ex=694d0fa6&is=694bbe26&hm=10b98307741fb4a216ab5055f312cbd45514a67a7d1e8082a1c08c2e554a5f70&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452062837714456757/levelImage.png?ex=694d0fa6&is=694bbe26&hm=10b98307741fb4a216ab5055f312cbd45514a67a7d1e8082a1c08c2e554a5f70&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766269157781
+  },
+  {
+    "id": "1452060664074866819",
+    "content": "",
+    "username": "🌴 𝘾𝘼𝙇𝙄𝙁𝙊𝙍𝙉𝙄𝘼 𝙍𝙋 🟠",
+    "avatar": "https://cdn.discordapp.com/avatars/958547309728256081/bb2867583b209fab21d343a4c747c650.webp",
+    "embeds": [
+      {
+        "title": "Dashboard of 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "Click on the button below to access the dashboard of 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘.\n\nIf you have a problem using the dashboard, please contact the John-Bot team on the [Support server of John-Bot](https://discord.gg/abePbS7QKY).",
+        "url": null,
+        "timestamp": null,
+        "color": 11033088,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766268640298
+  },
+  {
+    "id": "1452058972155809812",
+    "content": "",
+    "username": "🌴 𝘾𝘼𝙇𝙄𝙁𝙊𝙍𝙉𝙄𝘼 𝙍𝙋 🟠",
+    "avatar": "https://cdn.discordapp.com/avatars/958547309728256081/bb2867583b209fab21d343a4c747c650.webp",
+    "embeds": [
+      {
+        "title": "Dashboard of 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "Click on the button below to access the dashboard of 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘.\n\nIf you have a problem using the dashboard, please contact the John-Bot team on the [Support server of John-Bot](https://discord.gg/abePbS7QKY).",
+        "url": null,
+        "timestamp": null,
+        "color": 11033088,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766268236913
+  },
+  {
+    "id": "1452002099356504084",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1452002107493322762/levelImage.png?ex=694cd717&is=694b8597&hm=b15683fd0950ebdca505c9fc72cd17700433f56c55f452da39dbe6084c4a2916&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1452002107493322762/levelImage.png?ex=694cd717&is=694b8597&hm=b15683fd0950ebdca505c9fc72cd17700433f56c55f452da39dbe6084c4a2916&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766254677381
+  },
+  {
+    "id": "1451998742973517976",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451998745553010841/levelImage.png?ex=694cd3f5&is=694b8275&hm=1b635f13e3b6ede07f526c0a75ea8289e07e9a2fd39d1b571ac03cc7021ece47&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451998745553010841/levelImage.png?ex=694cd3f5&is=694b8275&hm=1b635f13e3b6ede07f526c0a75ea8289e07e9a2fd39d1b571ac03cc7021ece47&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766253877157
+  },
+  {
+    "id": "1451942227587629168",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451942235951337473/levelImage.png?ex=694d4814&is=694bf694&hm=07d9ab280597d7773b8eb4c14156c8aeabc6d8c27d68a5399b1460fcfaf2900a&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451942235951337473/levelImage.png?ex=694d4814&is=694bf694&hm=07d9ab280597d7773b8eb4c14156c8aeabc6d8c27d68a5399b1460fcfaf2900a&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766240402839
+  },
+  {
+    "id": "1451932702017060955",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451932704953073694/levelImage.png?ex=694d3f34&is=694bedb4&hm=54ed02ca7654a15c98930fcff4ebcd5133362e78e88c808e19092db43c17401c&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451932704953073694/levelImage.png?ex=694d3f34&is=694bedb4&hm=54ed02ca7654a15c98930fcff4ebcd5133362e78e88c808e19092db43c17401c&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766238131766
+  },
+  {
+    "id": "1451928778694463671",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451928781097926890/levelImage.png?ex=694d3b8c&is=694bea0c&hm=090269a68c1e0e6b2d2cde2846099d10caf0cfc08ee5eb4d2e627d36a892e340&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451928781097926890/levelImage.png?ex=694d3b8c&is=694bea0c&hm=090269a68c1e0e6b2d2cde2846099d10caf0cfc08ee5eb4d2e627d36a892e340&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766237196373
+  },
+  {
+    "id": "1451928740786344078",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "❌ Vous ne pouvez pas utiliser la commande </level:1013563480609140832> à nouveau pour les 4 prochaines secondes.",
+        "url": null,
+        "timestamp": null,
+        "color": 13500416,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766237187335
+  },
+  {
+    "id": "1451928717625655527",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451928719785721977/levelImage.png?ex=694d3b7e&is=694be9fe&hm=6f19d4c8020634c3a0a33e49f5b16d42ad074aeed13ee991bc2ebbacd6d44d5d&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451928719785721977/levelImage.png?ex=694d3b7e&is=694be9fe&hm=6f19d4c8020634c3a0a33e49f5b16d42ad074aeed13ee991bc2ebbacd6d44d5d&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766237181813
+  },
+  {
+    "id": "1451924458477453425",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 448 031 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 548 xp)\n<:3_:1368681221307236363> **ՏʅՄՐƙ_ԾԲԲ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 34 (94 641 xp)\n<:4_:1368681222506545162> **ℤ𝔼𝕃𝕂𝕆** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 29 (62 447 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 967 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766236166353
+  },
+  {
+    "id": "1451924451191947314",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451924454648053870/levelImage.png?ex=694d3785&is=694be605&hm=b532f522e19e58c685dd800120b64d7437ab928672c369dfd64924d31c33b869&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451924454648053870/levelImage.png?ex=694d3785&is=694be605&hm=b532f522e19e58c685dd800120b64d7437ab928672c369dfd64924d31c33b869&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766236164616
+  },
+  {
+    "id": "1451696169238528101",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451696172207964313/levelImage.png?ex=694d0baa&is=694bba2a&hm=ca53446b84c40593714327e733deeb00fbbb5f167d75e8f1a21a1715645bb660&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451696172207964313/levelImage.png?ex=694d0baa&is=694bba2a&hm=ca53446b84c40593714327e733deeb00fbbb5f167d75e8f1a21a1715645bb660&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766181737957
+  },
+  {
+    "id": "1451677587943457002",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451677590623490159/levelImage.png?ex=694cfa5c&is=694ba8dc&hm=bbe23f04602072fef22a461b550446a6f165c82418fdc025df36746b4689daa7&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451677590623490159/levelImage.png?ex=694cfa5c&is=694ba8dc&hm=bbe23f04602072fef22a461b550446a6f165c82418fdc025df36746b4689daa7&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766177307831
+  },
+  {
+    "id": "1451317779708772619",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451317784897130588/levelImage.png?ex=694cfcc4&is=694bab44&hm=4ffc60280349ee2ed7db93c0e3534b5e9ce71d9604226b873ad1644e58333239&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451317784897130588/levelImage.png?ex=694cfcc4&is=694bab44&hm=4ffc60280349ee2ed7db93c0e3534b5e9ce71d9604226b873ad1644e58333239&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766091522863
+  },
+  {
+    "id": "1451317775145631887",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451317778215866451/levelImage.png?ex=694cfcc2&is=694bab42&hm=91a7da5bc9f18469f32c53ab772a5e2c043c65d758adc75cd3ac7679c0a58d2d&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451317778215866451/levelImage.png?ex=694cfcc2&is=694bab42&hm=91a7da5bc9f18469f32c53ab772a5e2c043c65d758adc75cd3ac7679c0a58d2d&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766091521775
+  },
+  {
+    "id": "1451317753532121110",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Anniversaires à venir sur le serveur !",
+        "type": "rich",
+        "description": "Voici la liste des 10 prochains membres fêtant leur anniversaire :\n\n>>> **ՏʅՄՐƙ_ԾԲԲ** `(@slurk_off)` : <t:1767222000:D> (16 ans dans 14 jours) 🎉\n**Vine** `(@vine62.)` : <t:1772578800:D> (16 ans dans 2 mois) 🎉\n**léopard33760 🎄🍅** `(@leopard33760)` : <t:1790546400:D> (15 ans dans 9 mois) 🎉\n**Chipita** `(@chipita_1)` : <t:1793746800:D> (dans un an) 🎉\n**ℤ𝔼𝕃𝕂𝕆** `(@zelko_off)` : <t:1793746800:D> (15 ans dans un an) 🎉\n**scorpion🔥🦂** `(@scorpion_1201)` : <t:1794351600:D> (15 ans dans un an) 🎉\n**ⱫⱫ-ᑕꫝꫀꫀƚꪖꫝ** `(@kylian.hh)` : <t:1796598000:D> (19 ans dans un an) 🎉",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Gérez votre anniversaire avec /anniversaire activer|désactiver|définir|retirer"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766091516622
+  },
+  {
+    "id": "1451317700142956564",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451317703972225155/levelImage.png?ex=694cfcb0&is=694bab30&hm=287d44038e2473b3cd107983dc6f59c5d1323d96d350e21aa157c2d549aba051&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451317703972225155/levelImage.png?ex=694cfcb0&is=694bab30&hm=287d44038e2473b3cd107983dc6f59c5d1323d96d350e21aa157c2d549aba051&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766091503893
+  },
+  {
+    "id": "1451212136436072542",
+    "content": "<@1323622775289544777>",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "**Vine** ! Vous recevez un câlin de **ℤ𝔼𝕃𝕂𝕆** ! 💖",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://nekos.best/api/v2/hug/2c898eb2-71a0-4cf2-a79c-176510764d80.gif",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/QjyH3SuYzytlm6lx-54GtES6ppg3oYhigSwsrPwZAFc/https/nekos.best/api/v2/hug/2c898eb2-71a0-4cf2-a79c-176510764d80.gif",
+          "height": 278,
+          "width": 498
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766066335544
+  },
+  {
+    "id": "1451208477614674062",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451208480756076635/levelImage.png?ex=694d3fb7&is=694bee37&hm=bd1f5cc7f8a8f0e2f3a0d00a6e790ecac6d8ab82b44051b7812763c6cefcca91&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451208480756076635/levelImage.png?ex=694d3fb7&is=694bee37&hm=bd1f5cc7f8a8f0e2f3a0d00a6e790ecac6d8ab82b44051b7812763c6cefcca91&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766065463213
+  },
+  {
+    "id": "1451192743748571186",
+    "content": "💥 <@1351130997512474667>, Partie perdue ! Vous avez touché une mine !",
+    "username": "Koya",
+    "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766061711967
+  },
+  {
+    "id": "1451192394061189152",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 446 786 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 459 xp)\n<:3_:1368681221307236363> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 33 (93 981 xp)\n<:4_:1368681222506545162> **ℤ𝔼𝕃𝕂𝕆** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 28 (59 362 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 860 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766061628595
+  },
+  {
+    "id": "1451192355506884750",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1451192359579680940/levelImage.png?ex=694d30b4&is=694bdf34&hm=9367825dd0393088675c4a90be8ef39dfe22b36c71055ff0ce1f41b472e7c337&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1451192359579680940/levelImage.png?ex=694d30b4&is=694bdf34&hm=9367825dd0393088675c4a90be8ef39dfe22b36c71055ff0ce1f41b472e7c337&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1766061619403
+  },
+  {
+    "id": "1450898963577311242",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘 (1322053747509170206)",
+        "type": "rich",
+        "description": "Informations et statistiques de 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘\n**Shard #362 (cluster 23) • 98 salons • 20 fils • 46 rôles • 13 bots**",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Propriétaire",
+            "value": "- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲 `(@wx_ily3s)`",
+            "inline": true
+          },
+          {
+            "name": "Membres",
+            "value": "537 membres",
+            "inline": true
+          },
+          {
+            "name": "Boosts",
+            "value": "Palier 2 (14 boosts)",
+            "inline": true
+          },
+          {
+            "name": "Analyse du contenu",
+            "value": "Analyse tous les messages envoyés",
+            "inline": false
+          },
+          {
+            "name": "Niveau de vérification",
+            "value": "Moyen - Utilisateur Discord depuis plus de 5 minutes",
+            "inline": true
+          },
+          {
+            "name": "Restriction d'âge",
+            "value": "Normale",
+            "inline": true
+          },
+          {
+            "name": "Rôles [46]",
+            "value": "<@&1322071391331156028>, <@&1390866034235277312>, <@&1322080770428375100>, <@&1431112204077502587>, <@&1444397634856026335>, <@&1444399479951196170>, <@&1415581350974591078>, <@&1390867780416573490>, <@&1431117399821914193>, <@&1322073836274978897>, <@&1426735230235971675>, <@&1380623279428993054>, <@&1430606092907319429>, <@&1322073963739873310>, <@&1438098340439916646>, <@&1415582355996807178>, <@&1322471151343243406>, <@&1444419863056617514>, <@&1433926092724637716>, <@&1418917403051556964>, <@&1395182659969224705>, <@&1449139985562472686>, <@&1402770997354037338>, <@&1322082482769756240>, <@&1322096349478391940>, <@&1380686347584540695>, <@&1322498758876860419>, <@&1322086306767175703>, <@&1399441909646360730>, <@&1333305176827629682>, <@&1339338887302217751>, <@&1333307548220260427>, <@&1396847406024364065>, <@&1410882762902077525>, <@&1410884607959760976>, <@&1410885209829933079>, <@&1426718870475112511>, <@&1381102687495651358>, <@&1406354861989167114> et d'autres",
+            "inline": false
+          },
+          {
+            "name": "Émojis [63]",
+            "value": "<:Equipe_CALI:1339343115848388690> <:Logo_Ticket:1386940415663673396> <:SUPERVISEUR:1386946435303477279> <:STAFF:1386947290371063950> <:Tiktok:1396611605923631221> <:SuperSTAFF:1396885087693570231> <:Co_Createur:1406220065623248988> <:Boost:1406223238245253183> <:AC:1416447885528137728> <:Android:1416468357372448888> <:Engrenage:1416471753571438622> <:Micro:1416471973743169667> <:Membre:1416472529282793583> <:Ticket:1416474859730505829> <:Logo_DISCORD:1416477310894342285> <:Xbox:1416477708371886090> <:PlayStation:1416477893005017118> <:Nintendo_Switch:1416478125981700236> <:Windows:1416478231271571487> <:Fille:1416479287921348638> <:Garcon:1416479357823881227> <a:insta:1426750366631989319> <a:Fleche_rouge:1437906827043012678> <a:Fleche_bleu:1437908386468466799> <a:Fleche_verte:1438128840449986662> <:CaliforniaRP_Noel:1443169802083631165> <:CaliforniaRP:1443171457915031645> <:Assistance:1444400227737141339> <:MembreVIP:1444408186407882873> <:Gerant_EQUIPE_DS:1444481233244524604> et d'autres",
+            "inline": false
+          },
+          {
+            "name": "Création du serveur",
+            "value": "<t:1735272575:F>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée de DraftBot",
+            "value": "<t:1749251677:F>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=256",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/fiUwF1LLqs1ds-fYK_hps8JO-o6Ii71vVmBSl9LKc4Q/%3Fsize%3D256/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 256,
+          "width": 256
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765991669316
+  },
+  {
+    "id": "1450829005262557298",
+    "content": "💥 <@1352383588078846002>, Partie perdue ! Vous avez touché une mine !",
+    "username": "Koya",
+    "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/eb7dea37a8c6a4afd5df22e7c426f074.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765974989954
+  },
+  {
+    "id": "1450828699027898440",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "❌ Le système d'économie est désactivé sur le serveur.",
+        "url": null,
+        "timestamp": null,
+        "color": 13500416,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765974916942
+  },
+  {
+    "id": "1450828608972128319",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Amour entre ᎸᎸo_ʞɿu|ꙅ et LUCKY-FERRULE3 //THE BEST//",
+        "type": "rich",
+        "description": "Il s'appellera… **ᎸᎸoERRULE3 //THE BEST//** ! 😘",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1450828612407394435/love.png?ex=694d2f70&is=694bddf0&hm=2669346753a459b115b66147930e5088db959d1a32d38a4cc63096ef1014d54d&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1450828612407394435/love.png?ex=694d2f70&is=694bddf0&hm=2669346753a459b115b66147930e5088db959d1a32d38a4cc63096ef1014d54d&",
+          "height": 128,
+          "width": 384
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765974895471
+  },
+  {
+    "id": "1450735789758611497",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1450735792938029200/levelImage.png?ex=694cd8fe&is=694b877e&hm=3fa5d9f5801de33fcf186ecde849e494d972250fac9af481dbb7d531a0641c00&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1450735792938029200/levelImage.png?ex=694cd8fe&is=694b877e&hm=3fa5d9f5801de33fcf186ecde849e494d972250fac9af481dbb7d531a0641c00&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765952765646
+  },
+  {
+    "id": "1450620618868265020",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1450620622160924775/levelImage.png?ex=694d167b&is=694bc4fb&hm=d1feb17b3a3ef2f9e22b7a4d5c693a60bc767220917027a950fc930761de50b4&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1450620622160924775/levelImage.png?ex=694d167b&is=694bc4fb&hm=d1feb17b3a3ef2f9e22b7a4d5c693a60bc767220917027a950fc930761de50b4&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765925306766
+  },
+  {
+    "id": "1450617953514160280",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1450617956542320835/levelImage.png?ex=694d1400&is=694bc280&hm=eb3833ee77b7799d454e8f91b4934d9a71bd7ceaf44c4570c8ccfb3bcb276da9&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1450617956542320835/levelImage.png?ex=694d1400&is=694bc280&hm=eb3833ee77b7799d454e8f91b4934d9a71bd7ceaf44c4570c8ccfb3bcb276da9&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765924671296
+  },
+  {
+    "id": "1449888194110685236",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449888196405100767/levelImage.png?ex=694d0f5b&is=694bbddb&hm=0549909579c1e24a5cc813ed76e675b0b40037ac9d2e47595160a6f4f0380fd9&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449888196405100767/levelImage.png?ex=694d0f5b&is=694bbddb&hm=0549909579c1e24a5cc813ed76e675b0b40037ac9d2e47595160a6f4f0380fd9&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765750683096
+  },
+  {
+    "id": "1449886392699191529",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 445 017 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 167 xp)\n<:3_:1368681221307236363> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 33 (91 021 xp)\n<:4_:1368681222506545162> **『𝑳𝑴𝒁 ℤ𝔼𝕃𝕂𝕆』** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 27 (55 930 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 350 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765750253606
+  },
+  {
+    "id": "1449886339284865084",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449886342258495649/levelImage.png?ex=694d0da1&is=694bbc21&hm=22c9e4a9c8937fc5e3c14f32cfa8217b13a8ce5a9127a545562cab8ef3dcbe7b&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449886342258495649/levelImage.png?ex=694d0da1&is=694bbc21&hm=22c9e4a9c8937fc5e3c14f32cfa8217b13a8ce5a9127a545562cab8ef3dcbe7b&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765750240871
+  },
+  {
+    "id": "1449886218673197176",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 445 017 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 167 xp)\n<:3_:1368681221307236363> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 33 (91 021 xp)\n<:4_:1368681222506545162> **『𝑳𝑴𝒁 ℤ𝔼𝕃𝕂𝕆』** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 27 (55 930 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 350 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765750212115
+  },
+  {
+    "id": "1449886185702031440",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449886188222812261/levelImage.png?ex=694d0d7c&is=694bbbfc&hm=94e237f757dfc5eeccbe4426e4ed611d32b7e04b7104bdf97bb49d16912de43e&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449886188222812261/levelImage.png?ex=694d0d7c&is=694bbbfc&hm=94e237f757dfc5eeccbe4426e4ed611d32b7e04b7104bdf97bb49d16912de43e&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765750204254
+  },
+  {
+    "id": "1449839283883217058",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449839286127034541/levelImage.png?ex=694ce1ce&is=694b904e&hm=fdbce15a16dfd7d7fdee3927066e09a334c46aeee81a230ca9f97a23eb0db034&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449839286127034541/levelImage.png?ex=694ce1ce&is=694b904e&hm=fdbce15a16dfd7d7fdee3927066e09a334c46aeee81a230ca9f97a23eb0db034&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765739021989
+  },
+  {
+    "id": "1449734524043788420",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449734527206428732/levelImage.png?ex=694d28fe&is=694bd77e&hm=3a744363df15ddb398e78a3c19d48b5f710d0bae170132c3c2bf260d494bd999&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449734527206428732/levelImage.png?ex=694d28fe&is=694bd77e&hm=3a744363df15ddb398e78a3c19d48b5f710d0bae170132c3c2bf260d494bd999&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765714045297
+  },
+  {
+    "id": "1449730127398178949",
+    "content": "S?t",
+    "username": "usser91z",
+    "avatar": "https://cdn.discordapp.com/avatars/1363241020439138535/1ced1d70fd4c7b37a4fbca20bc4411c5.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765712997055
+  },
+  {
+    "id": "1449722982388731944",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449722986243297334/levelImage.png?ex=694d1e3e&is=694bccbe&hm=82dfbbd10d99786ba9ab5fa8b17e2b74223373b4ea026e2f669c9e7a110bd9b8&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449722986243297334/levelImage.png?ex=694d1e3e&is=694bccbe&hm=82dfbbd10d99786ba9ab5fa8b17e2b74223373b4ea026e2f669c9e7a110bd9b8&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765711293552
+  },
+  {
+    "id": "1449525173257769171",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **Vine** `(@vine62.)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1323622775289544777>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1323622775289544777",
+            "inline": true
+          },
+          {
+            "name": "Rôles [11]",
+            "value": "<@&1322073836274978897>, <@&1380623279428993054>, <@&1430606092907319429>, <@&1322471151343243406>, <@&1402770997354037338>, <@&1322082482769756240>, <@&1381102687495651358>, <@&1406354861989167114>, <@&1322074864676372502>, <@&1330584754323591241>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1735646661:F>\n➜<t:1735646661:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1751984356:F>\n➜<t:1751984356:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/1323622775289544777/0f45cb8b627f44b26db9ea7eb5ca1c0d.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/AXFM3fqCQkVU4NTi4sg8G0TpvU6JiUBvVQsMW-smylg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1323622775289544777/0f45cb8b627f44b26db9ea7eb5ca1c0d.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur Vine",
+          "icon_url": "https://cdn.discordapp.com/avatars/1323622775289544777/0f45cb8b627f44b26db9ea7eb5ca1c0d.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765664132180
+  },
+  {
+    "id": "1449524730473484381",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **Nico_782** `(@espace_111)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1395362625445167216>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1395362625445167216",
+            "inline": true
+          },
+          {
+            "name": "Rôles [6]",
+            "value": "<@&1322073963739873310>, <@&1322082482769756240>, <@&1406354861989167114>, <@&1322074864676372502>, <@&1330584436030570506>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1752750774:F>\n➜<t:1752750774:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1761146077:F>\n➜<t:1761146077:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/1395362625445167216/18a8e55bcffb3182a0f20c5faf9d2779.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/hKMV7VbDkzp8SHAw2CyPdmfT9Va3umpkwN7uwmQXDxQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1395362625445167216/18a8e55bcffb3182a0f20c5faf9d2779.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur Nico_782",
+          "icon_url": "https://cdn.discordapp.com/avatars/1395362625445167216/18a8e55bcffb3182a0f20c5faf9d2779.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765664026612
+  },
+  {
+    "id": "1449524396732452867",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **léopard33760 🎄🍅** `(@leopard33760)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1341479410951258184>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1341479410951258184",
+            "inline": true
+          },
+          {
+            "name": "Rôles [8]",
+            "value": "<@&1380623279428993054>, <@&1322073963739873310>, <@&1433926092724637716>, <@&1322082482769756240>, <@&1406354861989167114>, <@&1322074864676372502>, <@&1330584436030570506>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1739904015:F>\n➜<t:1739904015:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1755984758:F>\n➜<t:1755984758:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/1341479410951258184/1fea0a5ed82c69b39b62cb0971ac097e.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/gI0xuZeM4P_9pX7_3GuTp8Gh_upYIuswlumCvz3n4Bk/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1341479410951258184/1fea0a5ed82c69b39b62cb0971ac097e.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur léopard33760 🎄🍅",
+          "icon_url": "https://cdn.discordapp.com/avatars/1341479410951258184/1fea0a5ed82c69b39b62cb0971ac097e.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765663947042
+  },
+  {
+    "id": "1449524345872322640",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Voici les informations concernant l'utilisateur **Vine** `(@vine62.)`.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [
+          {
+            "name": "Mention",
+            "value": "<@1323622775289544777>",
+            "inline": true
+          },
+          {
+            "name": "Identifiant",
+            "value": "1323622775289544777",
+            "inline": true
+          },
+          {
+            "name": "Rôles [11]",
+            "value": "<@&1322073836274978897>, <@&1380623279428993054>, <@&1430606092907319429>, <@&1322471151343243406>, <@&1402770997354037338>, <@&1322082482769756240>, <@&1381102687495651358>, <@&1406354861989167114>, <@&1322074864676372502>, <@&1330584754323591241>, <@&1330585002659807324>",
+            "inline": false
+          },
+          {
+            "name": "Création du compte",
+            "value": "<t:1735646661:F>\n➜<t:1735646661:R>",
+            "inline": true
+          },
+          {
+            "name": "Date d'arrivée",
+            "value": "<t:1751984356:F>\n➜<t:1751984356:R>",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/1323622775289544777/0f45cb8b627f44b26db9ea7eb5ca1c0d.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/AXFM3fqCQkVU4NTi4sg8G0TpvU6JiUBvVQsMW-smylg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/1323622775289544777/0f45cb8b627f44b26db9ea7eb5ca1c0d.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "Informations sur Vine",
+          "icon_url": "https://cdn.discordapp.com/avatars/1323622775289544777/0f45cb8b627f44b26db9ea7eb5ca1c0d.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765663934916
+  },
+  {
+    "id": "1449523674989334749",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Anniversaires à venir sur le serveur !",
+        "type": "rich",
+        "description": "Voici la liste des 10 prochains membres fêtant leur anniversaire :\n\n>>> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)` : <t:1767222000:D> (16 ans dans 19 jours) 🎉\n**Vine** `(@vine62.)` : <t:1772578800:D> (16 ans dans 3 mois) 🎉\n**léopard33760 🎄🍅** `(@leopard33760)` : <t:1790546400:D> (15 ans dans 9 mois) 🎉\n**Chipita** `(@chipita_1)` : <t:1793746800:D> (dans un an) 🎉\n**𝓩𝓔𝓛𝓚𝓞** `(@zelko_off)` : <t:1793746800:D> (15 ans dans un an) 🎉\n**scorpion🔥🦂** `(@scorpion_1201)` : <t:1794351600:D> (15 ans dans un an) 🎉\n**ⱫⱫ-ᑕꫝꫀꫀƚꪖꫝ** `(@kylian.hh)` : <t:1796598000:D> (19 ans dans un an) 🎉",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Gérez votre anniversaire avec /anniversaire activer|désactiver|définir|retirer"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765663774965
+  },
+  {
+    "id": "1449443390252122213",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 444 718 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 105 xp)\n<:3_:1368681221307236363> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 33 (88 850 xp)\n<:4_:1368681222506545162> **𝓩𝓔𝓛𝓚𝓞** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 27 (54 416 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 255 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765644633592
+  },
+  {
+    "id": "1449443351500947566",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449443354034049094/levelImage.png?ex=694cc290&is=694b7110&hm=a2b805dcb2875655cb3387470370eabc874dc11e19ad20fd6cf66419b14408c6&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449443354034049094/levelImage.png?ex=694cc290&is=694b7110&hm=a2b805dcb2875655cb3387470370eabc874dc11e19ad20fd6cf66419b14408c6&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765644624353
+  },
+  {
+    "id": "1449424114984161443",
+    "content": "",
+    "username": "Euphony",
+    "avatar": "https://cdn.discordapp.com/avatars/949731498808979557/6f870ec562004f94938f00fd37a38571.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765640038010
+  },
+  {
+    "id": "1449415887676375082",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 444 718 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 105 xp)\n<:3_:1368681221307236363> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 33 (88 563 xp)\n<:4_:1368681222506545162> **𝓩𝓔𝓛𝓚𝓞** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 27 (54 340 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 255 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765638076467
+  },
+  {
+    "id": "1449415856625946624",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449415861436940308/levelImage.png?ex=694ca8f6&is=694b5776&hm=a379bfda6b4fccaa899052591e8b9f4a28fda72ac9617b600593864d57da09c6&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449415861436940308/levelImage.png?ex=694ca8f6&is=694b5776&hm=a379bfda6b4fccaa899052591e8b9f4a28fda72ac9617b600593864d57da09c6&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765638069064
+  },
+  {
+    "id": "1449348429464604783",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449348431796768858/levelImage.png?ex=694d12e9&is=694bc169&hm=d3c5dfe620289eb6d99c0d5eb0be5feeaa4259e4705cbd8e5dae7f25b8c13eb1&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449348431796768858/levelImage.png?ex=694d12e9&is=694bc169&hm=d3c5dfe620289eb6d99c0d5eb0be5feeaa4259e4705cbd8e5dae7f25b8c13eb1&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765621993176
+  },
+  {
+    "id": "1449327465766846475",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449327468531024044/levelImage.png?ex=694cff63&is=694bade3&hm=9830228f1b63360af037312bf9015ca9045842ec364682b0a91f0f79ae47442b&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449327468531024044/levelImage.png?ex=694cff63&is=694bade3&hm=9830228f1b63360af037312bf9015ca9045842ec364682b0a91f0f79ae47442b&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765616995041
+  },
+  {
+    "id": "1449137780457209886",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449137784127361074/levelImage.png?ex=694cf77b&is=694ba5fb&hm=239e538ce01e4669715cbcdf093c7c3617a6adc8917314b170a2b6a3c6ade774&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449137784127361074/levelImage.png?ex=694cf77b&is=694ba5fb&hm=239e538ce01e4669715cbcdf093c7c3617a6adc8917314b170a2b6a3c6ade774&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765571770539
+  },
+  {
+    "id": "1449136571822637219",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449136575563960522/levelImage.png?ex=694cf65b&is=694ba4db&hm=eb9b17b13715140040826f26b5e513c8352f3e91aa4e57adc4f21cb6c44f6ba5&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449136575563960522/levelImage.png?ex=694cf65b&is=694ba4db&hm=eb9b17b13715140040826f26b5e513c8352f3e91aa4e57adc4f21cb6c44f6ba5&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765571482378
+  },
+  {
+    "id": "1449124394403238041",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Classement de niveaux de : 𝗖𝗔𝗟𝗜𝗙𝗢𝗥𝗡𝗜𝗔 𝗥𝗣 🏘",
+        "type": "rich",
+        "description": "<:1_:1368681218840727562> **- 𝖶𝗑 𝖨𝖫𝖸𝖤𝖲** `(@wx_ily3s)`\n<:transparent:1368681116973662280> ➥ Niveau 10000 (1 668 917 444 364 xp)\n<:2_:1368681219788898516> **𝓙𝓾𝓳𝓾𝓯𝓪𝓼𝓱 🌅** `(@jujufash42)`\n<:transparent:1368681116973662280> ➥ Niveau 1006 (1 720 361 090 xp)\n<:3_:1368681221307236363> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)`\n<:transparent:1368681116973662280> ➥ Niveau 33 (86 950 xp)\n<:4_:1368681222506545162> **𝓩𝓔𝓛𝓚𝓞** `(@zelko_off)`\n<:transparent:1368681116973662280> ➥ Niveau 27 (54 202 xp)\n<:5_:1368681223643463691> **Djo** `(@djo00054400.)`\n<:transparent:1368681116973662280> ➥ Niveau 25 (43 233 xp)",
+        "url": "https://www.draftbot.fr/levels/1322053747509170206",
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/qcljq5PG8t40uSB7EwLNbXJfasammde-bEcJE-nhbVM/%3Fsize%3D128/https/cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765568579055
+  },
+  {
+    "id": "1449124366662111405",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449124370671997211/levelImage.png?ex=694ceafd&is=694b997d&hm=4265b09cc0674f01eb2ab058392c9af5c5c1528c465539266bcb4c299802ca3e&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449124370671997211/levelImage.png?ex=694ceafd&is=694b997d&hm=4265b09cc0674f01eb2ab058392c9af5c5c1528c465539266bcb4c299802ca3e&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765568572441
+  },
+  {
+    "id": "1449120660193546270",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1449120665889144952/levelImage.png?ex=694ce78a&is=694b960a&hm=57be98c167d510644c0d8f88807ae394d299e7dba4484b95499b30a346bdb4e2&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1449120665889144952/levelImage.png?ex=694ce78a&is=694b960a&hm=57be98c167d510644c0d8f88807ae394d299e7dba4484b95499b30a346bdb4e2&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765567688750
+  },
+  {
+    "id": "1449050030509002793",
+    "content": "Mm moi",
+    "username": "boxed_zenox22",
+    "avatar": "https://cdn.discordapp.com/avatars/1352422072244240418/659ba5072bdff64ea64764910b3850a6.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765550849321
+  },
+  {
+    "id": "1449049124644192267",
+    "content": "**Nan moi 16 !**",
+    "username": "JOYEUX NOËL 🎄",
+    "avatar": "https://cdn.discordapp.com/avatars/1274049474469302386/d87d936b9667fb57228d6aba76f1770c.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765550633346
+  },
+  {
+    "id": "1449048699945615564",
+    "content": "Tout le monde vas avoir 15 ou Koiiiii",
+    "username": "boxed_zenox22",
+    "avatar": "https://cdn.discordapp.com/avatars/1352422072244240418/659ba5072bdff64ea64764910b3850a6.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765550532090
+  },
+  {
+    "id": "1449016391570030726",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Anniversaires à venir sur le serveur !",
+        "type": "rich",
+        "description": "Voici la liste des 10 prochains membres fêtant leur anniversaire :\n\n>>> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)` : <t:1767222000:D> (16 ans dans 20 jours) 🎉\n**Vine** `(@vine62.)` : <t:1772578800:D> (16 ans dans 3 mois) 🎉\n**!\" ๖ۣۜ𝐒𝐡𝐚𝐝𝐨𝐰`𝐬 ™ッ 🚩** `(@gabv_011)` : <t:1783548000:D> (1 an dans 7 mois) 🎉\n**léopard33760 🎄🍅** `(@leopard33760)` : <t:1790546400:D> (15 ans dans 10 mois) 🎉\n**Chipita** `(@chipita_1)` : <t:1793746800:D> (dans un an) 🎉\n**𝓩𝓔𝓛𝓚𝓞** `(@zelko_off)` : <t:1793746800:D> (15 ans dans un an) 🎉\n**scorpion🔥🦂** `(@scorpion_1201)` : <t:1794351600:D> (15 ans dans un an) 🎉\n**ⱫⱫ-ᑕꫝꫀꫀƚꪖꫝ** `(@kylian.hh)` : <t:1796598000:D> (19 ans dans un an) 🎉",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Gérez votre anniversaire avec /anniversaire activer|désactiver|définir|retirer"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765542829173
+  },
+  {
+    "id": "1448987366772703359",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Anniversaires à venir sur le serveur !",
+        "type": "rich",
+        "description": "Voici la liste des 10 prochains membres fêtant leur anniversaire :\n\n>>> **ᎸᎸo_ʞɿu|ꙅ** `(@slurk_off)` : <t:1767222000:D> (16 ans dans 20 jours) 🎉\n**Vine** `(@vine62.)` : <t:1772578800:D> (16 ans dans 3 mois) 🎉\n**!\" ๖ۣۜ𝐒𝐡𝐚𝐝𝐨𝐰`𝐬 ™ッ 🚩** `(@gabv_011)` : <t:1783548000:D> (15 ans dans 7 mois) 🎉\n**léopard33760 🎄🍅** `(@leopard33760)` : <t:1790546400:D> (15 ans dans 10 mois) 🎉\n**Chipita** `(@chipita_1)` : <t:1793746800:D> (dans un an) 🎉\n**𝓩𝓔𝓛𝓚𝓞** `(@zelko_off)` : <t:1793746800:D> (15 ans dans un an) 🎉\n**scorpion🔥🦂** `(@scorpion_1201)` : <t:1794351600:D> (15 ans dans un an) 🎉\n**ⱫⱫ-ᑕꫝꫀꫀƚꪖꫝ** `(@kylian.hh)` : <t:1796598000:D> (19 ans dans un an) 🎉",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Gérez votre anniversaire avec /anniversaire activer|désactiver|définir|retirer"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765535909122
+  },
+  {
+    "id": "1448933891023831041",
+    "content": "",
+    "username": "InviteLogger",
+    "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/9211de86210d39944cda4bbfc04a154d.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Invites count of <@781961231266349066> *generated in 711ms*\n\n:white_check_mark: **290** joins in total\n:x: **158** leaves\n:poop: **0** fake\n:sparkles: **0** bonus\n\nThis user has currently **132** invites ! :clap:",
+        "url": null,
+        "timestamp": "2025-12-12T07:06:00.036Z",
+        "color": 3553599,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/avatars/781961231266349066/c9d1ae1409c8c61ca6a7090b1c9d0233.webp?size=128",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/z-AJo-Q-CSGrcP97YFJ2z7xYbv0A66RT9T27AttJz9A/%3Fsize%3D128/https/cdn.discordapp.com/avatars/781961231266349066/c9d1ae1409c8c61ca6a7090b1c9d0233.webp",
+          "height": 128,
+          "width": 128
+        },
+        "image": null,
+        "author": {
+          "name": "wx_ily3s"
+        },
+        "footer": {
+          "text": "InviteLogger • Asked by zelko_off",
+          "icon_url": "https://cdn.discordapp.com/avatars/499595256270946326/9211de86210d39944cda4bbfc04a154d.webp?size=128"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765523159510
+  },
+  {
+    "id": "1448778916314615849",
+    "content": "??",
+    "username": "ℤ𝔼𝕃𝕂𝕆 🌴🚩",
+    "avatar": "https://cdn.discordapp.com/avatars/1351130997512474667/401ece9f5811530b36e55b15d84d4cc3.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765486210660
+  },
+  {
+    "id": "1448778916117348475",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "Le membre **𝐘𝐔𝐑𝐎𝐗** `(@yuroxx4)` a été **averti**. *(2 avertissements)*\n>>> Raison : Tentative d’utilisation d’un script !",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Sanction",
+          "icon_url": "https://cdn.discordapp.com/icons/1322053747509170206/9b7983c1d0e82844757426ddb23830a8.png?size=32"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765486210613
+  },
+  {
+    "id": "1448778772747649135",
+    "content": "??",
+    "username": "léopard33760 🌴🚩🎄🍅",
+    "avatar": "https://cdn.discordapp.com/avatars/1341479410951258184/1fea0a5ed82c69b39b62cb0971ac097e.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765486176431
+  },
+  {
+    "id": "1448778741311602841",
+    "content": "??",
+    "username": "JOYEUX NOËL 🎄",
+    "avatar": "https://cdn.discordapp.com/avatars/1274049474469302386/d87d936b9667fb57228d6aba76f1770c.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765486168936
+  },
+  {
+    "id": "1448777348945018942",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1448777352179093534/levelImage.png?ex=694cf94d&is=694ba7cd&hm=cb0f9598e3c3ed676efece8f1f1436ec14acf054a7ef3b738d9ad9a00ed03920&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1448777352179093534/levelImage.png?ex=694cf94d&is=694ba7cd&hm=cb0f9598e3c3ed676efece8f1f1436ec14acf054a7ef3b738d9ad9a00ed03920&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765485836970
+  },
+  {
+    "id": "1448777254871109763",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1448777258730000609/levelImage.png?ex=694cf937&is=694ba7b7&hm=5c972800ed4093563aa379c7ed8f87cc0637be5c934d5b6e12271522bba5ccd4&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1448777258730000609/levelImage.png?ex=694cf937&is=694ba7b7&hm=5c972800ed4093563aa379c7ed8f87cc0637be5c934d5b6e12271522bba5ccd4&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765485814541
+  },
+  {
+    "id": "1448764638610198568",
+    "content": "",
+    "username": "Euphony",
+    "avatar": "https://cdn.discordapp.com/avatars/949731498808979557/6f870ec562004f94938f00fd37a38571.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765482806590
+  },
+  {
+    "id": "1448763406139002931",
+    "content": "",
+    "username": "Euphony",
+    "avatar": "https://cdn.discordapp.com/avatars/949731498808979557/6f870ec562004f94938f00fd37a38571.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765482512746
+  },
+  {
+    "id": "1448762872271339550",
+    "content": "rev zelko",
+    "username": "!\" ๖ۣۜ𝐒𝐡𝐚𝐝𝐨𝐰`𝐬 ™ッ 🚩",
+    "avatar": "https://cdn.discordapp.com/avatars/1173508336063356948/efb4d78b490cf5e8639da47a8316a56d.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765482385462
+  },
+  {
+    "id": "1448762558575149242",
+    "content": "",
+    "username": "Euphony",
+    "avatar": "https://cdn.discordapp.com/avatars/949731498808979557/6f870ec562004f94938f00fd37a38571.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765482310671
+  },
+  {
+    "id": "1448762450651648132",
+    "content": "",
+    "username": "Euphony",
+    "avatar": "https://cdn.discordapp.com/avatars/949731498808979557/6f870ec562004f94938f00fd37a38571.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765482284940
+  },
+  {
+    "id": "1448761338997375027",
+    "content": "",
+    "username": "Euphony",
+    "avatar": "https://cdn.discordapp.com/avatars/949731498808979557/6f870ec562004f94938f00fd37a38571.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765482019901
+  },
+  {
+    "id": "1448748265066467351",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1442631261788049418/1448748267595890760/levelImage.png?ex=694cde37&is=694b8cb7&hm=4faea2d5f0abb0c21f9b98aee25654ae7a8143da5503876eb43ecdbf6a10bb30&",
+          "proxyURL": "https://media.discordapp.net/attachments/1442631261788049418/1448748267595890760/levelImage.png?ex=694cde37&is=694b8cb7&hm=4faea2d5f0abb0c21f9b98aee25654ae7a8143da5503876eb43ecdbf6a10bb30&",
+          "height": 300,
+          "width": 1000
+        },
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1765478902833
+  }
+]

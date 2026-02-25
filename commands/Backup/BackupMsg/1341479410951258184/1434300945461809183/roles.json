@@ -1,0 +1,426 @@
+[
+  {
+    "id": "1435034577297997874",
+    "name": "💄・Switch",
+    "color": 13650763,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435618488512286791",
+    "name": "⚠️Modérateur Suspendu ⚠️",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434307452320350419",
+    "name": "👑・𝐎𝐰𝐧𝐞𝐫",
+    "color": 986895,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1434302405998022686",
+    "name": "👥・Membre",
+    "color": 11777023,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2098240"
+  },
+  {
+    "id": "1435031991585210378",
+    "name": "🔞・Mineur",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434302187361665157",
+    "name": "UnbelievaBoat",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1434308132884185274",
+    "name": "🔋・𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫 𝐓𝐞𝐬𝐭",
+    "color": 1572608,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2253037236397126"
+  },
+  {
+    "id": "1436385980306297002",
+    "name": "Suprême d'Anti Casseurs",
+    "color": 262286,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434307719057244161",
+    "name": "📎・𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐥𝐞 𝐌𝐨𝐝é𝐫𝐚𝐭𝐞𝐮𝐫",
+    "color": 15277667,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2252899797230687"
+  },
+  {
+    "id": "1435745074033065984",
+    "name": ".",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1434302287756525651",
+    "name": "Statbot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "275147508760"
+  },
+  {
+    "id": "1435030784472907827",
+    "name": "🪙・𝐀𝐢𝐝𝐞 𝐀𝐝𝐦𝐢𝐧",
+    "color": 12745742,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "0"
+  },
+  {
+    "id": "1434301544073003143",
+    "name": "DraftBot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1153784935345407"
+  },
+  {
+    "id": "1434317404019884093",
+    "name": "👑・𝗔𝗰𝗰𝗲𝘀 𝗕𝘂𝗿𝗲𝗮𝘂♛『ガ𝐃𝐚𝐫𝐤𝐩𝐚𝐬𝐲ガ』♛",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1437067507843469414",
+    "name": "counting",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "268520512"
+  },
+  {
+    "id": "1434308244519518350",
+    "name": "🪖・𝐇𝐞𝐥𝐩𝐞𝐮𝐫",
+    "color": 3066993,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1099513724992"
+  },
+  {
+    "id": "1434308070632198246",
+    "name": "🎓・𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫",
+    "color": 65518,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2252899797181510"
+  },
+  {
+    "id": "1435618928821932103",
+    "name": "⚠️Responsable Suspendu ⚠️",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434302404630679695",
+    "name": "🤖・Bot",
+    "color": 11796403,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1435034485652590654",
+    "name": "📱・Téléphone",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435034403092037673",
+    "name": "🪬・Xbox",
+    "color": 3066993,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435032676854661140",
+    "name": "🚫・Anti Casseurs 🚫",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434301587576197203",
+    "name": "Sharles",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1435618367750012968",
+    "name": "Prochain Warn=Ban⚠️",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1436385564491255900",
+    "name": "Grand Anti Casseurs",
+    "color": 11993010,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434307596214337617",
+    "name": "👑・𝐂𝐨 𝐎𝐰𝐧𝐞𝐫",
+    "color": 16737123,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1436883098959876130",
+    "name": "Euphony",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "20204552"
+  },
+  {
+    "id": "1435031932424552530",
+    "name": "👧🏽・Fille",
+    "color": 15277667,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435352217669472277",
+    "name": "😇•Amis",
+    "color": 6507008,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "50240"
+  },
+  {
+    "id": "1435234277070471288",
+    "name": "Fondateur Mayork RP",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1434316507650850936",
+    "name": "⭐️・𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐧𝐬𝐞𝐢𝐥𝐥é",
+    "color": 15105570,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434302140494516289",
+    "name": "MEE6",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "364870364415"
+  },
+  {
+    "id": "1436385698029506640",
+    "name": "Roi Anti Casseurs",
+    "color": 10390272,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1436385860143808844",
+    "name": "Légende d'Anti Casseurs",
+    "color": 11960831,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434301685592883223",
+    "name": "Ticket Tool",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2416045080"
+  },
+  {
+    "id": "1434301639204016242",
+    "name": "Koya",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "590983204433143"
+  },
+  {
+    "id": "1434302096194277430",
+    "name": "RaidProtect",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1127292448798911"
+  },
+  {
+    "id": "1434308199053525133",
+    "name": "🔍・𝐂𝐡𝐞𝐫𝐜𝐡𝐞𝐮𝐫𝐬 𝐝𝐞 𝐂𝐚𝐬𝐬𝐞𝐮𝐫",
+    "color": 10181046,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "203457600"
+  },
+  {
+    "id": "1435032382464987136",
+    "name": "🗿・Majeur",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1436664681019473930",
+    "name": "⚠️𝐂𝐨 𝐎𝐰𝐧𝐞𝐫 Suspendu⚠️",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435019427329347585",
+    "name": "👑・𝗔𝗰𝗰𝗲𝘀 𝗕𝘂𝗿𝗲𝗮𝘂 𝐕𝐞𝐫𝐬𝐞𝐚𝐮",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435034100879851732",
+    "name": "💻・Ordinateurs",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435618565846995024",
+    "name": "⚠️Suspendu⚠️",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1436385336438816810",
+    "name": "Mini Anti Casseurs",
+    "color": 4849664,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434316629558169781",
+    "name": "🛡・𝐒𝐭𝐚𝐟𝐟 𝐌𝐚𝐲𝐨𝐫𝐤 𝐑𝐏",
+    "color": 11342935,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434307886929940610",
+    "name": "🪖・𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐥𝐞 𝐇𝐞𝐥𝐩𝐞𝐮𝐫",
+    "color": 2067276,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2252899797279830"
+  },
+  {
+    "id": "1435031725569736836",
+    "name": "👦・Garçon",
+    "color": 3447003,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434317517937180752",
+    "name": "👑・𝗔𝗰𝗰𝗲𝘀 𝗕𝘂𝗿𝗲𝗮𝘂 ℤ𝔼𝔻ℝ𝕆𝕏",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1436429213916860426",
+    "name": "❄️ •  𝗔𝗰𝗰𝗲𝘀 𝗕𝘂𝗿𝗲𝗮𝘂 シャドᴡ",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1435034308791501002",
+    "name": "🎮・PlayStation",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1434307972401463398",
+    "name": "🔎・𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐥𝐞 𝐂𝐡𝐞𝐫𝐜𝐡𝐞𝐮𝐫𝐬 𝐝𝐞 𝐜𝐚𝐬𝐬𝐞𝐮𝐫",
+    "color": 7419530,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "2252899797181526"
+  },
+  {
+    "id": "1434302237852565719",
+    "name": "ღ🌸~͓̽ǤŁa̠̠ĐØS~🌸ღ",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1759218604441599"
+  },
+  {
+    "id": "1435618233703989333",
+    "name": "1・Warn⚠️",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  }
+]

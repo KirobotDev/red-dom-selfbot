@@ -1,0 +1,546 @@
+{
+  "id": "1769963581145",
+  "name": "k0ff Staff",
+  "iconURL": "https://cdn.discordapp.com/icons/1467156576350769184/323da3a1ca1b71aa60724fbc87b84770.png?size=4096",
+  "createdAt": "2026-02-01T16:33:01.146Z",
+  "emojis": [],
+  "roles": [
+    {
+      "id": "1467157662977233153",
+      "name": "──── ⋆⋅Proprietaire / Dev / Bots⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 17,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769191",
+      "name": "〃k0ff",
+      "color": 1446154,
+      "hoist": true,
+      "position": 16,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769189",
+      "name": "〃Astro",
+      "color": 4078652,
+      "hoist": true,
+      "position": 15,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467157712671473907",
+      "name": "〃Crown",
+      "color": 4407617,
+      "hoist": false,
+      "position": 14,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467157809627136051",
+      "name": "──── ⋆⋅PERM I⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 13,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769190",
+      "name": "〃PA",
+      "color": 0,
+      "hoist": false,
+      "position": 12,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1467157852211773553",
+      "name": "──── ⋆⋅PERM II⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 11,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769188",
+      "name": "〃Admin [0/2]",
+      "color": 5708234,
+      "hoist": true,
+      "position": 10,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467157905026449609",
+      "name": "──── ⋆⋅PERM III⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 9,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769187",
+      "name": "〃High Mod [3/4]",
+      "color": 5834504,
+      "hoist": true,
+      "position": 8,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467157938920751144",
+      "name": "──── ⋆⋅PERM IV⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 7,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769186",
+      "name": "〃Mod [5/6]",
+      "color": 5253120,
+      "hoist": true,
+      "position": 6,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467157985313689771",
+      "name": "──── ⋆⋅PERM V⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 5,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467158160820404399",
+      "name": "〃Logs",
+      "color": 13927485,
+      "hoist": false,
+      "position": 4,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467158029504872722",
+      "name": "──── ⋆⋅PERM VI⋅⋆ ────",
+      "color": 0,
+      "hoist": false,
+      "position": 3,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467156576350769185",
+      "name": "〃Gérant Cm [1/1]",
+      "color": 7640178,
+      "hoist": true,
+      "position": 2,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1467157575853412537",
+      "name": "〃CM [1/3]",
+      "color": 3577974,
+      "hoist": false,
+      "position": 1,
+      "permissions": "0",
+      "mentionable": false
+    }
+  ],
+  "channels": [
+    {
+      "id": "1467159218854301726",
+      "name": "📌・annonces-staff",
+      "type": "GUILD_TEXT",
+      "position": 0,
+      "parent": "1467156577810120797",
+      "permissionOverwrites": [
+        {
+          "id": "1467157712671473907",
+          "type": "role",
+          "allow": "8515703330569297",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "66624",
+          "deny": "8515703330502673"
+        }
+      ]
+    },
+    {
+      "id": "1467156577810120797",
+      "name": "IMPORTANT",
+      "type": "GUILD_CATEGORY",
+      "position": 1,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769187",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769186",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769188",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769185",
+          "type": "role",
+          "allow": "0",
+          "deny": "274877908992"
+        }
+      ]
+    },
+    {
+      "id": "1467156577810120798",
+      "name": "📃・rules",
+      "type": "GUILD_TEXT",
+      "position": 1,
+      "parent": "1467156577810120797",
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769187",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769186",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769188",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769185",
+          "type": "role",
+          "allow": "0",
+          "deny": "274877908992"
+        },
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "id": "1467160110429376575",
+      "name": "📈・ranks-up",
+      "type": "GUILD_NEWS",
+      "position": 2,
+      "parent": "1467156577810120797",
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769187",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769186",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769188",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769185",
+          "type": "role",
+          "allow": "0",
+          "deny": "274877908992"
+        },
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "id": "1467156577810120799",
+      "name": "PRIVE",
+      "type": "GUILD_CATEGORY",
+      "position": 3,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1467160505234886831",
+      "name": "📉・deranks",
+      "type": "GUILD_NEWS",
+      "position": 3,
+      "parent": "1467156577810120797",
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "id": "1467163674803441714",
+      "name": "📎﹕claim-roles",
+      "type": "GUILD_TEXT",
+      "position": 4,
+      "parent": "1467156577810120797",
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769187",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769186",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769188",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        },
+        {
+          "id": "1467156576350769185",
+          "type": "role",
+          "allow": "0",
+          "deny": "274877908992"
+        }
+      ]
+    },
+    {
+      "id": "1467156577810120796",
+      "name": "⚙️・own-only",
+      "type": "GUILD_TEXT",
+      "position": 5,
+      "parent": "1467156577810120799",
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "id": "1467158888854982862",
+      "name": "⚙️・admin-only",
+      "type": "GUILD_TEXT",
+      "position": 6,
+      "parent": "1467156577810120799",
+      "permissionOverwrites": [
+        {
+          "id": "1467157712671473907",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1467156576350769189",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769188",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1467156577977897024",
+      "name": "MODERATION",
+      "type": "GUILD_CATEGORY",
+      "position": 7,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1467167663062122578",
+      "name": "⚙️・mod-only",
+      "type": "GUILD_TEXT",
+      "position": 7,
+      "parent": "1467156577810120799",
+      "permissionOverwrites": [
+        {
+          "id": "1467157712671473907",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1467156576350769187",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769189",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769188",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769186",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1467167827969704093",
+      "name": "⚙️・cm-only",
+      "type": "GUILD_TEXT",
+      "position": 8,
+      "parent": "1467156577810120799",
+      "permissionOverwrites": [
+        {
+          "id": "1467157712671473907",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1467157575853412537",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769189",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1467156576350769185",
+          "type": "role",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "id": "1467156577810120800",
+      "name": "💬・général-staff",
+      "type": "GUILD_TEXT",
+      "position": 9,
+      "parent": "1467156577810120799",
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1467160747858727037",
+      "name": "❓・faire-une-suggestion",
+      "type": "GUILD_TEXT",
+      "position": 10,
+      "parent": "1467156577977897024",
+      "permissionOverwrites": [
+        {
+          "id": "1467156576350769184",
+          "type": "role",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "id": "1467160814031999286",
+      "name": "💥・bugs",
+      "type": "GUILD_TEXT",
+      "position": 11,
+      "parent": "1467156577977897024",
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1467156577977897023",
+      "name": "⏰・absences",
+      "type": "GUILD_TEXT",
+      "position": 12,
+      "parent": "1467156577977897024",
+      "permissionOverwrites": []
+    },
+    {
+      "id": "1467168302097891350",
+      "name": "🔧・cmds",
+      "type": "GUILD_TEXT",
+      "position": 13,
+      "parent": "1467156577810120799",
+      "permissionOverwrites": []
+    }
+  ],
+  "stickers": []
+}

@@ -1,0 +1,1709 @@
+[
+  {
+    "id": "1435413426926125119",
+    "name": "🌇・𝐓𝐫𝐢𝐨",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302477628477550",
+    "name": "🌙・AFK",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1049600",
+        "deny": "2097152"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1436057443984736286",
+    "name": "⚠️・𝗔𝘃𝗲𝗿𝘁𝗶𝘀𝘀𝗲𝗺𝗲𝗻𝘁𝘀",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 7,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3136"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "35904",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302398557454426",
+    "name": "—————🎤𝗩𝗢𝗖𝗔𝗨𝗫🎤—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 6,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1434314081170489436",
+    "name": "🔧・𝐂𝐡𝐚𝐭-𝐇𝐞𝐥𝐩𝐞𝐮𝐫-𝐂𝐡𝐞𝐫𝐜𝐡𝐞𝐮𝐫𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308199053525133",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      }
+    ]
+  },
+  {
+    "id": "1436666686802493451",
+    "name": "💿・𝐁𝐮𝐫𝐞𝐚𝐮 シャドᴡ",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1436429213916860426",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      }
+    ]
+  },
+  {
+    "id": "1434302391322415294",
+    "name": "—————📢𝗕𝗜𝗘𝗡𝗩𝗘𝗡𝗨𝗘📢—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 1,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1435413329861542000",
+    "name": "🌅・𝐃𝐮𝐨",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435413203671715965",
+    "name": "🏞・𝐒𝐨𝐥𝐨",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1436662879494344744",
+    "name": "📜・𝐑𝐞𝐠𝐥𝐞𝐦𝐞𝐧𝐭-𝐇𝐞𝐥𝐩𝐞𝐮𝐫-𝐂𝐡𝐞𝐫𝐜𝐡𝐞𝐮𝐫𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "1088",
+        "deny": "2048"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308199053525133",
+        "allow": "1088",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "1435014135518859355",
+    "name": "—————✉️Tickets✉️—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 8,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307596214337617",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "318312854816161792",
+        "allow": "1040",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307452320350419",
+        "allow": "68672",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435014136521162773",
+    "name": "demandes-de-tickets",
+    "type": "GUILD_TEXT",
+    "parentId": "1435014135518859355",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307596214337617",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "318312854816161792",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "68672",
+        "deny": "0"
+      },
+      {
+        "id": "1434307452320350419",
+        "allow": "68672",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434318740530397216",
+    "name": "👑・𝐁𝐮𝐫𝐞𝐚𝐮『𝐖𝐋𝐌 𝔻𝕒𝕣𝕜𝕡𝕒𝕤𝕪』",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      },
+      {
+        "id": "1434317404019884093",
+        "allow": "3148800",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434313611395989635",
+    "name": "—————🏷𝗔𝗜𝗗𝗘 𝗦𝗘𝗦𝗦𝗜𝗢𝗡🏷—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 3,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1435004077846302812",
+    "name": "💡・𝐒𝐮𝐠𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐬",
+    "type": "GUILD_FORUM",
+    "parentId": "1434302393612242964",
+    "position": 7,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3136",
+        "deny": "274878218240"
+      }
+    ]
+  },
+  {
+    "id": "1434318876459667619",
+    "name": "✨・𝐁𝐮𝐫𝐞𝐚𝐮『𝐖𝐋𝐌 ℤ𝔼𝔻ℝ𝕆𝕏』",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      },
+      {
+        "id": "1434317517937180752",
+        "allow": "3148800",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302098148687892",
+    "name": "raidprotect-logs",
+    "type": "GUILD_TEXT",
+    "parentId": null,
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "466578580449525760",
+        "allow": "3072",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434315580785164409",
+    "name": "moderator-only",
+    "type": "GUILD_TEXT",
+    "parentId": null,
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      }
+    ]
+  },
+  {
+    "id": "1434302396510638130",
+    "name": "—————📩𝗦𝗨𝗣𝗣𝗢𝗥𝗧📩—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 5,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1434318517733429248",
+    "name": "—————💼𝗕𝗨𝗥𝗘𝗔𝗨𝗫💼—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 0,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1434320581469405388",
+    "name": "📣・𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬-𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "1088",
+        "deny": "2048"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "1088",
+        "deny": "2048"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434308199053525133",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "1088",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "1437060806972805281",
+    "name": "Salon de 『𝐖𝐋𝐌 𝕝𝕟.𝕒𝕒』",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 7,
+    "permissionOverwrites": [
+      {
+        "id": "1430253876384104621",
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1048576"
+      },
+      {
+        "id": "1066770378669703168",
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1289317786459308056",
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1358749586629591070",
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1369680385293942935",
+        "allow": "1049600",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434313890744762569",
+    "name": "🖇・𝐂𝐡𝐚𝐭-𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "2048",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "3072",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302475585720525",
+    "name": "🎮・𝐆𝐚𝐦𝐢𝐧𝐠",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435019709753065523",
+    "name": "💫・𝐁𝐮𝐫𝐞𝐚𝐮 𝐕𝐞𝐫𝐬𝐞𝐚𝐮",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "1435019427329347585",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      }
+    ]
+  },
+  {
+    "id": "1434302393612242964",
+    "name": "—————🌍𝗚𝗘𝗡𝗘𝗥𝗔𝗟🌍—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 2,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1437025357260783697",
+    "name": "ticket-0008",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302396510638130",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434307596214337617",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "557628352828014614",
+        "allow": "257040",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "812819364930912266",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434307452320350419",
+        "allow": "3072",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302399660429322",
+    "name": "—————🛡𝗦𝗧𝗔𝗙𝗙🛡—————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 7,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1436056901640130602",
+    "name": "⚠️・𝗔𝘃𝗲𝗿𝘁𝗶𝘀𝘀𝗲𝗺𝗲𝗻𝘁𝘀-𝗠𝗼𝗱𝗲́𝗿𝗮𝘁𝗲𝘂𝗿𝘀",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3136"
+      }
+    ]
+  },
+  {
+    "id": "1436378665817608395",
+    "name": "📜・𝐑𝐞𝐠𝐥𝐞𝐦𝐞𝐧𝐭-𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "1088",
+        "deny": "2048"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "1088",
+        "deny": "2048"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "3072",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "1088",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "1434325451211538483",
+    "name": "🔍・𝐁𝐮𝐫𝐞𝐚𝐮 𝐂𝐡𝐞𝐫𝐜𝐡𝐞𝐮𝐫 𝐝𝐞 𝐂𝐚𝐬𝐬𝐞𝐮𝐫",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      },
+      {
+        "id": "1434308199053525133",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "3148800",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435577954791985203",
+    "name": "🫧・𝐀𝐭𝐭𝐞𝐧𝐭𝐞 𝐌𝐨𝐨𝐯",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 7,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1051648",
+        "deny": "2097152"
+      }
+    ]
+  },
+  {
+    "id": "1434325535303143565",
+    "name": "🎓・𝐁𝐮𝐫𝐞𝐚𝐮 𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫/𝐇𝐞𝐥𝐩𝐞𝐮𝐫",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "1049600",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "3148800",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302481063608370",
+    "name": "➕・Créer ton vocal",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "3214336",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435344998324244751",
+    "name": "🎀・𝐁𝐮𝐫𝐞𝐚𝐮 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐚𝐛𝐥𝐞",
+    "type": "GUILD_VOICE",
+    "parentId": "1434318517733429248",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1434307719057244161",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "2098176",
+        "deny": "1050624"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "3148800",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1436665779310432266",
+    "name": "🗞・𝐫𝐞𝐩𝐨𝐫𝐭-𝐜𝐚𝐬𝐬𝐞𝐮𝐫𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302399660429322",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434307972401463398",
+        "allow": "35840",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434308199053525133",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "35904",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "3072"
+      }
+    ]
+  },
+  {
+    "id": "1436056265989296158",
+    "name": "💡・𝐒𝐮𝐠𝐠𝐞𝐬𝐭𝐢𝐨𝐧𝐬-𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐮𝐫",
+    "type": "GUILD_FORUM",
+    "parentId": "1434302399660429322",
+    "position": 8,
+    "permissionOverwrites": [
+      {
+        "id": "1434308070632198246",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434308132884185274",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434307886929940610",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "0",
+        "deny": "19520"
+      },
+      {
+        "id": "1434308199053525133",
+        "allow": "3136",
+        "deny": "0"
+      },
+      {
+        "id": "1434308244519518350",
+        "allow": "1088",
+        "deny": "0"
+      },
+      {
+        "id": "1434307719057244161",
+        "allow": "3136",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434314194802442320",
+    "name": "————⛔𝗟𝗜𝗦𝗧𝗘 𝗗𝗘𝗦 𝗖𝗔𝗦𝗦𝗘𝗨𝗥𝗦⛔————",
+    "type": "GUILD_CATEGORY",
+    "parentId": null,
+    "position": 4,
+    "permissionOverwrites": []
+  },
+  {
+    "id": "1437116442305630430",
+    "name": "🏙️・Squad",
+    "type": "GUILD_VOICE",
+    "parentId": "1434302398557454426",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "3148800",
+        "deny": "0"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1437060189839818762",
+    "name": "🔢・𝐂𝐨𝐦𝐩𝐭𝐞𝐮𝐫",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "328769",
+        "deny": "4012103702870032"
+      }
+    ]
+  },
+  {
+    "id": "1435007438725316741",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐒",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 18,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434314293045756124",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐁",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "377957173312"
+      }
+    ]
+  },
+  {
+    "id": "1435412521900183623",
+    "name": "🎦・𝐕𝐨𝐬-𝐒𝐭𝐫𝐞𝐚𝐦𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "347201",
+        "deny": "4011966263898128"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434317724292612116",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐅",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434313736423997450",
+    "name": "✅・𝐀𝐝𝐦𝐢𝐧-𝐂𝐨𝐧𝐬𝐞𝐢𝐥𝐥é",
+    "type": "GUILD_TEXT",
+    "parentId": "1434313611395989635",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "328769",
+        "deny": "4012103702870032"
+      }
+    ]
+  },
+  {
+    "id": "1435006966777774090",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐋",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 11,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435005852758053125",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐆",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 6,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007187117408350",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐎",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 14,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434314309399351418",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐂",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "377957173312"
+      }
+    ]
+  },
+  {
+    "id": "1434302420069908652",
+    "name": "🎭・𝐑𝐨𝐥𝐞𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302391322415294",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "1406989102955368611",
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "everyone",
+        "allow": "66561",
+        "deny": "4012103703132240"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      },
+      {
+        "id": "1434316629558169781",
+        "allow": "1024",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434317675336568863",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐃",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "377957173312"
+      }
+    ]
+  },
+  {
+    "id": "1435007310874284197",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐐",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 16,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1436384220506230874",
+    "name": "🗃️・𝐂𝐚𝐫𝐚𝐜𝐭𝐞𝐫𝐞𝐬-𝐒𝐩𝐞𝐜𝐢𝐚𝐮𝐱",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 26,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "34880"
+      }
+    ]
+  },
+  {
+    "id": "1434302422293151884",
+    "name": "📊・𝐒𝐨𝐧𝐝𝐚𝐠𝐞𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302391322415294",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "377957173312"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435007918964473876",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐙",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 25,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007752157138984",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐖",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 22,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007131353878598",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐍",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 13,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007389266087957",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐑",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 17,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007498330570802",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐓",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 19,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435006662741069985",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐈",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 8,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434302433802195116",
+    "name": "💬・𝐂𝐡𝐚𝐭",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "330817",
+        "deny": "4011966263914512"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435007596414111926",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐕",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 21,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434307133742121232",
+    "name": "🚫・𝐑𝐞𝐩𝐨𝐫𝐭-𝐌𝐨𝐝𝐨",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302396510638130",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1088",
+        "deny": "377957173248"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435007544266461306",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐔",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 20,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007244768121004",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐏",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 15,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434313695185473670",
+    "name": "📖・𝐀𝐢𝐝𝐞-𝐒𝐞𝐬𝐬𝐢𝐨𝐧",
+    "type": "GUILD_TEXT",
+    "parentId": "1434313611395989635",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "330817",
+        "deny": "4012103702867984"
+      }
+    ]
+  },
+  {
+    "id": "1434314271444963399",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐀",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "263169",
+        "deny": "516201564240"
+      }
+    ]
+  },
+  {
+    "id": "1435412687629582387",
+    "name": "⚔️・𝐃𝐞𝐯𝐞𝐧𝐢𝐫-𝐀𝐂-𝐞𝐧-𝐌𝐚𝐲𝐨𝐫𝐤",
+    "type": "GUILD_TEXT",
+    "parentId": "1434313611395989635",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "328769",
+        "deny": "4012103702870032"
+      }
+    ]
+  },
+  {
+    "id": "1434302413082202315",
+    "name": "📋・𝐑𝐞𝐠𝐥𝐞𝐦𝐞𝐧𝐭",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302391322415294",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1088",
+        "deny": "377957173248"
+      }
+    ]
+  },
+  {
+    "id": "1434302442597777608",
+    "name": "🏆・𝐍𝐢𝐯𝐞𝐚𝐮𝐱",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "66561",
+        "deny": "4012103703132240"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302463329959937",
+    "name": "🎟️・𝐓𝐢𝐜𝐤𝐞𝐭",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302396510638130",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1088",
+        "deny": "377957173248"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302417154871397",
+    "name": "✈️・𝐀𝐫𝐫𝐢𝐯𝐞𝐞𝐬-𝐃𝐞𝐩𝐚𝐫𝐭𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302391322415294",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "377957173312"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434302415389069405",
+    "name": "📣・𝐀𝐧𝐧𝐨𝐧𝐜𝐞𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302391322415294",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1088",
+        "deny": "377957173248"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434317695972544633",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐄",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 4,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "378762479696"
+      }
+    ]
+  },
+  {
+    "id": "1434302436058595329",
+    "name": "📷・𝐌𝐞𝐝𝐢𝐚𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 1,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "363585",
+        "deny": "4012103702835216"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435412434918707272",
+    "name": "📈・𝐕𝐨𝐬-𝐒𝐭𝐚𝐭𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 5,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "330817",
+        "deny": "4011966263914512"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1434322781260218461",
+    "name": "📝・𝐇𝐢𝐞𝐫𝐚𝐫𝐜𝐡𝐢𝐞",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302391322415294",
+    "position": 3,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1024",
+        "deny": "377957173312"
+      }
+    ]
+  },
+  {
+    "id": "1435006597171511447",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐇",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 7,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007047157551255",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐌",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 12,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434302440907477011",
+    "name": "👾・𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302393612242964",
+    "position": 2,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "2147552257",
+        "deny": "4012101555646544"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "68608",
+        "deny": "0"
+      },
+      {
+        "id": "491769129318088714",
+        "allow": "805309457",
+        "deny": "0"
+      },
+      {
+        "id": "318312854816161792",
+        "allow": "805309457",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435007812781604985",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐗",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 23,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435007866905034872",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐘",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 24,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1434302461065166981",
+    "name": "📝・𝐓𝐢𝐜𝐤𝐞𝐭-𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞",
+    "type": "GUILD_TEXT",
+    "parentId": "1434302396510638130",
+    "position": 0,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1088",
+        "deny": "377957173248"
+      },
+      {
+        "id": "1434302405998022686",
+        "allow": "66560",
+        "deny": "0"
+      }
+    ]
+  },
+  {
+    "id": "1435006898578391040",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐊",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 10,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  },
+  {
+    "id": "1435006787681255606",
+    "name": "🗃️・𝐏𝐬𝐞𝐮𝐝𝐨-𝐞𝐧-𝐉",
+    "type": "GUILD_TEXT",
+    "parentId": "1434314194802442320",
+    "position": 9,
+    "permissionOverwrites": [
+      {
+        "id": "everyone",
+        "allow": "1025",
+        "deny": "805308432"
+      }
+    ]
+  }
+]

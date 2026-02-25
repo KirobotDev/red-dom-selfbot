@@ -1,0 +1,12 @@
+module.exports = {
+    name: "bots",
+    run: async (client, message, args) => {
+    	await message.delete();
+        let guild = args[0] ? client.guilds.cache.get(args[0]) : message.guild;
+        if (!guild) return message.channel.send("Serveur introuvable ou inaccessible.");
+            await guild.members.fetch();
+
+            const bots = guild.members.cache.filter(m => m.user.bot).size;
+        message.channel.send(`Le serveur **${guild.name}** possède **${bots}** bots.`);
+    },
+};

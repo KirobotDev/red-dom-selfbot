@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1431704834050101458",
+    "content": "> # <:rose:565972586865885186>  __Vous avez ce type de bug__ ? <:solve_SakuraKnife:1389604062080663643> \n\n> <:solve_arrow:1163493428810760253>  Ouvrez la console (F10 ou F9), et taper \"mat_specular 0\", ça va résoudre le bug ! <:solve_22:1250488230432735232>",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1431704833546653847",
+        "name": "WiblQwP.png",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1431704833546653847/WiblQwP.png?ex=68ffb408&is=68fe6288&hm=b36f23f5d10f3806063e434d8238e72f088ac7d75525473358dfa4d6f6bc2e07&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1761415432227
+  },
+  {
+    "id": "1406478389237387285",
+    "content": "> # <:warning9:1136705748605354137>﻿ __Bug  graphique ressemblant à ce screen ?__ <a:solve_FacePalm112:1345396281673121872> \n> ﻿<:solve_arrow:1163493428810760253>﻿  Pour réglez le problème, mettez le paramètre **Détail du Modèle** en \"Elevée\" ! <:solve_22:1250488230432735232>",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1406478388407046206",
+        "name": "L3Hi99R.png",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1406478388407046206/L3Hi99R.png?ex=68ff8e52&is=68fe3cd2&hm=aa442f5035642530eb4ae74354be0bbaa9ea6eab558d59652729a25e92d05ba6&"
+      },
+      {
+        "id": "1406478389094645860",
+        "name": "ELwga32.png",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1406478389094645860/ELwga32.png?ex=68ff8e53&is=68fe3cd3&hm=adb25f84f676def4ea35fd72d3e5f03512c53363fa29b9fef3227876b1437bb8&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1755400979099
+  },
+  {
+    "id": "1393349900082876528",
+    "content": "> # <a:solve_arrow_bl:1371120313760223353> AUGMENTER LA DISTANCE DE LA CAMÉRA\n\n> <:solve_arrow:1163493428810760253> Depuis quelques jours, il vous est possible d'**augmenter la distance d'affichage de la __caméra__ en jeu** ! <a:solve_verifiedblueanimated:1389618646120271892> \n\nPour ce faire, rien de plus simple :\n\n> - Ouvrez le **menu F10 **\n> - Rentrez la commande : \"**solve_camera_distance**\" puis une valeur comprise entre 0.9 (distance de base) et 1.5 (distance maximale) \n\n> Par exemple, si vous souhaitez la distance max, il faudra écrire \"**solve_camera_distance 1.5**\" dans le menu F10\n\nBon jeu ! <a:solve_Ez_56x56:1278696711044464660> \n\n||@here||",
+    "username": "raymaninho",
+    "avatar": "https://cdn.discordapp.com/avatars/306427320896454656/4c5e53979647c710435355692866b5f5.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1393349898832838666",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1393349898832838666/image.png?ex=68ff4177&is=68fdeff7&hm=16cc7d64dc13dcaac34584caaf24be493208319db00455758c0967f1c3692ba5&"
+      },
+      {
+        "id": "1393349899558457344",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1393349899558457344/image.png?ex=68ff4177&is=68fdeff7&hm=f11b07d84179fbe9215db33606d1f251601ea34098f3082f1af3ee38dbf8c1f4&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1752270903369
+  },
+  {
+    "id": "1386381661394043051",
+    "content": "> # <:warning9:1136705748605354137> __Erreur 402__ sur le Hub De Connexion ? <a:explodinghead:1336428771342815232>   \n> <:solve_arrow:1163493428810760253>  Il vous suffit de vous **déconnecter & reconnecter à __Discord__ sur le Site** pour résoudre le problème ! <a:Valid:973376749683507270>",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1386381661180137492",
+        "name": "UegUxVe.png",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1386381661180137492/UegUxVe.png?ex=68ff9d09&is=68fe4b89&hm=5168a32c2aaac21fe7a6d6f9e5cd298806e76c6d1692f0b2c7cfb592f25333d1&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1750609545802
+  },
+  {
+    "id": "1384958344456048721",
+    "content": "> # ⚙️  Guide des __Touches__ & __Commandes Importantes__ :\n\n> ## <:solve_arrow:1163493428810760253>  Touches de Base (Modifiable depuis le Menu `Echap > Settings` )  : \n\n> • Inventaire : `I`\n> • Vue : `F1`\n> • Boutique : `F2`\n> • Arbre de compétences : `F4`\n> • Menu des Jutsus : `B`\n> • Switch Deck : `N`\n> • Roue d'Animations : `G`\n> • Mode Cinématique : `F7`\n> • Se présenter : `F6`\n> • Activer/Désactiver la marche sur l'eau : `T`\n> • Menu des Missives : `K`\n> • Menu de Squad : `F9`\n> • Menu OST : `F8`\n\n> ## <:solve_arrow:1163493428810760253>  Commandes __Console Importantes__ (Ouvrir la console avec `F10` )  :\n\n> `solve_perf` : Affichage speed, FPS & ping\n> `solve_camera_distance` : Permet de changer la distance entre le joueur et la caméra en mode Combat\n> `solve_naruto_set_hud_scale` : Scale l'hud en bas à gauche et squad (Scale allant de 0.5 à 2, valeur de base : 1.2)\n> `solve_naruto_set_combat_hud_scale` : Scale le deck (Scale allant de 0.5 à 2, valeur de base : 1)",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750270200600
+  },
+  {
+    "id": "1384220654974402580",
+    "content": "> # <a:Fear_56x56:1278696783031173201>  Problème de __bug d'animation__ T-Pose ?! Voici la solution :  <a:Valid:973376749683507270>\n> \n> <:Youtube:1207920506188075048>  <:solve_arrow:1163493428810760253>  https://www.youtube.com/watch?v=dSI0Qgdin2w",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [
+      {
+        "title": "Solve - Fix le bug des animations",
+        "type": "rich",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=dSI0Qgdin2w",
+        "timestamp": null,
+        "color": 16711680,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/dSI0Qgdin2w/maxresdefault.jpg",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/fubyKtNpDHZwDMbw3iZePpGFD-MLg-r3VX1Qfpcx68M/https/i.ytimg.com/vi/dSI0Qgdin2w/maxresdefault.jpg",
+          "height": 720,
+          "width": 1280
+        },
+        "image": null,
+        "author": {
+          "name": "Solve Community",
+          "url": "https://www.youtube.com/channel/UCToJ3FOhf-e94R3SbsD5xFg"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1750094321722
+  },
+  {
+    "id": "1381880832452722719",
+    "content": "> # <:solve_16:1250488099079983104>  Petit PC ou peu de FPS ? Essayez __[Lossless Scaling ](https://store.steampowered.com/app/993090/Lossless_Scaling/)__ ! <a:Valid:973376749683507270>",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [
+      {
+        "title": "Lossless Scaling",
+        "type": "rich",
+        "description": "Lossless Scaling allows you to scale windowed games to full screen using the state\\-of\\-the\\-art scaling algorithms, as well as use ML based proprietary scaling and frame generation\\.\n**Frame generation options\\:**\n* LSFG\n\n**Scaling options\\:**…",
+        "url": "https://store.steampowered.com/app/993090/Lossless_Scaling/)__",
+        "timestamp": null,
+        "color": null,
+        "fields": [
+          {
+            "name": "Price",
+            "value": "$6.99",
+            "inline": true
+          },
+          {
+            "name": "Recommendations",
+            "value": "24371",
+            "inline": true
+          }
+        ],
+        "thumbnail": {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg?t=1743249985",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/la2fz4mx4dod8ekOlVTxzOzT9QMbrigrTgKx3yapibo/%3Ft%3D1743249985/https/shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg",
+          "height": 215,
+          "width": 460
+        },
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1749536464561
+  },
+  {
+    "id": "1381880195341877348",
+    "content": "> # 💭 Pour une meilleure expérience de jeu, il est fortement conseillé d'activer le mode `Chromium x86-64` ! <:solve_23:1250488252880785569>",
+    "username": "geams",
+    "avatar": "https://cdn.discordapp.com/avatars/270202063223390209/95731bd4d3f19d4e1381d3a484450268.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1381880194951811092",
+        "name": "7B7QmJK.gif",
+        "url": "https://cdn.discordapp.com/attachments/1381878987034329109/1381880194951811092/7B7QmJK.gif?ex=68ffb778&is=68fe65f8&hm=6aca94880b15e5d996283568a3e41b4cc00e55c64162931f1a4639fb4afdba7c&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1749536312662
+  }
+]

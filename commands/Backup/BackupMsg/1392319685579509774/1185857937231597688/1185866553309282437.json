@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1203720046078197760",
+    "content": "",
+    "username": "Ticket Tool",
+    "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/dd89587457ef9f971d331426cad9e2be.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "To create a ticket react with 📩",
+        "url": null,
+        "timestamp": null,
+        "color": 3706428,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Plainte"
+        },
+        "footer": {
+          "text": "TicketTool.xyz - Ticketing without clutter",
+          "icon_url": "https://tickettool.xyz/images/footer.png"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1707059623022
+  },
+  {
+    "id": "1203719734919696454",
+    "content": "",
+    "username": "Ticket Tool",
+    "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/dd89587457ef9f971d331426cad9e2be.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "To create a ticket react with 📩",
+        "url": null,
+        "timestamp": null,
+        "color": 3706428,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Recrutement"
+        },
+        "footer": {
+          "text": "TicketTool.xyz - Ticketing without clutter",
+          "icon_url": "https://tickettool.xyz/images/footer.png"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1707059548836
+  }
+]

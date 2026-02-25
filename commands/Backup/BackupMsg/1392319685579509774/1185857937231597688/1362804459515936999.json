@@ -1,0 +1,89 @@
+[
+  {
+    "id": "1363529480735559780",
+    "content": "🏆 The winner is <@680115941027217558>, you won the **Lot 3**.",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1745161161360
+  },
+  {
+    "id": "1362806651991884068",
+    "content": "<@&1359472672773505165>",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744988825558
+  },
+  {
+    "id": "1362804719206273396",
+    "content": "Lot 3",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1362804718971129866",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1362804459515936999/1362804718971129866/image.png?ex=6940224c&is=693ed0cc&hm=3f6d9f3dcd08ea051d58eabba6b9ff62fc666a63af7faf6400581ca2e3b4d118&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1744988364746
+  },
+  {
+    "id": "1362804702726590484",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": "Lot 3",
+        "type": "rich",
+        "description": "<:dot:834850709487878184> Hosted by <@640980898438709308>\n<:dot:834850709487878184> Ended at: <t:1745161161:f> (<t:1745161161:R>)\n<:dot:834850709487878184> Winners: **1**\n\n<:dot:834850709487878184> Participants: **18**\n\n⏰ This giveaway has now ended, the list of winners can be found [here](https://discord.com/channels/1185857937231597688/1362804459515936999/1363529480735559780).",
+        "url": null,
+        "timestamp": null,
+        "color": 54491,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744988360817
+  },
+  {
+    "id": "1362804701229355170",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "You successfully created the giveaway in the <#1362804459515936999> channel.",
+        "url": null,
+        "timestamp": null,
+        "color": 316023,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Success",
+          "icon_url": "https://cdn.discordapp.com/attachments/737046647476846673/825811629622951936/tick.png?ex=69405f83&is=693f0e03&hm=f8eab911af9995f666d0b38d45835dca5b89c3fa83ab01c505fdcdc3ecb413ca&"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744988360460
+  }
+]

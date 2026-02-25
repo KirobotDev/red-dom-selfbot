@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1413252705702641756",
+    "name": "∫ 『 Staffs Skye City』",
+    "color": 2383624,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1415449546280144927",
+    "name": "∫『 Accès Bureaux 』",
+    "color": 15844367,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1439668814420639894",
+    "name": "@/@",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1422099756179525652",
+    "name": "∫ 『 Code Smizox 』",
+    "color": 2123412,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413252613599789056",
+    "name": "∫ 『 Gérant』",
+    "color": 1013445,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1439667941472993483",
+    "name": "๖̶ζ͜͡Protect",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1759218604441599"
+  },
+  {
+    "id": "1413238951065423957",
+    "name": "∫ InviteLogger",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "268496121"
+  },
+  {
+    "id": "1413233661230317690",
+    "name": "∫  『 Boosters』",
+    "color": 16735702,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1113399441739329"
+  },
+  {
+    "id": "1446265378937507903",
+    "name": "∫ 『 Soutien 』",
+    "color": 10382335,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1419563191612084326",
+    "name": "∫ 『 Modérateurs-test』",
+    "color": 9032447,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1099645854848"
+  },
+  {
+    "id": "1414208087241265152",
+    "name": "∫ 『 Admins Conseillés Skye City』",
+    "color": 11160585,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1430935039587258608",
+    "name": "∫ 『 Staff Skye City Suspendu 』",
+    "color": 11606040,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413631497776271450",
+    "name": "∫ 『 Co-Fondateur』",
+    "color": 5345011,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1413235464273399831",
+    "name": "∫ Xenon",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1442258009630965781",
+    "name": "∫ 『 Warn Staff 1 』",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1414202555386298368",
+    "name": "@",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1413240198753419429",
+    "name": "∫ DraftBot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "1153784935345407"
+  },
+  {
+    "id": "1414201399788572674",
+    "name": "∫ Nova RP Protect",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1445491503999881267",
+    "name": "∫ 『 Staffs Intérimaire Skye City』",
+    "color": 2383624,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1442258116442984609",
+    "name": "∫ 『 Warn Staff 3 』",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413253474191409262",
+    "name": "∫『 Gérant Admins Conseillés』",
+    "color": 15624459,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1426870990507474964",
+    "name": "∫ 『 Streameurs』",
+    "color": 12456723,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413246979940548729",
+    "name": "∫ Emoji.gg Bot",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8936753581056"
+  },
+  {
+    "id": "1413237275277525192",
+    "name": "∫ 『 Fondateurs』",
+    "color": 12767514,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413237662097080534",
+    "name": "∫ Mes p'tit bbou",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1413252659493998693",
+    "name": "∫ 『 Super Staff Skye City』",
+    "color": 12478235,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413246661819498637",
+    "name": "∫ 『 Joueurs』",
+    "color": 10192486,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "137439215616"
+  },
+  {
+    "id": "1413625980534390916",
+    "name": "∫ 『 Amis 』",
+    "color": 16437516,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413253394285461514",
+    "name": "∫ 『 Modérateurs』",
+    "color": 611284,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "1116825723906"
+  },
+  {
+    "id": "1420495064534351882",
+    "name": "∫ 『 Développeur』",
+    "color": 3447003,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1442258065725460661",
+    "name": "∫ 『 Warn Staff 2 』",
+    "color": 16711680,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "0"
+  },
+  {
+    "id": "1413235465007534244",
+    "name": "∫ Xenon",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1413539804892889239",
+    "name": "∫ Skye City RP",
+    "color": 0,
+    "hoist": true,
+    "mentionable": false,
+    "permissions": "8"
+  },
+  {
+    "id": "1413253179847610411",
+    "name": "∫ Ticket Tool",
+    "color": 0,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "2416045072"
+  }
+]

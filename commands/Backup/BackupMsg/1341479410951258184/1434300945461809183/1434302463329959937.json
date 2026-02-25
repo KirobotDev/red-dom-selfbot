@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1435370736775725198",
+    "content": "# Pour report un/des casseurs, il nous faut:\n\n•Pseudo du/des joueur\n•Preuve:enregistrement d’écran. (Obligatoire).\n•Commentaires(facultatif)",
+    "username": "jules_.csr",
+    "avatar": "https://cdn.discordapp.com/avatars/984159943898853376/6872f694fb8d3c811d479652bf3c74bb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762289451546
+  },
+  {
+    "id": "1435370700448989239",
+    "content": "# Avant d’ouvrir un ticket:\n<a:war:1411006440348581918> •Ce ticket sert simplement à report un/des casseur(s). (Preuve obligatoire)<a:war:1411006440348581918>",
+    "username": "jules_.csr",
+    "avatar": "https://cdn.discordapp.com/avatars/984159943898853376/6872f694fb8d3c811d479652bf3c74bb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762289442885
+  },
+  {
+    "id": "1435014283242246195",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Ouvrez un ticket !",
+        "type": "rich",
+        "description": "Vous pouvez ouvrir votre ticket à l'aide du bouton ci-dessous !",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762204466401
+  }
+]

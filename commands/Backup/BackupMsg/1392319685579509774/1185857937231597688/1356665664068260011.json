@@ -1,0 +1,546 @@
+[
+  {
+    "id": "1363546873939497233",
+    "content": "Tu as jusqu'à 19h pour open un ticket",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1745165308223
+  },
+  {
+    "id": "1363526862193823936",
+    "content": "🏆 The winner is <@456226577798135808>, you won the **Lot 1**.",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1745160537051
+  },
+  {
+    "id": "1362802541196349582",
+    "content": "<@&1359472672773505165>",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744987845468
+  },
+  {
+    "id": "1362802496556240958",
+    "content": "Lot 1",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1362802494693969980",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1356665664068260011/1362802494693969980/image.png?ex=6940203a&is=693eceba&hm=1ffe61d2bc882ae25a4efc71647f7e5b19919624143062848091d012678690e6&"
+      },
+      {
+        "id": "1362802495180636463",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1356665664068260011/1362802495180636463/image.png?ex=6940203a&is=693eceba&hm=e2598ee4a1d9f9aa8b812aa6977aad40830a3feef7e4a7324a682c004c39331d&"
+      },
+      {
+        "id": "1362802495596003601",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1356665664068260011/1362802495596003601/image.png?ex=6940203a&is=693eceba&hm=964dc02b33a8bcc196c1f8a3ac4e476e2423633f9531be52625cf1d0513671b2&"
+      },
+      {
+        "id": "1362802495923028311",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1356665664068260011/1362802495923028311/image.png?ex=6940203a&is=693eceba&hm=45cb850bf7ff8bd11a4ffc300f7a2ff0102e2dbd8f1e3dc349c3c8e8de967910&"
+      },
+      {
+        "id": "1362802496262897865",
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1356665664068260011/1362802496262897865/image.png?ex=6940203a&is=693eceba&hm=6eaf9cb02cc62e4ad1bb5c98ea25f68034f144b3ed731b8d136c04968f5961c7&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1744987834825
+  },
+  {
+    "id": "1362802084541501532",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": "Lot 1",
+        "type": "rich",
+        "description": "<:dot:834850709487878184> Hosted by <@640980898438709308>\n<:dot:834850709487878184> Ended at: <t:1745160537:f> (<t:1745160537:R>)\n<:dot:834850709487878184> Winners: **1**\n\n<:dot:834850709487878184> Participants: **14**\n\n**Roles with bonus entries:**\n<:dot:834850709487878184> <@&1185872909856686141> • 5 bonus entries\n<:dot:834850709487878184> <@&1356365974659403856> • 5 bonus entries\n<:dot:834850709487878184> <@&1185959979736375369> • 4 bonus entries\n<:dot:834850709487878184> <@&1185960058270527498> • 3 bonus entries\n<:dot:834850709487878184> <@&1185960114243510394> • 2 bonus entries\n\n⏰ This giveaway has now ended, the list of winners can be found [here](https://discord.com/channels/1185857937231597688/1356665664068260011/1363526862193823936).",
+        "url": null,
+        "timestamp": null,
+        "color": 54491,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744987736593
+  },
+  {
+    "id": "1362802083429880075",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "You successfully created the giveaway in the <#1356665664068260011> channel.",
+        "url": null,
+        "timestamp": null,
+        "color": 316023,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Success",
+          "icon_url": "https://cdn.discordapp.com/attachments/737046647476846673/825811629622951936/tick.png?ex=69405f83&is=693f0e03&hm=f8eab911af9995f666d0b38d45835dca5b89c3fa83ab01c505fdcdc3ecb413ca&"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744987736328
+  },
+  {
+    "id": "1362665302172893204",
+    "content": "Joue a lyno pour commencer",
+    "username": "blm6i",
+    "avatar": "https://cdn.discordapp.com/avatars/507984035679567886/dbddc4876b671d23b3f559c25f43d849.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744955125135
+  },
+  {
+    "id": "1362376839334592562",
+    "content": "Restez actifs",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744886350235
+  },
+  {
+    "id": "1362376796594765944",
+    "content": "Je vais faire ça alors",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744886340045
+  },
+  {
+    "id": "1362040045447680130",
+    "content": "Vous voulez un giveaway lyno?",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744806052315
+  },
+  {
+    "id": "1360343397810049164",
+    "content": "Gg <@1192431761737654374> ta 1h pour claim ta reward",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744401539996
+  },
+  {
+    "id": "1360343317723877396",
+    "content": "LETS GOOOO",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744401520902
+  },
+  {
+    "id": "1360343286476443840",
+    "content": "🏆 The winner is <@1192431761737654374>, you won the **Tous les atouts (Lyno)**.",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744401513452
+  },
+  {
+    "id": "1360343284106395758",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "You successfully re-rolled the giveaway with the provided ID (`1358836534651912192`).",
+        "url": null,
+        "timestamp": null,
+        "color": 316023,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Success",
+          "icon_url": "https://cdn.discordapp.com/attachments/737046647476846673/825811629622951936/tick.png?ex=69405f83&is=693f0e03&hm=f8eab911af9995f666d0b38d45835dca5b89c3fa83ab01c505fdcdc3ecb413ca&"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744401512887
+  },
+  {
+    "id": "1360342984499003410",
+    "content": "Pas de reponse je reroml",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744401441455
+  },
+  {
+    "id": "1360286746314539069",
+    "content": "Gg a toi, je t'invite a mp <@456226577798135808>",
+    "username": "V1 • ClavierRapace19",
+    "avatar": "https://cdn.discordapp.com/avatars/640980898438709308/e78197424c2e1f0d07f7fb0d7b4bd8eb.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744388033227
+  },
+  {
+    "id": "1360286088291418312",
+    "content": "🏆 The winner is <@945854346275454987>, you won the **Tous les atouts (Lyno)**.",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744387876342
+  },
+  {
+    "id": "1358839702450471086",
+    "content": "@everyone <@640980898438709308> c tromper c un triso",
+    "username": "xswetosontop",
+    "avatar": "https://cdn.discordapp.com/avatars/1288869178136068190/07c558f328039c10fa25be6c08d39549.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744043031085
+  },
+  {
+    "id": "1358839642669056200",
+    "content": "https://www.youtube.com/watch?v=4kjmsM-SIxk",
+    "username": "xswetosontop",
+    "avatar": "https://cdn.discordapp.com/avatars/1288869178136068190/07c558f328039c10fa25be6c08d39549.webp",
+    "embeds": [
+      {
+        "title": "💛 On DROP tout le SERVEUR / BIG TF / TRAPS  dans les AP de LYNO ...",
+        "type": "rich",
+        "description": "Salut à tous, c'est Wasdou !\n\n00:00 Intro\n01:27 1vs1 WarZone\n04:14 TF 4vs4 dans un trou AP\n06:50 Masse kills dans les AP\n\nServeur: lynokitmap.com\nMon discord: discord.gg/pactifyshop \n\n-------------------------------------------------------------------------------------------\nTag ( Pour le référencement ) : / modée / enderfight / Vanadia  / p...",
+        "url": "https://www.youtube.com/watch?v=4kjmsM-SIxk",
+        "timestamp": null,
+        "color": 16711680,
+        "fields": [],
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/4kjmsM-SIxk/maxresdefault.jpg",
+          "proxyURL": "https://images-ext-1.discordapp.net/external/1dNZeNNUSNFzglRUoyKzbJtN571oQEXDBuUc4AxWh38/https/i.ytimg.com/vi/4kjmsM-SIxk/maxresdefault.jpg",
+          "height": 720,
+          "width": 1280
+        },
+        "image": null,
+        "author": {
+          "name": "Wasdou",
+          "url": "https://www.youtube.com/channel/UCpgOtIbstQ01SQ3eYFkLuvw"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744043016832
+  },
+  {
+    "id": "1358836534651912192",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": "Tous les atouts (Lyno)",
+        "type": "rich",
+        "description": "<:dot:834850709487878184> Hosted by <@640980898438709308>\n<:dot:834850709487878184> Ended at: <t:1744401513:f> (<t:1744401513:R>)\n<:dot:834850709487878184> Winners: **1**\n\n<:dot:834850709487878184> Participants: **27**\n\n⏰ This giveaway has now ended, the list of winners can be found [here](https://discord.com/channels/1185857937231597688/1356665664068260011/1360343286476443840).",
+        "url": null,
+        "timestamp": null,
+        "color": 54491,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744042275823
+  },
+  {
+    "id": "1358836533142229234",
+    "content": "",
+    "username": "Invite Tracker",
+    "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.webp",
+    "embeds": [
+      {
+        "title": null,
+        "type": "rich",
+        "description": "You successfully created the giveaway in the <#1356665664068260011> channel.",
+        "url": null,
+        "timestamp": null,
+        "color": 316023,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": {
+          "name": "Success",
+          "icon_url": "https://cdn.discordapp.com/attachments/737046647476846673/825811629622951936/tick.png?ex=69405f83&is=693f0e03&hm=f8eab911af9995f666d0b38d45835dca5b89c3fa83ab01c505fdcdc3ecb413ca&"
+        },
+        "footer": null
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1744042275463
+  },
+  {
+    "id": "1358031670426734643",
+    "content": "",
+    "username": "blm6i",
+    "avatar": "https://cdn.discordapp.com/avatars/507984035679567886/dbddc4876b671d23b3f559c25f43d849.webp",
+    "embeds": [],
+    "attachments": [
+      {
+        "id": "1358031670523068416",
+        "name": "Capture_decran_2025-04-05_125214.png",
+        "url": "https://cdn.discordapp.com/attachments/1356665664068260011/1358031670523068416/Capture_decran_2025-04-05_125214.png?ex=6940914d&is=693f3fcd&hm=1837cfc82f4c29ff03c91787f29b46ed291414b37588d6e9743e5813b5173a18&"
+      }
+    ],
+    "pinned": false,
+    "timestamp": 1743850381238
+  },
+  {
+    "id": "1357353805427118292",
+    "content": "Félicitations <@754753455226093578>, vous avez gagné **1M Lyno** ! 🎉",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743688765628
+  },
+  {
+    "id": "1357066203394478110",
+    "content": "Gg à <@692127015809187951> et à <@1108712040807272448>",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743620195960
+  },
+  {
+    "id": "1357065077118865561",
+    "content": "Félicitations <@692127015809187951>, vous avez gagné **1 frang et 64 graines** ! 🎉",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743619927435
+  },
+  {
+    "id": "1357064906662351102",
+    "content": "Félicitations <@1108712040807272448>, vous avez gagné **Lot PVP** ! 🎉",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743619886795
+  },
+  {
+    "id": "1356992059269058631",
+    "content": "@everyone",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743602518623
+  },
+  {
+    "id": "1356991635245764771",
+    "content": "Si pas de conditions no reroll",
+    "username": "blm6i",
+    "avatar": "https://cdn.discordapp.com/avatars/507984035679567886/dbddc4876b671d23b3f559c25f43d849.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743602417528
+  },
+  {
+    "id": "1356991583794364507",
+    "content": "1 Million a win condition mettre ( blm6i 🐐 ) en bio",
+    "username": "blm6i",
+    "avatar": "https://cdn.discordapp.com/avatars/507984035679567886/dbddc4876b671d23b3f559c25f43d849.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743602405261
+  },
+  {
+    "id": "1356991419281047572",
+    "content": "🎉 **GIVEAWAY TERMINÉ** 🎉",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "1M Lyno",
+        "type": "rich",
+        "description": "__Gagnant__ : **Lucas** (754753455226093578)\n\n__Récompense__ : **1M Lyno**\n\n__Participants__ : **20**\n\nLe giveaway a pris fin **<t:1743688765:R>**.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Giveaway sur aaa",
+          "icon_url": "https://cdn.discordapp.com/icons/1185857937231597688/b982a175d7c7dc024a6a37342bb82004.png?size=32"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743602366038
+  },
+  {
+    "id": "1356990134096232673",
+    "content": "15 réactions encore un nouveau lot pvp",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743602059626
+  },
+  {
+    "id": "1356989617215377438",
+    "content": "@everyone",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743601936392
+  },
+  {
+    "id": "1356989582725615636",
+    "content": "🎉 **GIVEAWAY TERMINÉ** 🎉",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "1 Frag Nocta et 1 stack de graines nocta",
+        "type": "rich",
+        "description": "__Gagnant__ : **Yanis** (692127015809187951)\n\n__Récompense__ : **1 frang et 64 graines**\n\n__Participants__ : **13**\n\nLe giveaway a pris fin **<t:1743619927:R>**.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Giveaway sur aaa",
+          "icon_url": "https://cdn.discordapp.com/icons/1185857937231597688/b982a175d7c7dc024a6a37342bb82004.png?size=32"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743601928169
+  },
+  {
+    "id": "1356989411933290507",
+    "content": "🎉 **GIVEAWAY TERMINÉ** 🎉",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Lot PVP 4 item",
+        "type": "rich",
+        "description": "__Gagnant__ : **𝙄𝙩𝙯𝙁𝙡𝙮𝙮𝙮 ッ** (1108712040807272448)\n\n__Récompense__ : **Lot PVP**\n\n__Participants__ : **12**\n\nLe giveaway a pris fin **<t:1743619886:R>**.",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Giveaway sur aaa",
+          "icon_url": "https://cdn.discordapp.com/icons/1185857937231597688/b982a175d7c7dc024a6a37342bb82004.png?size=32"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743601887449
+  },
+  {
+    "id": "1356861018403508428",
+    "content": "20 reac avant midi pour plus?",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743571276046
+  },
+  {
+    "id": "1356860827612872704",
+    "content": "# Ne manquez pas notre tout premier concours aujourd’hui à midi ! De belles surprises vous attendent.🎉🔥\n@everyone",
+    "username": "paindenier",
+    "avatar": "https://cdn.discordapp.com/avatars/1192431761737654374/d3d3b126b2c55c838f317f91d125d4ec.webp",
+    "embeds": [],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1743571230558
+  }
+]

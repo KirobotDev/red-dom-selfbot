@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1435034863634878474",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Plate-forme ?",
+        "type": "rich",
+        "description": "💻 | 💻・Ordinateurs\n🎮 | 🎮・PlayStation\n💄 | 💄・Switch\n📱 | 📱・Téléphone\n🪬 | 🪬・Xbox",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Choisissez vos rôles en interagissant avec ce message !"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762209373149
+  },
+  {
+    "id": "1435033775934279800",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Votre Âge ?",
+        "type": "rich",
+        "description": "🔞 | 🔞・Mineur\n🗿 | 🗿・Majeur",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Choisissez vos rôles en interagissant avec ce message !"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762209113821
+  },
+  {
+    "id": "1435033382051381311",
+    "content": "",
+    "username": "DraftBot",
+    "avatar": "https://cdn.discordapp.com/avatars/318312854816161792/f1d4dc93441273f3f8985a07e0bad164.webp",
+    "embeds": [
+      {
+        "title": "Sexe ?",
+        "type": "rich",
+        "description": "👦 | 👦・Garçon\n👧🏽 | 👧🏽・Fille",
+        "url": null,
+        "timestamp": null,
+        "color": 13463127,
+        "fields": [],
+        "thumbnail": null,
+        "image": null,
+        "author": null,
+        "footer": {
+          "text": "Choisissez vos rôles en interagissant avec ce message !"
+        }
+      }
+    ],
+    "attachments": [],
+    "pinned": false,
+    "timestamp": 1762209019912
+  }
+]
