@@ -2,6 +2,6 @@
 
 - Respect your friends
 
-- By C2P & Aptx
+- By OMERTA & Aptx
 
 - [C2P](https://discord.gg/NU7ZdZEXEP) [APTX](https://discord.gg/DxuCqFjpFA)
