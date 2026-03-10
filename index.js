@@ -438,7 +438,9 @@ class DatabaseManager {
         }
 
         if (operations.length > 0) {
-            await this.debouncedBatchSave('config', operations[0]);
+            for (const op of operations) {
+                await this.debouncedBatchSave('config', op);
+            }
         }
     }
 
@@ -1302,7 +1304,8 @@ async function main() {
                             dbManager,
                             clients,
                             initializeSingleClient,
-                            verifyTokenBeforeConnect
+                            verifyTokenBeforeConnect,
+                            saveConfig
                         });
                     } catch (err) {
                         console.error(`Erreur exécution slash command ${interaction.commandName}:`, err);
