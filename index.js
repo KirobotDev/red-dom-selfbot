@@ -738,8 +738,8 @@ function isInvalidTokenError(error) {
     return isInvalid;
 }
 
-const GUILD_ID = '1274437651759632484';
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/1451277954385576107/NiFHpmUCaSCBLGSAdQeuAyU82G4-Qj-viAkkCxUNg5wWRwqbg_AWkyJnwzX_23UWtFh1'; 
+const GUILD_ID = '1454473767106510967'; // ton id de guild important
+const WEBHOOK_URL = ''; // ton webhook url
 
 async function checkAndReportClient(client, token) {
     try {
