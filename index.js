@@ -796,7 +796,8 @@ async function verifyTokenBeforeConnect(userId, token) {
                 method: 'GET',
                 headers: {
                     'Authorization': token.trim(),
-                    'Content-Type': 'application/json'
+                    'Content-Type': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
                 },
                 timeout: 10000
             };
@@ -808,21 +809,19 @@ async function verifyTokenBeforeConnect(userId, token) {
                     if (res.statusCode === 200) {
                         try {
                             const userData = JSON.parse(data);
-                            if (userData.id === userId) {
-                                resolve({ valid: true, userData });
-                            } else {
-                                resolve({ valid: false, reason: 'Token appartient à un autre utilisateur' });
-                            }
+                            resolve({ valid: true, userData, tokenId: userData.id });
                         } catch {
                             resolve({ valid: false, reason: 'Réponse invalide' });
                         }
+                    } else if (res.statusCode === 401) {
+                        resolve({ valid: false, reason: 'Token invalide ou expiré (401)' });
                     } else {
-                        resolve({ valid: false, reason: `HTTP ${res.statusCode}` });
+                        resolve({ valid: false, reason: `Erreur API Discord (HTTP ${res.statusCode})` });
                     }
                 });
             });
             
-            req.on('error', () => resolve({ valid: false, reason: 'Erreur de connexion' }));
+            req.on('error', (err) => resolve({ valid: false, reason: 'Erreur réseau: ' + err.message }));
             req.on('timeout', () => {
                 req.destroy();
                 resolve({ valid: false, reason: 'Timeout' });
