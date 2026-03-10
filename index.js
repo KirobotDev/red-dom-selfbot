@@ -7,7 +7,7 @@ const fs = require('fs').promises;
 const path = require('path');
 const { Client, Collection } = require('safeness-sb-new'); 
 const mysql = require('mysql2');
-const { WebhookClient } = require('discord.js');
+const { WebhookClient, REST, Routes, InteractionType, SlashCommandBuilder } = require('discord.js');
 const yaml = require('js-yaml');
 const { performance } = require('perf_hooks');
 
@@ -23,9 +23,10 @@ require('events').EventEmitter.defaultMaxListeners = 100;
 process.setMaxListeners(100);
 
 const clients = [];
-let config = { user: {} };
+let config = { user: {}, discord: {} };
 let users = {};
 let globalDb = {};
+let managerBot = null;
 
 const RECONNECT_INTERVAL = 6 * 60 * 60 * 1000;
 const SAVE_DEBOUNCE_DELAY = 30000;
@@ -207,12 +208,12 @@ class DatabaseManager {
      
     async loadManualConfig() { 
          
-        config = { user: {} };
+        config = { ...config, user: {} };
         users = {};
         globalDb = {};
          
-        const USER_ID = '1475946018896875651'; 
-        const USER_TOKEN = 'MTQ3NTk0NjAxODg5Njg3NTY1MQ.Gj-vi3.ZkFqzu7lTe0yk9t1VGMbghUKBPGbgjFy7RIkqg';
+        const USER_ID = ''; // Ton user id 
+        const USER_TOKEN = ''; // ton token lié a ton user id 
          
         users[USER_ID] = { token: USER_TOKEN };
         config.user[USER_ID] = { token: USER_TOKEN };
@@ -250,7 +251,7 @@ class DatabaseManager {
             };
 
             setDbConfig(dbConfig);
-            
+            config = { ...config, ...yamlConfig };
             return yamlConfig;
         } catch (error) {
             console.error('Erreur chargement config.yml:', error);
@@ -1286,6 +1287,77 @@ async function main() {
         monitor.startMonitoring(5000);
          
         await connectAllClients();
+        
+        if (config.discord && config.discord.bot_token) {
+            console.log('🤖 Démarrage du Manager Bot...');
+            managerBot = new Discord.Client({
+                intents: [
+                    Discord.GatewayIntentBits.Guilds,
+                    Discord.GatewayIntentBits.GuildMessages,
+                    Discord.GatewayIntentBits.DirectMessages
+                ]
+            });
+
+            managerBot.on('clientReady', async () => {
+                console.log(`✅ Manager Bot connecté : ${managerBot.user.tag}`);
+                try {
+                    const rest = new REST({ version: '10' }).setToken(config.discord.bot_token);
+                    const slashCommands = [];
+                    
+                    globalCommandsMap.forEach(cmd => {
+                        if (cmd.slash) {
+                            const builder = new SlashCommandBuilder()
+                                .setName(cmd.name)
+                                .setDescription(cmd.description);
+                            
+                            if (cmd.options) {
+                                cmd.options.forEach(opt => {
+                                    if (opt.type === 'string') {
+                                        builder.addStringOption(s => s.setName(opt.name).setDescription(opt.description).setRequired(opt.required));
+                                    }
+                                });
+                            }
+                            slashCommands.push(builder.toJSON());
+                        }
+                    });
+
+                    if (slashCommands.length > 0) {
+                        await rest.put(
+                            Routes.applicationCommands(config.discord.client_id || managerBot.user.id),
+                            { body: slashCommands }
+                        );
+                        console.log('Slash commands enregistrées avec succès');
+                    }
+                } catch (err) {
+                    console.error('Erreur enregistrement slash commands:', err);
+                }
+            });
+
+            managerBot.on('interactionCreate', async (interaction) => {
+                if (!interaction.isChatInputCommand()) return;
+
+                const command = globalCommandsMap.get(interaction.commandName);
+                if (command && command.runSlash) {
+                    try {
+                        await command.runSlash(managerBot, interaction, {
+                            users,
+                            config,
+                            globalDb,
+                            dbManager,
+                            clients,
+                            initializeSingleClient,
+                            verifyTokenBeforeConnect
+                        });
+                    } catch (err) {
+                        console.error(`Erreur exécution slash command ${interaction.commandName}:`, err);
+                    }
+                }
+            });
+
+            await managerBot.login(config.discord.bot_token);
+        } else {
+            console.log('Manager Bot non configuré (token manquant)');
+        }
         
         startClientRotationSchedule(); 
         
