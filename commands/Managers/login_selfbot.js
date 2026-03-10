@@ -35,6 +35,7 @@ module.exports = {
             const selfbotClient = await index.initializeSingleClient(selfId, { token });
             
             if (selfbotClient) {
+                await index.saveConfig();
                 await interaction.editReply({
                     content: `✅ Connexion réussie pour le compte **${verification.userData.username}** (${selfId}) !`
                 });
