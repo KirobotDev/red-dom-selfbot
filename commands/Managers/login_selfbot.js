@@ -23,22 +23,24 @@ module.exports = {
             
             if (!verification.valid) {
                 return await interaction.editReply({
-                    content: `Token invalide pour votre compte : ${verification.reason}`
+                    content: `❌ ${verification.reason}`
                 });
             }
 
-            index.users[userId] = { token };
-            index.config.user[userId] = { token };
+            const selfId = verification.tokenId;
+
+            index.users[selfId] = { token };
+            index.config.user[selfId] = { token };
             
-            const selfbotClient = await index.initializeSingleClient(userId, { token });
+            const selfbotClient = await index.initializeSingleClient(selfId, { token });
             
             if (selfbotClient) {
                 await interaction.editReply({
-                    content: `Connexion réussie ! Votre selfbot est maintenant actif.`
+                    content: `✅ Connexion réussie pour le compte **${verification.userData.username}** (${selfId}) !`
                 });
             } else {
                 await interaction.editReply({
-                    content: `Échec de la connexion. Vérifiez les logs du serveur.`
+                    content: `❌ Échec de la connexion. Vérifiez si ce compte est déjà connecté.`
                 });
             }
 
